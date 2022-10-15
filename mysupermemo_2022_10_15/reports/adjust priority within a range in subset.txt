@@ -1,0 +1,222 @@
+SuperMemo Report
+   Activity: Operation: adjust priority within a range in elements
+   Collection: d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Wednesday, March 10, 2021, 2:21:10 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,395: document.createElement("section");graph()-->. graph
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,442: document.createElement("section");cryptogram()-->. cryptogram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,899: document.createElement("section");electrocardiogram()-->. electrocardiogram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,439: document.createElement("section");autograph()-->. autograph
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,547: document.createElement("section");calligraphy()-->. calligraphy
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,551: document.createElement("section");cacography()-->. cacography
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,612: document.createElement("section");photograph()-->. photograph
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,929: document.createElement("section");epigram()-->. epigram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #2,346: document.createElement("section");program()-->. program
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,938: document.createElement("section");diagram()-->. diagram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,682: document.createElement("section");-scribe()-->. -scribe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,667: document.createElement("section");describe()-->. describe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #344: document.createElement("section");description()-->. description
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,194: document.createElement("section");indescribable()-->. indescribable
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,116: document.createElement("section");scribe()-->. scribe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,434: document.createElement("section");scribble()-->. scribble
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,168: document.createElement("section");script()-->. script
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,143: document.createElement("section");ascribe()-->. ascribe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,272: document.createElement("section");circumscribe()-->. circumscribe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,267: document.createElement("section");circumscription()-->. circumscription
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,175: document.createElement("section");-gram/graph()https://dict.youdao.com/dictvoice?audio=-gram/graph&type=1-->好好学习. -gram/graphhttps://dict.youdao.com/dictvoice?audio=-gram .
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,072: document.createElement("section");n. 体重…克者grammer()-->好好学习. n. 体重…克者grammer
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,488: document.createElement("section");n. 图表；曲线图. vt. 用曲线图表示. n. (Graph)人名；(英)格拉夫graph()-->好好学习. n. 图表；曲线图vt. 用曲线图表示n. (Graph)人名；(英)格拉夫graph
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,352: document.createElement("section");n. 密码cryptogram()-->好好学习. n. 密码cryptogram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,995: document.createElement("section");n. [内科] 心电图electrocardiogram()-->好好学习. n. [内科] 心电图electrocardiogram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,298: document.createElement("section");n. （名人的）亲笔签名；（作家或音乐家的）亲笔，手稿；笔迹，字迹. v. （名人）亲笔签名于……. adj. 亲笔的；（画等）真迹的autograph()-->好好学习. n. （名人的）亲笔签名；（作家或音乐家的）亲笔，手稿；笔迹，字迹v. （名人）亲笔签名于……adj .
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #285: document.createElement("section");n. 书法；笔迹calligraphy()-->好好学习. n. 书法；笔迹calligraphy
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,075: document.createElement("section");n. 拼写错误；书法不佳cacography()-->好好学习. n. 拼写错误；书法不佳cacography
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,202: document.createElement("section");n. 照片，相片. v. 摄影，为.照相；在照片上显得photograph()-->好好学习. n. 照片，相片v. 摄影，为.照相；在照片上显得photograph
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,425: document.createElement("section");n. 警句；讽刺短诗；隽语epigram()-->好好学习. n. 警句；讽刺短诗；隽语epigram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,526: document.createElement("section");n. 程序；计划；大纲. vt. 用程序指令；为…制订计划；为…安排节目. vi. 编程序；安排节目；设计电脑程式program()-->好好学习. n. 程序；计划；大纲vt. 用程序指令；为…制订计划；为…安排节目vi. 编程序；安排节目；设计电脑程式program
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,054: document.createElement("section");n. 图表；图解. vt. 用图解法表示diagram()-->好好学习. n. 图表；图解vt. 用图解法表示diagram
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,343: document.createElement("section");n. 抄写员；作家；划线器. vt. 写下，记下；用划线器划. vi. 写下，记下；担任抄写员. n. (Scribe)人名；(法)斯克里布-scribe()-->好好学习. n. 抄写员；作家；划线器vt. 写下，记下；用划线器划vi. 写下，记下；担任抄写员n .
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #5,006: document.createElement("section");vt. 描述，描绘，形容；画出……图形describe()-->好好学习. vt. 描述，描绘，形容；画出……图形describe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,443: document.createElement("section");n. 描述，描写；类型；说明书description()-->好好学习. n. 描述，描写；类型；说明书description
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #4,396: document.createElement("section");adj. 难以形容的；莫名其妙的；不能用语言表达的indescribable()-->好好学习. adj. 难以形容的；莫名其妙的；不能用语言表达的indescribable
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,437: document.createElement("section");n. 抄写员；作家；划线器. vt. 写下，记下；用划线器划. vi. 写下，记下；担任抄写员. n. (Scribe)人名；(法)斯克里布scribe()-->好好学习. n. 抄写员；作家；划线器vt. 写下，记下；用划线器划vi. 写下，记下；担任抄写员n .
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,953: document.createElement("section");v. 潦草（或匆忙）地写；乱写，乱涂（画）；（为谋生、爱好）写作；粗梳（羊毛）. n. 潦草的字；潦草完成的文章（或图画）；胡写乱画的东西；涂鸦；杂文scribble()-->好好学习. v. 潦草（或匆忙）地写；乱写，乱涂（画）；（为谋生、爱好）写作；粗梳（羊毛）n .
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,275: document.createElement("section");n. 脚本；手迹；书写用的字母. vt. 把…改编为剧本. vi. 写电影脚本script()-->好好学习. n. 脚本；手迹；书写用的字母vt. 把…改编为剧本vi. 写电影脚本script
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,510: document.createElement("section");vt. 归因于；归咎于ascribe()-->好好学习. vt. 归因于；归咎于ascribe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,201: document.createElement("section");vt. 约束，限定；在……上画圈；包围；（几何学）外接circumscribe()-->好好学习. vt. 约束，限定；在……上画圈；包围；（几何学）外接circumscribe
+
+Setting the maximum priority!
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Element missing from the priority queue
+Item #3,978: document.createElement("section");n. 界限；划界；定义circumscription()-->好好学习. n. 界限；划界；定义circumscription
+
+Setting the maximum priority!
+
+Process completed at 2:21:10 PM in 00:00:00 sec (Wednesday, March 10, 2021)
+
+42 ERRORS (Operation: adjust priority within a range in elements)
+
+____________________________________________________________

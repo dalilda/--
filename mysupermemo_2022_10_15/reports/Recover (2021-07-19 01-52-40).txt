@@ -1,0 +1,37 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\desktop\list\supermemo\mysupermemo
+   Date: Monday, July 19, 2021, 1:52:40 AM
+   SuperMemo 18 (Build 18.04, Mar 6, 2020)
+
+Checking 6,436 element records (ElementInfo.dat)
+Verifying integrity of element data (6436 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Wrong deleted element count
+   Expected: 495
+   Found:    493
+   Last no:  6436
+   Total:    5941
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Avg Topic A-Factor has been corrected from 1.70788 to 1.7223
+Verifying knowledge tree (6,436 elements in Contents.dat)
+114 children at Topic #2,746: 008
+118 children at Topic #1,593: 016
+110 children at Topic #2,345: 017
+130 children at Topic #2,007: 018
+144 children at Topic #2,421: 021
+110 children at Topic #202: 022
+Verifying the priority queue of 5,943 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 8
+   Topics reported: 3
+   Topics found:    2
+
+Process completed at 1:52:44 AM in 00:00:03 sec (Monday, July 19, 2021)
+
+3 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

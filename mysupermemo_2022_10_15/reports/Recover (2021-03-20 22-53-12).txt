@@ -1,0 +1,1005 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: c:\hule\ÎÄµµ\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Saturday, March 20, 2021, 10:53:12 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 5,322 element records (ElementInfo.dat)
+Verifying integrity of element data (5322 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #115
+   Expected: 3/28/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #232
+   Expected: 4/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #307
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Element #307 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Item #307 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #424
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Element #424 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Item #424 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #475
+   Expected: 3/21/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #544
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #737
+   Expected: 4/30/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #848
+   Expected: 3/21/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #863
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Element #863 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Item #863 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1114
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Element #1114 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Item #1114 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1164
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Element #1164 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Item #1164 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1226
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Element #1226 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Item #1226 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1292
+   Expected: 3/30/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1484
+   Expected: 3/20/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1509
+   Expected: 5/13/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1640
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Element #1640 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Item #1640 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1724
+   Expected: 6/26/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1833
+   Expected: 5/8/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #1927
+   Expected: 5/13/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #2350
+   Expected: 3/24/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #2403
+   Expected: 5/26/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3175
+   Expected: 4/6/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3222
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3223
+   Expected: 5/3/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3227
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Element #3227 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Item #3227 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3245
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #43   ++++++++++++++++++++++
+   Element #3245 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #44   ++++++++++++++++++++++
+   Item #3245 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #45   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3246
+   Expected: 3/23/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #46   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3255
+   Expected: 3/28/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #47   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3282
+   Expected: 5/31/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #48   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3298
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #49   ++++++++++++++++++++++
+   Element #3298 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #50   ++++++++++++++++++++++
+   Item #3298 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #51   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3319
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #52   ++++++++++++++++++++++
+   Element #3319 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #53   ++++++++++++++++++++++
+   Item #3319 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #54   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3351
+   Expected: 5/7/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #55   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3377
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #56   ++++++++++++++++++++++
+   Element #3377 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #57   ++++++++++++++++++++++
+   Item #3377 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #58   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3386
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #59   ++++++++++++++++++++++
+   Element #3386 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #60   ++++++++++++++++++++++
+   Item #3386 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #61   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3408
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #62   ++++++++++++++++++++++
+   Element #3408 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #63   ++++++++++++++++++++++
+   Item #3408 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #64   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3410
+   Expected: 3/21/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #65   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3432
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #66   ++++++++++++++++++++++
+   Element #3432 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #67   ++++++++++++++++++++++
+   Item #3432 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #68   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3449
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #69   ++++++++++++++++++++++
+   Element #3449 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #70   ++++++++++++++++++++++
+   Item #3449 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #71   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3457
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #72   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3473
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #73   ++++++++++++++++++++++
+   Element #3473 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #74   ++++++++++++++++++++++
+   Item #3473 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #75   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3489
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #76   ++++++++++++++++++++++
+   Element #3489 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #77   ++++++++++++++++++++++
+   Item #3489 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #78   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3503
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #79   ++++++++++++++++++++++
+   Element #3503 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #80   ++++++++++++++++++++++
+   Item #3503 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #81   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3526
+   Expected: 5/11/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #82   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3549
+   Expected: 3/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #83   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3558
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #84   ++++++++++++++++++++++
+   Element #3558 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #85   ++++++++++++++++++++++
+   Item #3558 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #86   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3593
+   Expected: 5/7/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #87   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3614
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #88   ++++++++++++++++++++++
+   Element #3614 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #89   ++++++++++++++++++++++
+   Item #3614 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #90   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3640
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #91   ++++++++++++++++++++++
+   Element #3640 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #92   ++++++++++++++++++++++
+   Item #3640 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #93   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3643
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #94   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3682
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #95   ++++++++++++++++++++++
+   Element #3682 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #96   ++++++++++++++++++++++
+   Item #3682 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #97   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3740
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #98   ++++++++++++++++++++++
+   Element #3740 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #99   ++++++++++++++++++++++
+   Item #3740 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #100   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3826
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #101   ++++++++++++++++++++++
+   Element #3826 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #102   ++++++++++++++++++++++
+   Item #3826 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #103   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3831
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #104   ++++++++++++++++++++++
+   Element #3831 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #105   ++++++++++++++++++++++
+   Item #3831 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #106   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3858
+   Expected: 5/24/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #107   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3863
+   Expected: 6/2/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #108   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3870
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #109   ++++++++++++++++++++++
+   Element #3870 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #110   ++++++++++++++++++++++
+   Item #3870 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #111   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3878
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #112   ++++++++++++++++++++++
+   Element #3878 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #113   ++++++++++++++++++++++
+   Item #3878 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #114   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3899
+   Expected: 3/24/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #115   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3910
+   Expected: 3/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #116   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3934
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #117   ++++++++++++++++++++++
+   Element #3934 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #118   ++++++++++++++++++++++
+   Item #3934 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #119   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3935
+   Expected: 5/22/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #120   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #3979
+   Expected: 4/29/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #121   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4010
+   Expected: 6/4/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #122   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4018
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #123   ++++++++++++++++++++++
+   Element #4018 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #124   ++++++++++++++++++++++
+   Item #4018 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #125   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4050
+   Expected: 3/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #126   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4117
+   Expected: 3/25/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #127   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4167
+   Expected: 5/30/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #128   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4176
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #129   ++++++++++++++++++++++
+   Element #4176 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #130   ++++++++++++++++++++++
+   Item #4176 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #131   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4182
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #132   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4186
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #133   ++++++++++++++++++++++
+   Element #4186 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #134   ++++++++++++++++++++++
+   Item #4186 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #135   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4187
+   Expected: 5/11/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #136   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4191
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #137   ++++++++++++++++++++++
+   Element #4191 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #138   ++++++++++++++++++++++
+   Item #4191 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #139   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4193
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #140   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4199
+   Expected: 3/23/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #141   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4209
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #142   ++++++++++++++++++++++
+   Element #4209 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #143   ++++++++++++++++++++++
+   Item #4209 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #144   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4253
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #145   ++++++++++++++++++++++
+   Element #4253 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #146   ++++++++++++++++++++++
+   Item #4253 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #147   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4268
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #148   ++++++++++++++++++++++
+   Element #4268 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #149   ++++++++++++++++++++++
+   Item #4268 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #150   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4282
+   Expected: 5/1/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #151   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4298
+   Expected: 4/3/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #152   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4311
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #153   ++++++++++++++++++++++
+   Element #4311 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #154   ++++++++++++++++++++++
+   Item #4311 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #155   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4338
+   Expected: 3/26/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #156   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4360
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #157   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4401
+   Expected: 4/25/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #158   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4414
+   Expected: 4/22/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #159   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4429
+   Expected: 5/19/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #160   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4435
+   Expected: 4/30/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #161   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4442
+   Expected: 5/18/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #162   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4447
+   Expected: 3/20/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #163   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4468
+   Expected: 3/23/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #164   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4530
+   Expected: 4/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #165   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4562
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #166   ++++++++++++++++++++++
+   Element #4562 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #167   ++++++++++++++++++++++
+   Item #4562 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #168   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4576
+   Expected: 3/21/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #169   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4578
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #170   ++++++++++++++++++++++
+   Element #4578 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #171   ++++++++++++++++++++++
+   Item #4578 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #172   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4592
+   Expected: 4/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #173   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4596
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #174   ++++++++++++++++++++++
+   Element #4596 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #175   ++++++++++++++++++++++
+   Item #4596 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #176   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4633
+   Expected: 5/1/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #177   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4662
+   Expected: 3/21/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #178   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4668
+   Expected: 4/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #179   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4681
+   Expected: 3/22/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #180   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4684
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #181   ++++++++++++++++++++++
+   Element #4684 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #182   ++++++++++++++++++++++
+   Item #4684 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #183   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4700
+   Expected: 3/20/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #184   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4722
+   Expected: 3/21/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #185   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4730
+   Expected: 3/20/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #186   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4754
+   Expected: 3/30/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #187   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4763
+   Expected: 4/28/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #188   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4786
+   Expected: 7/11/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #189   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4817
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #190   ++++++++++++++++++++++
+   Element #4817 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #191   ++++++++++++++++++++++
+   Item #4817 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #192   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4818
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #193   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4850
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #194   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4858
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #195   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4876
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #196   ++++++++++++++++++++++
+   Element #4876 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #197   ++++++++++++++++++++++
+   Item #4876 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #198   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4881
+   Expected: 4/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #199   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4921
+   Expected: 5/6/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #200   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4949
+   Expected: 4/4/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #201   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4963
+   Expected: 6/6/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #202   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4967
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #203   ++++++++++++++++++++++
+   Element #4967 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #204   ++++++++++++++++++++++
+   Item #4967 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #205   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4969
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #206   ++++++++++++++++++++++
+   Element #4969 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #207   ++++++++++++++++++++++
+   Item #4969 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #208   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4981
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #209   ++++++++++++++++++++++
+   Element #4981 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #210   ++++++++++++++++++++++
+   Item #4981 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #211   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #4996
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #212   ++++++++++++++++++++++
+   Element #4996 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #213   ++++++++++++++++++++++
+   Item #4996 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #214   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5004
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #215   ++++++++++++++++++++++
+   Element #5004 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #216   ++++++++++++++++++++++
+   Item #5004 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #217   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5039
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #218   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5049
+   Expected: 5/13/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #219   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5066
+   Expected: 3/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #220   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5078
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #221   ++++++++++++++++++++++
+   Element #5078 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #222   ++++++++++++++++++++++
+   Item #5078 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #223   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5085
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #224   ++++++++++++++++++++++
+   Element #5085 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #225   ++++++++++++++++++++++
+   Item #5085 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #226   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5126
+   Expected: 3/27/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #227   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5152
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #228   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5157
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #229   ++++++++++++++++++++++
+   Element #5157 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #230   ++++++++++++++++++++++
+   Item #5157 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #231   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5175
+   Expected: 5/11/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #232   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5180
+   Expected: 6/2/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #233   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5218
+   Expected: 3/22/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #234   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5238
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #235   ++++++++++++++++++++++
+   Element #5238 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #236   ++++++++++++++++++++++
+   Item #5238 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #237   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5271
+   Expected: 4/26/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #238   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5276
+   Expected: 5/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #239   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5283
+   Expected: 4/19/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #240   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5293
+   Expected: 5/3/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #241   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5307
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #242   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5308
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #243   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5314
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #244   ++++++++++++++++++++++
+   Element #5314 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #245   ++++++++++++++++++++++
+   Item #5314 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #246   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5315
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #247   ++++++++++++++++++++++
+   Element #5315 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #248   ++++++++++++++++++++++
+   Item #5315 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #249   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5316
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #250   ++++++++++++++++++++++
+   Element #5316 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #251   ++++++++++++++++++++++
+   Item #5316 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #252   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5317
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #253   ++++++++++++++++++++++
+   Element #5317 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #254   ++++++++++++++++++++++
+   Item #5317 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #255   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5318
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #256   ++++++++++++++++++++++
+   Element #5318 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #257   ++++++++++++++++++++++
+   Item #5318 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #258   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5319
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #259   ++++++++++++++++++++++
+   Element #5319 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #260   ++++++++++++++++++++++
+   Item #5319 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #261   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5320
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #262   ++++++++++++++++++++++
+   Element #5320 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #263   ++++++++++++++++++++++
+   Item #5320 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #264   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5321
+   Expected: 3/20/2021
+   Found: 3/1/2021
+++++++++++++++++++++++    ERROR #265   ++++++++++++++++++++++
+   Element #5321 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #266   ++++++++++++++++++++++
+   Item #5321 missing from the outstanding queue
+++++++++++++++++++++++    ERROR #267   ++++++++++++++++++++++
+   Wrong date of the next repetition at item #5322
+   Expected: 3/21/2021
+   Found: 3/19/2021
+++++++++++++++++++++++    ERROR #268   ++++++++++++++++++++++
+   Memorized has been corrected from 649 to 709
+++++++++++++++++++++++    ERROR #269   ++++++++++++++++++++++
+   Memorized items has been corrected from 648 to 708
+++++++++++++++++++++++    ERROR #270   ++++++++++++++++++++++
+   Item Burden has been corrected from 77.25749 to 120.34695
+++++++++++++++++++++++    ERROR #271   ++++++++++++++++++++++
+   Avg Item Reps has been corrected from 2.23765 to 2.22316
+++++++++++++++++++++++    ERROR #272   ++++++++++++++++++++++
+   Avg Laps has been corrected from 0.16049 to 0.15819
+++++++++++++++++++++++    ERROR #273   ++++++++++++++++++++++
+   Avg Item Interval has been corrected from 26.69136 to 27.4548
+++++++++++++++++++++++    ERROR #274   ++++++++++++++++++++++
+   Avg Last Item Rep has been corrected from 12.5108 to 13.49011
+++++++++++++++++++++++    ERROR #275   ++++++++++++++++++++++
+   Avg Item A-Factor has been corrected from 3.83668 to 3.88709
+Verifying knowledge tree (5,322 elements in Contents.dat)
+114 children at Topic #2,746: 008
+118 children at Topic #1,593: 016
+110 children at Topic #2,345: 017
+130 children at Topic #2,007: 018
+144 children at Topic #2,421: 021
+110 children at Topic #202: 022
+Verifying the priority queue of 3,594 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+++++++++++++++++++++++    ERROR #276   ++++++++++++++++++++++
+   Wrong item count on 3/20/2021 (Day #19)
+   Expected: 97
+   Found: 96
+++++++++++++++++++++++    ERROR #277   ++++++++++++++++++++++
+   Wrong item count on 3/21/2021 (Day #20)
+   Expected: 63
+   Found: 62
+++++++++++++++++++++++    ERROR #278   ++++++++++++++++++++++
+   Wrong item count on 3/22/2021 (Day #21)
+   Expected: 40
+   Found: 39
+++++++++++++++++++++++    ERROR #279   ++++++++++++++++++++++
+   Wrong item count on 3/26/2021 (Day #25)
+   Expected: 16
+   Found: 15
+++++++++++++++++++++++    ERROR #280   ++++++++++++++++++++++
+   Wrong item count on 4/24/2021 (Day #54)
+   Expected: 9
+   Found: 8
+++++++++++++++++++++++    ERROR #281   ++++++++++++++++++++++
+   Wrong item count on 4/30/2021 (Day #60)
+   Expected: 8
+   Found: 7
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+++++++++++++++++++++++    ERROR #282   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 2
+   Items reported: 1
+   Items found:    0
+++++++++++++++++++++++    ERROR #283   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 3
+   Items reported: 12
+   Items found:    15
+++++++++++++++++++++++    ERROR #284   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 4
+   Items reported: 31
+   Items found:    23
+++++++++++++++++++++++    ERROR #285   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 5
+   Items reported: 36
+   Items found:    33
+++++++++++++++++++++++    ERROR #286   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 6
+   Items reported: 29
+   Items found:    38
+++++++++++++++++++++++    ERROR #287   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 7
+   Items reported: 100
+   Items found:    126
+++++++++++++++++++++++    ERROR #288   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 8
+   Items reported: 90
+   Items found:    67
+++++++++++++++++++++++    ERROR #289   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 9
+   Items reported: 35
+   Items found:    30
+++++++++++++++++++++++    ERROR #290   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 10
+   Items reported: 91
+   Items found:    112
+++++++++++++++++++++++    ERROR #291   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 11
+   Items reported: 22
+   Items found:    25
+++++++++++++++++++++++    ERROR #292   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 12
+   Items reported: 119
+   Items found:    134
+++++++++++++++++++++++    ERROR #293   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 13
+   Items reported: 35
+   Items found:    56
+++++++++++++++++++++++    ERROR #294   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 14
+   Items reported: 17
+   Items found:    19
+++++++++++++++++++++++    ERROR #295   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 1
+   Items reported: 21
+   Items found:    64
+++++++++++++++++++++++    ERROR #296   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 2
+   Items reported: 9
+   Items found:    27
+++++++++++++++++++++++    ERROR #297   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 3
+   Items reported: 47
+   Items found:    28
+++++++++++++++++++++++    ERROR #298   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 4
+   Items reported: 122
+   Items found:    97
+++++++++++++++++++++++    ERROR #299   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 5
+   Items reported: 107
+   Items found:    108
+++++++++++++++++++++++    ERROR #300   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 6
+   Items reported: 102
+   Items found:    104
+++++++++++++++++++++++    ERROR #301   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 7
+   Items reported: 190
+   Items found:    220
+++++++++++++++++++++++    ERROR #302   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 8
+   Items reported: 50
+   Items found:    60
+++++++++++++++++++++++    ERROR #303   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 1
+   Items reported: 115
+   Items found:    164
+++++++++++++++++++++++    ERROR #304   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 2
+   Items reported: 267
+   Items found:    226
+++++++++++++++++++++++    ERROR #305   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 3
+   Items reported: 263
+   Items found:    314
+++++++++++++++++++++++    ERROR #306   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 4
+   Items reported: 3
+   Items found:    4
+++++++++++++++++++++++    ERROR #307   ++++++++++++++++++++++
+   Lapses distribution discrepancy in category 1
+   Items reported: 566
+   Items found:    619
+++++++++++++++++++++++    ERROR #308   ++++++++++++++++++++++
+   Lapses distribution discrepancy in category 2
+   Items reported: 64
+   Items found:    70
+++++++++++++++++++++++    ERROR #309   ++++++++++++++++++++++
+   Lapses distribution discrepancy in category 3
+   Items reported: 15
+   Items found:    16
+
+Process completed at 10:53:15 PM in 00:00:03 sec (Saturday, March 20, 2021)
+
+309 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: stop ignoring elements
+   Collection: c:\users\hule\nutstore\1\list\supermemo\mysupermemo
+   Date: Friday, September 2, 2022, 9:21:33 PM
+   SuperMemo 18 (Build 18.04, Mar 6, 2020)
+
+
+Process completed at 9:21:33 PM in 00:00:00 sec (Friday, September 2, 2022)
+
+NO ERRORS (Operation: stop ignoring elements)
+
+____________________________________________________________

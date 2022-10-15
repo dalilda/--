@@ -1,0 +1,3364 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Thursday, March 18, 2021, 9:59:00 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Checking 5,321 element records (ElementInfo.dat)
+Verifying integrity of element data (5321 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Wrong item count
+   Expected: 3548
+   Found:    3543
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Wrong deleted element count
+   Expected: 1722
+   Found:    1727
+   Last no:  5321
+   Total:    3599
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Wrong priority queue size
+   Expected: 3594
+   Found: 5249
+Verifying knowledge tree (5,321 elements in Contents.dat)
+114 children at Topic #2,746: 008
+118 children at Topic #1,593: 016
+110 children at Topic #2,345: 017
+130 children at Topic #2,007: 018
+144 children at Topic #2,421: 021
+110 children at Topic #202: 022
+Verifying the priority queue of 5,249 elements
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Deleted Element #5266 found in the priority queue
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Deleted Element #5240 found in the priority queue
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Deleted Element #5239 found in the priority queue
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Deleted Element #5236 found in the priority queue
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Deleted Element #5235 found in the priority queue
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Deleted Element #5234 found in the priority queue
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Deleted Element #5231 found in the priority queue
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Deleted Element #5229 found in the priority queue
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Deleted Element #5226 found in the priority queue
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Deleted Element #5225 found in the priority queue
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Deleted Element #5224 found in the priority queue
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Deleted Element #5221 found in the priority queue
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Deleted Element #5220 found in the priority queue
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Deleted Element #5217 found in the priority queue
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Deleted Element #5214 found in the priority queue
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Deleted Element #5212 found in the priority queue
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Deleted Element #5210 found in the priority queue
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Deleted Element #5209 found in the priority queue
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Deleted Element #5208 found in the priority queue
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Deleted Element #5207 found in the priority queue
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Deleted Element #5204 found in the priority queue
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Deleted Element #5203 found in the priority queue
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Deleted Element #5201 found in the priority queue
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Deleted Element #5200 found in the priority queue
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Deleted Element #5197 found in the priority queue
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Deleted Element #5196 found in the priority queue
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Deleted Element #5195 found in the priority queue
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Deleted Element #5193 found in the priority queue
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Deleted Element #5191 found in the priority queue
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Deleted Element #5190 found in the priority queue
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Deleted Element #5189 found in the priority queue
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Deleted Element #5188 found in the priority queue
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Deleted Element #5186 found in the priority queue
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Deleted Element #5185 found in the priority queue
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Deleted Element #5182 found in the priority queue
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Deleted Element #5181 found in the priority queue
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Deleted Element #5179 found in the priority queue
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Deleted Element #5178 found in the priority queue
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Deleted Element #5176 found in the priority queue
+++++++++++++++++++++++    ERROR #43   ++++++++++++++++++++++
+   Deleted Element #5174 found in the priority queue
+++++++++++++++++++++++    ERROR #44   ++++++++++++++++++++++
+   Deleted Element #5173 found in the priority queue
+++++++++++++++++++++++    ERROR #45   ++++++++++++++++++++++
+   Deleted Element #5172 found in the priority queue
+++++++++++++++++++++++    ERROR #46   ++++++++++++++++++++++
+   Deleted Element #5171 found in the priority queue
+++++++++++++++++++++++    ERROR #47   ++++++++++++++++++++++
+   Deleted Element #5170 found in the priority queue
+++++++++++++++++++++++    ERROR #48   ++++++++++++++++++++++
+   Deleted Element #5169 found in the priority queue
+++++++++++++++++++++++    ERROR #49   ++++++++++++++++++++++
+   Deleted Element #5168 found in the priority queue
+++++++++++++++++++++++    ERROR #50   ++++++++++++++++++++++
+   Deleted Element #5167 found in the priority queue
+++++++++++++++++++++++    ERROR #51   ++++++++++++++++++++++
+   Deleted Element #5166 found in the priority queue
+++++++++++++++++++++++    ERROR #52   ++++++++++++++++++++++
+   Deleted Element #5165 found in the priority queue
+++++++++++++++++++++++    ERROR #53   ++++++++++++++++++++++
+   Deleted Element #5163 found in the priority queue
+++++++++++++++++++++++    ERROR #54   ++++++++++++++++++++++
+   Deleted Element #5162 found in the priority queue
+++++++++++++++++++++++    ERROR #55   ++++++++++++++++++++++
+   Deleted Element #5161 found in the priority queue
+++++++++++++++++++++++    ERROR #56   ++++++++++++++++++++++
+   Deleted Element #5158 found in the priority queue
+++++++++++++++++++++++    ERROR #57   ++++++++++++++++++++++
+   Deleted Element #5155 found in the priority queue
+++++++++++++++++++++++    ERROR #58   ++++++++++++++++++++++
+   Deleted Element #5154 found in the priority queue
+++++++++++++++++++++++    ERROR #59   ++++++++++++++++++++++
+   Deleted Element #5153 found in the priority queue
+++++++++++++++++++++++    ERROR #60   ++++++++++++++++++++++
+   Deleted Element #5151 found in the priority queue
+++++++++++++++++++++++    ERROR #61   ++++++++++++++++++++++
+   Deleted Element #5149 found in the priority queue
+++++++++++++++++++++++    ERROR #62   ++++++++++++++++++++++
+   Deleted Element #5148 found in the priority queue
+++++++++++++++++++++++    ERROR #63   ++++++++++++++++++++++
+   Deleted Element #5147 found in the priority queue
+++++++++++++++++++++++    ERROR #64   ++++++++++++++++++++++
+   Deleted Element #5145 found in the priority queue
+++++++++++++++++++++++    ERROR #65   ++++++++++++++++++++++
+   Deleted Element #5144 found in the priority queue
+++++++++++++++++++++++    ERROR #66   ++++++++++++++++++++++
+   Deleted Element #5141 found in the priority queue
+++++++++++++++++++++++    ERROR #67   ++++++++++++++++++++++
+   Deleted Element #5140 found in the priority queue
+++++++++++++++++++++++    ERROR #68   ++++++++++++++++++++++
+   Deleted Element #5138 found in the priority queue
+++++++++++++++++++++++    ERROR #69   ++++++++++++++++++++++
+   Deleted Element #5136 found in the priority queue
+++++++++++++++++++++++    ERROR #70   ++++++++++++++++++++++
+   Deleted Element #5135 found in the priority queue
+++++++++++++++++++++++    ERROR #71   ++++++++++++++++++++++
+   Deleted Element #5132 found in the priority queue
+++++++++++++++++++++++    ERROR #72   ++++++++++++++++++++++
+   Deleted Element #5130 found in the priority queue
+++++++++++++++++++++++    ERROR #73   ++++++++++++++++++++++
+   Deleted Element #5129 found in the priority queue
+++++++++++++++++++++++    ERROR #74   ++++++++++++++++++++++
+   Deleted Element #5128 found in the priority queue
+++++++++++++++++++++++    ERROR #75   ++++++++++++++++++++++
+   Deleted Element #5127 found in the priority queue
+++++++++++++++++++++++    ERROR #76   ++++++++++++++++++++++
+   Deleted Element #5125 found in the priority queue
+++++++++++++++++++++++    ERROR #77   ++++++++++++++++++++++
+   Deleted Element #5124 found in the priority queue
+++++++++++++++++++++++    ERROR #78   ++++++++++++++++++++++
+   Deleted Element #5122 found in the priority queue
+++++++++++++++++++++++    ERROR #79   ++++++++++++++++++++++
+   Deleted Element #5121 found in the priority queue
+++++++++++++++++++++++    ERROR #80   ++++++++++++++++++++++
+   Deleted Element #5120 found in the priority queue
+++++++++++++++++++++++    ERROR #81   ++++++++++++++++++++++
+   Deleted Element #5119 found in the priority queue
+++++++++++++++++++++++    ERROR #82   ++++++++++++++++++++++
+   Deleted Element #5118 found in the priority queue
+++++++++++++++++++++++    ERROR #83   ++++++++++++++++++++++
+   Deleted Element #5117 found in the priority queue
+++++++++++++++++++++++    ERROR #84   ++++++++++++++++++++++
+   Deleted Element #5115 found in the priority queue
+++++++++++++++++++++++    ERROR #85   ++++++++++++++++++++++
+   Deleted Element #5113 found in the priority queue
+++++++++++++++++++++++    ERROR #86   ++++++++++++++++++++++
+   Deleted Element #5111 found in the priority queue
+++++++++++++++++++++++    ERROR #87   ++++++++++++++++++++++
+   Deleted Element #5110 found in the priority queue
+++++++++++++++++++++++    ERROR #88   ++++++++++++++++++++++
+   Deleted Element #5109 found in the priority queue
+++++++++++++++++++++++    ERROR #89   ++++++++++++++++++++++
+   Deleted Element #5108 found in the priority queue
+++++++++++++++++++++++    ERROR #90   ++++++++++++++++++++++
+   Deleted Element #5106 found in the priority queue
+++++++++++++++++++++++    ERROR #91   ++++++++++++++++++++++
+   Deleted Element #5105 found in the priority queue
+++++++++++++++++++++++    ERROR #92   ++++++++++++++++++++++
+   Deleted Element #5104 found in the priority queue
+++++++++++++++++++++++    ERROR #93   ++++++++++++++++++++++
+   Deleted Element #5103 found in the priority queue
+++++++++++++++++++++++    ERROR #94   ++++++++++++++++++++++
+   Deleted Element #5101 found in the priority queue
+++++++++++++++++++++++    ERROR #95   ++++++++++++++++++++++
+   Deleted Element #5098 found in the priority queue
+++++++++++++++++++++++    ERROR #96   ++++++++++++++++++++++
+   Deleted Element #5096 found in the priority queue
+++++++++++++++++++++++    ERROR #97   ++++++++++++++++++++++
+   Deleted Element #5095 found in the priority queue
+++++++++++++++++++++++    ERROR #98   ++++++++++++++++++++++
+   Deleted Element #5094 found in the priority queue
+++++++++++++++++++++++    ERROR #99   ++++++++++++++++++++++
+   Deleted Element #5093 found in the priority queue
+++++++++++++++++++++++    ERROR #100   ++++++++++++++++++++++
+   Deleted Element #5090 found in the priority queue
+++++++++++++++++++++++    ERROR #101   ++++++++++++++++++++++
+   Deleted Element #5089 found in the priority queue
+++++++++++++++++++++++    ERROR #102   ++++++++++++++++++++++
+   Deleted Element #5088 found in the priority queue
+++++++++++++++++++++++    ERROR #103   ++++++++++++++++++++++
+   Deleted Element #5086 found in the priority queue
+++++++++++++++++++++++    ERROR #104   ++++++++++++++++++++++
+   Deleted Element #5084 found in the priority queue
+++++++++++++++++++++++    ERROR #105   ++++++++++++++++++++++
+   Deleted Element #5083 found in the priority queue
+++++++++++++++++++++++    ERROR #106   ++++++++++++++++++++++
+   Deleted Element #5082 found in the priority queue
+++++++++++++++++++++++    ERROR #107   ++++++++++++++++++++++
+   Deleted Element #5081 found in the priority queue
+++++++++++++++++++++++    ERROR #108   ++++++++++++++++++++++
+   Deleted Element #5080 found in the priority queue
+++++++++++++++++++++++    ERROR #109   ++++++++++++++++++++++
+   Deleted Element #5079 found in the priority queue
+++++++++++++++++++++++    ERROR #110   ++++++++++++++++++++++
+   Deleted Element #5077 found in the priority queue
+++++++++++++++++++++++    ERROR #111   ++++++++++++++++++++++
+   Deleted Element #5076 found in the priority queue
+++++++++++++++++++++++    ERROR #112   ++++++++++++++++++++++
+   Deleted Element #5074 found in the priority queue
+++++++++++++++++++++++    ERROR #113   ++++++++++++++++++++++
+   Deleted Element #5073 found in the priority queue
+++++++++++++++++++++++    ERROR #114   ++++++++++++++++++++++
+   Deleted Element #5071 found in the priority queue
+++++++++++++++++++++++    ERROR #115   ++++++++++++++++++++++
+   Deleted Element #5068 found in the priority queue
+++++++++++++++++++++++    ERROR #116   ++++++++++++++++++++++
+   Deleted Element #5067 found in the priority queue
+++++++++++++++++++++++    ERROR #117   ++++++++++++++++++++++
+   Deleted Element #5064 found in the priority queue
+++++++++++++++++++++++    ERROR #118   ++++++++++++++++++++++
+   Deleted Element #5063 found in the priority queue
+++++++++++++++++++++++    ERROR #119   ++++++++++++++++++++++
+   Deleted Element #5062 found in the priority queue
+++++++++++++++++++++++    ERROR #120   ++++++++++++++++++++++
+   Deleted Element #5061 found in the priority queue
+++++++++++++++++++++++    ERROR #121   ++++++++++++++++++++++
+   Deleted Element #5059 found in the priority queue
+++++++++++++++++++++++    ERROR #122   ++++++++++++++++++++++
+   Deleted Element #5056 found in the priority queue
+++++++++++++++++++++++    ERROR #123   ++++++++++++++++++++++
+   Deleted Element #5053 found in the priority queue
+++++++++++++++++++++++    ERROR #124   ++++++++++++++++++++++
+   Deleted Element #5052 found in the priority queue
+++++++++++++++++++++++    ERROR #125   ++++++++++++++++++++++
+   Deleted Element #5051 found in the priority queue
+++++++++++++++++++++++    ERROR #126   ++++++++++++++++++++++
+   Deleted Element #5047 found in the priority queue
+++++++++++++++++++++++    ERROR #127   ++++++++++++++++++++++
+   Deleted Element #5046 found in the priority queue
+++++++++++++++++++++++    ERROR #128   ++++++++++++++++++++++
+   Deleted Element #5045 found in the priority queue
+++++++++++++++++++++++    ERROR #129   ++++++++++++++++++++++
+   Deleted Element #5043 found in the priority queue
+++++++++++++++++++++++    ERROR #130   ++++++++++++++++++++++
+   Deleted Element #5042 found in the priority queue
+++++++++++++++++++++++    ERROR #131   ++++++++++++++++++++++
+   Deleted Element #5041 found in the priority queue
+++++++++++++++++++++++    ERROR #132   ++++++++++++++++++++++
+   Deleted Element #5040 found in the priority queue
+++++++++++++++++++++++    ERROR #133   ++++++++++++++++++++++
+   Deleted Element #5038 found in the priority queue
+++++++++++++++++++++++    ERROR #134   ++++++++++++++++++++++
+   Deleted Element #5036 found in the priority queue
+++++++++++++++++++++++    ERROR #135   ++++++++++++++++++++++
+   Deleted Element #5035 found in the priority queue
+++++++++++++++++++++++    ERROR #136   ++++++++++++++++++++++
+   Deleted Element #5031 found in the priority queue
+++++++++++++++++++++++    ERROR #137   ++++++++++++++++++++++
+   Deleted Element #5029 found in the priority queue
+++++++++++++++++++++++    ERROR #138   ++++++++++++++++++++++
+   Deleted Element #5028 found in the priority queue
+++++++++++++++++++++++    ERROR #139   ++++++++++++++++++++++
+   Deleted Element #5026 found in the priority queue
+++++++++++++++++++++++    ERROR #140   ++++++++++++++++++++++
+   Deleted Element #5024 found in the priority queue
+++++++++++++++++++++++    ERROR #141   ++++++++++++++++++++++
+   Deleted Element #5022 found in the priority queue
+++++++++++++++++++++++    ERROR #142   ++++++++++++++++++++++
+   Deleted Element #5021 found in the priority queue
+++++++++++++++++++++++    ERROR #143   ++++++++++++++++++++++
+   Deleted Element #5020 found in the priority queue
+++++++++++++++++++++++    ERROR #144   ++++++++++++++++++++++
+   Deleted Element #5019 found in the priority queue
+++++++++++++++++++++++    ERROR #145   ++++++++++++++++++++++
+   Deleted Element #5017 found in the priority queue
+++++++++++++++++++++++    ERROR #146   ++++++++++++++++++++++
+   Deleted Element #5016 found in the priority queue
+++++++++++++++++++++++    ERROR #147   ++++++++++++++++++++++
+   Deleted Element #5015 found in the priority queue
+++++++++++++++++++++++    ERROR #148   ++++++++++++++++++++++
+   Deleted Element #5013 found in the priority queue
+++++++++++++++++++++++    ERROR #149   ++++++++++++++++++++++
+   Deleted Element #5011 found in the priority queue
+++++++++++++++++++++++    ERROR #150   ++++++++++++++++++++++
+   Deleted Element #5010 found in the priority queue
+++++++++++++++++++++++    ERROR #151   ++++++++++++++++++++++
+   Deleted Element #5008 found in the priority queue
+++++++++++++++++++++++    ERROR #152   ++++++++++++++++++++++
+   Deleted Element #5007 found in the priority queue
+++++++++++++++++++++++    ERROR #153   ++++++++++++++++++++++
+   Deleted Element #5003 found in the priority queue
+++++++++++++++++++++++    ERROR #154   ++++++++++++++++++++++
+   Deleted Element #5001 found in the priority queue
+++++++++++++++++++++++    ERROR #155   ++++++++++++++++++++++
+   Deleted Element #5000 found in the priority queue
+++++++++++++++++++++++    ERROR #156   ++++++++++++++++++++++
+   Deleted Element #4999 found in the priority queue
+++++++++++++++++++++++    ERROR #157   ++++++++++++++++++++++
+   Deleted Element #4994 found in the priority queue
+++++++++++++++++++++++    ERROR #158   ++++++++++++++++++++++
+   Deleted Element #4993 found in the priority queue
+++++++++++++++++++++++    ERROR #159   ++++++++++++++++++++++
+   Deleted Element #4992 found in the priority queue
+++++++++++++++++++++++    ERROR #160   ++++++++++++++++++++++
+   Deleted Element #4991 found in the priority queue
+++++++++++++++++++++++    ERROR #161   ++++++++++++++++++++++
+   Deleted Element #4990 found in the priority queue
+++++++++++++++++++++++    ERROR #162   ++++++++++++++++++++++
+   Deleted Element #4988 found in the priority queue
+++++++++++++++++++++++    ERROR #163   ++++++++++++++++++++++
+   Deleted Element #4987 found in the priority queue
+++++++++++++++++++++++    ERROR #164   ++++++++++++++++++++++
+   Deleted Element #4986 found in the priority queue
+++++++++++++++++++++++    ERROR #165   ++++++++++++++++++++++
+   Deleted Element #4985 found in the priority queue
+++++++++++++++++++++++    ERROR #166   ++++++++++++++++++++++
+   Deleted Element #4983 found in the priority queue
+++++++++++++++++++++++    ERROR #167   ++++++++++++++++++++++
+   Deleted Element #4980 found in the priority queue
+++++++++++++++++++++++    ERROR #168   ++++++++++++++++++++++
+   Deleted Element #4979 found in the priority queue
+++++++++++++++++++++++    ERROR #169   ++++++++++++++++++++++
+   Deleted Element #4976 found in the priority queue
+++++++++++++++++++++++    ERROR #170   ++++++++++++++++++++++
+   Deleted Element #4975 found in the priority queue
+++++++++++++++++++++++    ERROR #171   ++++++++++++++++++++++
+   Deleted Element #4974 found in the priority queue
+++++++++++++++++++++++    ERROR #172   ++++++++++++++++++++++
+   Deleted Element #4973 found in the priority queue
+++++++++++++++++++++++    ERROR #173   ++++++++++++++++++++++
+   Deleted Element #4970 found in the priority queue
+++++++++++++++++++++++    ERROR #174   ++++++++++++++++++++++
+   Deleted Element #4966 found in the priority queue
+++++++++++++++++++++++    ERROR #175   ++++++++++++++++++++++
+   Deleted Element #4965 found in the priority queue
+++++++++++++++++++++++    ERROR #176   ++++++++++++++++++++++
+   Deleted Element #4964 found in the priority queue
+++++++++++++++++++++++    ERROR #177   ++++++++++++++++++++++
+   Deleted Element #4962 found in the priority queue
+++++++++++++++++++++++    ERROR #178   ++++++++++++++++++++++
+   Deleted Element #4960 found in the priority queue
+++++++++++++++++++++++    ERROR #179   ++++++++++++++++++++++
+   Deleted Element #4959 found in the priority queue
+++++++++++++++++++++++    ERROR #180   ++++++++++++++++++++++
+   Deleted Element #4958 found in the priority queue
+++++++++++++++++++++++    ERROR #181   ++++++++++++++++++++++
+   Deleted Element #4956 found in the priority queue
+++++++++++++++++++++++    ERROR #182   ++++++++++++++++++++++
+   Deleted Element #4955 found in the priority queue
+++++++++++++++++++++++    ERROR #183   ++++++++++++++++++++++
+   Deleted Element #4954 found in the priority queue
+++++++++++++++++++++++    ERROR #184   ++++++++++++++++++++++
+   Deleted Element #4952 found in the priority queue
+++++++++++++++++++++++    ERROR #185   ++++++++++++++++++++++
+   Deleted Element #4951 found in the priority queue
+++++++++++++++++++++++    ERROR #186   ++++++++++++++++++++++
+   Deleted Element #4948 found in the priority queue
+++++++++++++++++++++++    ERROR #187   ++++++++++++++++++++++
+   Deleted Element #4947 found in the priority queue
+++++++++++++++++++++++    ERROR #188   ++++++++++++++++++++++
+   Deleted Element #4946 found in the priority queue
+++++++++++++++++++++++    ERROR #189   ++++++++++++++++++++++
+   Deleted Element #4945 found in the priority queue
+++++++++++++++++++++++    ERROR #190   ++++++++++++++++++++++
+   Deleted Element #4944 found in the priority queue
+++++++++++++++++++++++    ERROR #191   ++++++++++++++++++++++
+   Deleted Element #4943 found in the priority queue
+++++++++++++++++++++++    ERROR #192   ++++++++++++++++++++++
+   Deleted Element #4940 found in the priority queue
+++++++++++++++++++++++    ERROR #193   ++++++++++++++++++++++
+   Deleted Element #4938 found in the priority queue
+++++++++++++++++++++++    ERROR #194   ++++++++++++++++++++++
+   Deleted Element #4936 found in the priority queue
+++++++++++++++++++++++    ERROR #195   ++++++++++++++++++++++
+   Deleted Element #4933 found in the priority queue
+++++++++++++++++++++++    ERROR #196   ++++++++++++++++++++++
+   Deleted Element #4931 found in the priority queue
+++++++++++++++++++++++    ERROR #197   ++++++++++++++++++++++
+   Deleted Element #4930 found in the priority queue
+++++++++++++++++++++++    ERROR #198   ++++++++++++++++++++++
+   Deleted Element #4925 found in the priority queue
+++++++++++++++++++++++    ERROR #199   ++++++++++++++++++++++
+   Deleted Element #4923 found in the priority queue
+++++++++++++++++++++++    ERROR #200   ++++++++++++++++++++++
+   Deleted Element #4922 found in the priority queue
+++++++++++++++++++++++    ERROR #201   ++++++++++++++++++++++
+   Deleted Element #4920 found in the priority queue
+++++++++++++++++++++++    ERROR #202   ++++++++++++++++++++++
+   Deleted Element #4919 found in the priority queue
+++++++++++++++++++++++    ERROR #203   ++++++++++++++++++++++
+   Deleted Element #4918 found in the priority queue
+++++++++++++++++++++++    ERROR #204   ++++++++++++++++++++++
+   Deleted Element #4917 found in the priority queue
+++++++++++++++++++++++    ERROR #205   ++++++++++++++++++++++
+   Deleted Element #4914 found in the priority queue
+++++++++++++++++++++++    ERROR #206   ++++++++++++++++++++++
+   Deleted Element #4913 found in the priority queue
+++++++++++++++++++++++    ERROR #207   ++++++++++++++++++++++
+   Deleted Element #4912 found in the priority queue
+++++++++++++++++++++++    ERROR #208   ++++++++++++++++++++++
+   Deleted Element #4910 found in the priority queue
+++++++++++++++++++++++    ERROR #209   ++++++++++++++++++++++
+   Deleted Element #4909 found in the priority queue
+++++++++++++++++++++++    ERROR #210   ++++++++++++++++++++++
+   Deleted Element #4907 found in the priority queue
+++++++++++++++++++++++    ERROR #211   ++++++++++++++++++++++
+   Deleted Element #4906 found in the priority queue
+++++++++++++++++++++++    ERROR #212   ++++++++++++++++++++++
+   Deleted Element #4905 found in the priority queue
+++++++++++++++++++++++    ERROR #213   ++++++++++++++++++++++
+   Deleted Element #4902 found in the priority queue
+++++++++++++++++++++++    ERROR #214   ++++++++++++++++++++++
+   Deleted Element #4901 found in the priority queue
+++++++++++++++++++++++    ERROR #215   ++++++++++++++++++++++
+   Deleted Element #4900 found in the priority queue
+++++++++++++++++++++++    ERROR #216   ++++++++++++++++++++++
+   Deleted Element #4898 found in the priority queue
+++++++++++++++++++++++    ERROR #217   ++++++++++++++++++++++
+   Deleted Element #4897 found in the priority queue
+++++++++++++++++++++++    ERROR #218   ++++++++++++++++++++++
+   Deleted Element #4896 found in the priority queue
+++++++++++++++++++++++    ERROR #219   ++++++++++++++++++++++
+   Deleted Element #4895 found in the priority queue
+++++++++++++++++++++++    ERROR #220   ++++++++++++++++++++++
+   Deleted Element #4893 found in the priority queue
+++++++++++++++++++++++    ERROR #221   ++++++++++++++++++++++
+   Deleted Element #4892 found in the priority queue
+++++++++++++++++++++++    ERROR #222   ++++++++++++++++++++++
+   Deleted Element #4891 found in the priority queue
+++++++++++++++++++++++    ERROR #223   ++++++++++++++++++++++
+   Deleted Element #4890 found in the priority queue
+++++++++++++++++++++++    ERROR #224   ++++++++++++++++++++++
+   Deleted Element #4889 found in the priority queue
+++++++++++++++++++++++    ERROR #225   ++++++++++++++++++++++
+   Deleted Element #4887 found in the priority queue
+++++++++++++++++++++++    ERROR #226   ++++++++++++++++++++++
+   Deleted Element #4886 found in the priority queue
+++++++++++++++++++++++    ERROR #227   ++++++++++++++++++++++
+   Deleted Element #4885 found in the priority queue
+++++++++++++++++++++++    ERROR #228   ++++++++++++++++++++++
+   Deleted Element #4884 found in the priority queue
+++++++++++++++++++++++    ERROR #229   ++++++++++++++++++++++
+   Deleted Element #4882 found in the priority queue
+++++++++++++++++++++++    ERROR #230   ++++++++++++++++++++++
+   Deleted Element #4880 found in the priority queue
+++++++++++++++++++++++    ERROR #231   ++++++++++++++++++++++
+   Deleted Element #4879 found in the priority queue
+++++++++++++++++++++++    ERROR #232   ++++++++++++++++++++++
+   Deleted Element #4878 found in the priority queue
+++++++++++++++++++++++    ERROR #233   ++++++++++++++++++++++
+   Deleted Element #4877 found in the priority queue
+++++++++++++++++++++++    ERROR #234   ++++++++++++++++++++++
+   Deleted Element #4874 found in the priority queue
+++++++++++++++++++++++    ERROR #235   ++++++++++++++++++++++
+   Deleted Element #4872 found in the priority queue
+++++++++++++++++++++++    ERROR #236   ++++++++++++++++++++++
+   Deleted Element #4871 found in the priority queue
+++++++++++++++++++++++    ERROR #237   ++++++++++++++++++++++
+   Deleted Element #4870 found in the priority queue
+++++++++++++++++++++++    ERROR #238   ++++++++++++++++++++++
+   Deleted Element #4869 found in the priority queue
+++++++++++++++++++++++    ERROR #239   ++++++++++++++++++++++
+   Deleted Element #4868 found in the priority queue
+++++++++++++++++++++++    ERROR #240   ++++++++++++++++++++++
+   Deleted Element #4867 found in the priority queue
+++++++++++++++++++++++    ERROR #241   ++++++++++++++++++++++
+   Deleted Element #4866 found in the priority queue
+++++++++++++++++++++++    ERROR #242   ++++++++++++++++++++++
+   Deleted Element #4865 found in the priority queue
+++++++++++++++++++++++    ERROR #243   ++++++++++++++++++++++
+   Deleted Element #4864 found in the priority queue
+++++++++++++++++++++++    ERROR #244   ++++++++++++++++++++++
+   Deleted Element #4863 found in the priority queue
+++++++++++++++++++++++    ERROR #245   ++++++++++++++++++++++
+   Deleted Element #4859 found in the priority queue
+++++++++++++++++++++++    ERROR #246   ++++++++++++++++++++++
+   Deleted Element #4855 found in the priority queue
+++++++++++++++++++++++    ERROR #247   ++++++++++++++++++++++
+   Deleted Element #4854 found in the priority queue
+++++++++++++++++++++++    ERROR #248   ++++++++++++++++++++++
+   Deleted Element #4852 found in the priority queue
+++++++++++++++++++++++    ERROR #249   ++++++++++++++++++++++
+   Deleted Element #4851 found in the priority queue
+++++++++++++++++++++++    ERROR #250   ++++++++++++++++++++++
+   Deleted Element #4849 found in the priority queue
+++++++++++++++++++++++    ERROR #251   ++++++++++++++++++++++
+   Deleted Element #4848 found in the priority queue
+++++++++++++++++++++++    ERROR #252   ++++++++++++++++++++++
+   Deleted Element #4846 found in the priority queue
+++++++++++++++++++++++    ERROR #253   ++++++++++++++++++++++
+   Deleted Element #4843 found in the priority queue
+++++++++++++++++++++++    ERROR #254   ++++++++++++++++++++++
+   Deleted Element #4840 found in the priority queue
+++++++++++++++++++++++    ERROR #255   ++++++++++++++++++++++
+   Deleted Element #4839 found in the priority queue
+++++++++++++++++++++++    ERROR #256   ++++++++++++++++++++++
+   Deleted Element #4838 found in the priority queue
+++++++++++++++++++++++    ERROR #257   ++++++++++++++++++++++
+   Deleted Element #4837 found in the priority queue
+++++++++++++++++++++++    ERROR #258   ++++++++++++++++++++++
+   Deleted Element #4835 found in the priority queue
+++++++++++++++++++++++    ERROR #259   ++++++++++++++++++++++
+   Deleted Element #4834 found in the priority queue
+++++++++++++++++++++++    ERROR #260   ++++++++++++++++++++++
+   Deleted Element #4833 found in the priority queue
+++++++++++++++++++++++    ERROR #261   ++++++++++++++++++++++
+   Deleted Element #4830 found in the priority queue
+++++++++++++++++++++++    ERROR #262   ++++++++++++++++++++++
+   Deleted Element #4829 found in the priority queue
+++++++++++++++++++++++    ERROR #263   ++++++++++++++++++++++
+   Deleted Element #4827 found in the priority queue
+++++++++++++++++++++++    ERROR #264   ++++++++++++++++++++++
+   Deleted Element #4826 found in the priority queue
+++++++++++++++++++++++    ERROR #265   ++++++++++++++++++++++
+   Deleted Element #4825 found in the priority queue
+++++++++++++++++++++++    ERROR #266   ++++++++++++++++++++++
+   Deleted Element #4824 found in the priority queue
+++++++++++++++++++++++    ERROR #267   ++++++++++++++++++++++
+   Deleted Element #4823 found in the priority queue
+++++++++++++++++++++++    ERROR #268   ++++++++++++++++++++++
+   Deleted Element #4816 found in the priority queue
+++++++++++++++++++++++    ERROR #269   ++++++++++++++++++++++
+   Deleted Element #4815 found in the priority queue
+++++++++++++++++++++++    ERROR #270   ++++++++++++++++++++++
+   Deleted Element #4814 found in the priority queue
+++++++++++++++++++++++    ERROR #271   ++++++++++++++++++++++
+   Deleted Element #4812 found in the priority queue
+++++++++++++++++++++++    ERROR #272   ++++++++++++++++++++++
+   Deleted Element #4810 found in the priority queue
+++++++++++++++++++++++    ERROR #273   ++++++++++++++++++++++
+   Deleted Element #4809 found in the priority queue
+++++++++++++++++++++++    ERROR #274   ++++++++++++++++++++++
+   Deleted Element #4808 found in the priority queue
+++++++++++++++++++++++    ERROR #275   ++++++++++++++++++++++
+   Deleted Element #4807 found in the priority queue
+++++++++++++++++++++++    ERROR #276   ++++++++++++++++++++++
+   Deleted Element #4805 found in the priority queue
+++++++++++++++++++++++    ERROR #277   ++++++++++++++++++++++
+   Deleted Element #4804 found in the priority queue
+++++++++++++++++++++++    ERROR #278   ++++++++++++++++++++++
+   Deleted Element #4803 found in the priority queue
+++++++++++++++++++++++    ERROR #279   ++++++++++++++++++++++
+   Deleted Element #4802 found in the priority queue
+++++++++++++++++++++++    ERROR #280   ++++++++++++++++++++++
+   Deleted Element #4801 found in the priority queue
+++++++++++++++++++++++    ERROR #281   ++++++++++++++++++++++
+   Deleted Element #4800 found in the priority queue
+++++++++++++++++++++++    ERROR #282   ++++++++++++++++++++++
+   Deleted Element #4799 found in the priority queue
+++++++++++++++++++++++    ERROR #283   ++++++++++++++++++++++
+   Deleted Element #4796 found in the priority queue
+++++++++++++++++++++++    ERROR #284   ++++++++++++++++++++++
+   Deleted Element #4793 found in the priority queue
+++++++++++++++++++++++    ERROR #285   ++++++++++++++++++++++
+   Deleted Element #4790 found in the priority queue
+++++++++++++++++++++++    ERROR #286   ++++++++++++++++++++++
+   Deleted Element #4789 found in the priority queue
+++++++++++++++++++++++    ERROR #287   ++++++++++++++++++++++
+   Deleted Element #4785 found in the priority queue
+++++++++++++++++++++++    ERROR #288   ++++++++++++++++++++++
+   Deleted Element #4783 found in the priority queue
+++++++++++++++++++++++    ERROR #289   ++++++++++++++++++++++
+   Deleted Element #4780 found in the priority queue
+++++++++++++++++++++++    ERROR #290   ++++++++++++++++++++++
+   Deleted Element #4778 found in the priority queue
+++++++++++++++++++++++    ERROR #291   ++++++++++++++++++++++
+   Deleted Element #4777 found in the priority queue
+++++++++++++++++++++++    ERROR #292   ++++++++++++++++++++++
+   Deleted Element #4776 found in the priority queue
+++++++++++++++++++++++    ERROR #293   ++++++++++++++++++++++
+   Deleted Element #4775 found in the priority queue
+++++++++++++++++++++++    ERROR #294   ++++++++++++++++++++++
+   Deleted Element #4773 found in the priority queue
+++++++++++++++++++++++    ERROR #295   ++++++++++++++++++++++
+   Deleted Element #4769 found in the priority queue
+++++++++++++++++++++++    ERROR #296   ++++++++++++++++++++++
+   Deleted Element #4768 found in the priority queue
+++++++++++++++++++++++    ERROR #297   ++++++++++++++++++++++
+   Deleted Element #4765 found in the priority queue
+++++++++++++++++++++++    ERROR #298   ++++++++++++++++++++++
+   Deleted Element #4764 found in the priority queue
+++++++++++++++++++++++    ERROR #299   ++++++++++++++++++++++
+   Deleted Element #4762 found in the priority queue
+++++++++++++++++++++++    ERROR #300   ++++++++++++++++++++++
+   Deleted Element #4761 found in the priority queue
+++++++++++++++++++++++    ERROR #301   ++++++++++++++++++++++
+   Deleted Element #4759 found in the priority queue
+++++++++++++++++++++++    ERROR #302   ++++++++++++++++++++++
+   Deleted Element #4758 found in the priority queue
+++++++++++++++++++++++    ERROR #303   ++++++++++++++++++++++
+   Deleted Element #4757 found in the priority queue
+++++++++++++++++++++++    ERROR #304   ++++++++++++++++++++++
+   Deleted Element #4753 found in the priority queue
+++++++++++++++++++++++    ERROR #305   ++++++++++++++++++++++
+   Deleted Element #4751 found in the priority queue
+++++++++++++++++++++++    ERROR #306   ++++++++++++++++++++++
+   Deleted Element #4750 found in the priority queue
+++++++++++++++++++++++    ERROR #307   ++++++++++++++++++++++
+   Deleted Element #4749 found in the priority queue
+++++++++++++++++++++++    ERROR #308   ++++++++++++++++++++++
+   Deleted Element #4746 found in the priority queue
+++++++++++++++++++++++    ERROR #309   ++++++++++++++++++++++
+   Deleted Element #4745 found in the priority queue
+++++++++++++++++++++++    ERROR #310   ++++++++++++++++++++++
+   Deleted Element #4744 found in the priority queue
+++++++++++++++++++++++    ERROR #311   ++++++++++++++++++++++
+   Deleted Element #4743 found in the priority queue
+++++++++++++++++++++++    ERROR #312   ++++++++++++++++++++++
+   Deleted Element #4742 found in the priority queue
+++++++++++++++++++++++    ERROR #313   ++++++++++++++++++++++
+   Deleted Element #4741 found in the priority queue
+++++++++++++++++++++++    ERROR #314   ++++++++++++++++++++++
+   Deleted Element #4740 found in the priority queue
+++++++++++++++++++++++    ERROR #315   ++++++++++++++++++++++
+   Deleted Element #4738 found in the priority queue
+++++++++++++++++++++++    ERROR #316   ++++++++++++++++++++++
+   Deleted Element #4737 found in the priority queue
+++++++++++++++++++++++    ERROR #317   ++++++++++++++++++++++
+   Deleted Element #4736 found in the priority queue
+++++++++++++++++++++++    ERROR #318   ++++++++++++++++++++++
+   Deleted Element #4735 found in the priority queue
+++++++++++++++++++++++    ERROR #319   ++++++++++++++++++++++
+   Deleted Element #4732 found in the priority queue
+++++++++++++++++++++++    ERROR #320   ++++++++++++++++++++++
+   Deleted Element #4731 found in the priority queue
+++++++++++++++++++++++    ERROR #321   ++++++++++++++++++++++
+   Deleted Element #4728 found in the priority queue
+++++++++++++++++++++++    ERROR #322   ++++++++++++++++++++++
+   Deleted Element #4726 found in the priority queue
+++++++++++++++++++++++    ERROR #323   ++++++++++++++++++++++
+   Deleted Element #4725 found in the priority queue
+++++++++++++++++++++++    ERROR #324   ++++++++++++++++++++++
+   Deleted Element #4724 found in the priority queue
+++++++++++++++++++++++    ERROR #325   ++++++++++++++++++++++
+   Deleted Element #4723 found in the priority queue
+++++++++++++++++++++++    ERROR #326   ++++++++++++++++++++++
+   Deleted Element #4721 found in the priority queue
+++++++++++++++++++++++    ERROR #327   ++++++++++++++++++++++
+   Deleted Element #4720 found in the priority queue
+++++++++++++++++++++++    ERROR #328   ++++++++++++++++++++++
+   Deleted Element #4719 found in the priority queue
+++++++++++++++++++++++    ERROR #329   ++++++++++++++++++++++
+   Deleted Element #4717 found in the priority queue
+++++++++++++++++++++++    ERROR #330   ++++++++++++++++++++++
+   Deleted Element #4716 found in the priority queue
+++++++++++++++++++++++    ERROR #331   ++++++++++++++++++++++
+   Deleted Element #4715 found in the priority queue
+++++++++++++++++++++++    ERROR #332   ++++++++++++++++++++++
+   Deleted Element #4713 found in the priority queue
+++++++++++++++++++++++    ERROR #333   ++++++++++++++++++++++
+   Deleted Element #4712 found in the priority queue
+++++++++++++++++++++++    ERROR #334   ++++++++++++++++++++++
+   Deleted Element #4711 found in the priority queue
+++++++++++++++++++++++    ERROR #335   ++++++++++++++++++++++
+   Deleted Element #4710 found in the priority queue
+++++++++++++++++++++++    ERROR #336   ++++++++++++++++++++++
+   Deleted Element #4709 found in the priority queue
+++++++++++++++++++++++    ERROR #337   ++++++++++++++++++++++
+   Deleted Element #4708 found in the priority queue
+++++++++++++++++++++++    ERROR #338   ++++++++++++++++++++++
+   Deleted Element #4707 found in the priority queue
+++++++++++++++++++++++    ERROR #339   ++++++++++++++++++++++
+   Deleted Element #4706 found in the priority queue
+++++++++++++++++++++++    ERROR #340   ++++++++++++++++++++++
+   Deleted Element #4705 found in the priority queue
+++++++++++++++++++++++    ERROR #341   ++++++++++++++++++++++
+   Deleted Element #4704 found in the priority queue
+++++++++++++++++++++++    ERROR #342   ++++++++++++++++++++++
+   Deleted Element #4702 found in the priority queue
+++++++++++++++++++++++    ERROR #343   ++++++++++++++++++++++
+   Deleted Element #4698 found in the priority queue
+++++++++++++++++++++++    ERROR #344   ++++++++++++++++++++++
+   Deleted Element #4697 found in the priority queue
+++++++++++++++++++++++    ERROR #345   ++++++++++++++++++++++
+   Deleted Element #4696 found in the priority queue
+++++++++++++++++++++++    ERROR #346   ++++++++++++++++++++++
+   Deleted Element #4695 found in the priority queue
+++++++++++++++++++++++    ERROR #347   ++++++++++++++++++++++
+   Deleted Element #4690 found in the priority queue
+++++++++++++++++++++++    ERROR #348   ++++++++++++++++++++++
+   Deleted Element #4687 found in the priority queue
+++++++++++++++++++++++    ERROR #349   ++++++++++++++++++++++
+   Deleted Element #4686 found in the priority queue
+++++++++++++++++++++++    ERROR #350   ++++++++++++++++++++++
+   Deleted Element #4679 found in the priority queue
+++++++++++++++++++++++    ERROR #351   ++++++++++++++++++++++
+   Deleted Element #4678 found in the priority queue
+++++++++++++++++++++++    ERROR #352   ++++++++++++++++++++++
+   Deleted Element #4677 found in the priority queue
+++++++++++++++++++++++    ERROR #353   ++++++++++++++++++++++
+   Deleted Element #4675 found in the priority queue
+++++++++++++++++++++++    ERROR #354   ++++++++++++++++++++++
+   Deleted Element #4674 found in the priority queue
+++++++++++++++++++++++    ERROR #355   ++++++++++++++++++++++
+   Deleted Element #4673 found in the priority queue
+++++++++++++++++++++++    ERROR #356   ++++++++++++++++++++++
+   Deleted Element #4672 found in the priority queue
+++++++++++++++++++++++    ERROR #357   ++++++++++++++++++++++
+   Deleted Element #4671 found in the priority queue
+++++++++++++++++++++++    ERROR #358   ++++++++++++++++++++++
+   Deleted Element #4670 found in the priority queue
+++++++++++++++++++++++    ERROR #359   ++++++++++++++++++++++
+   Deleted Element #4667 found in the priority queue
+++++++++++++++++++++++    ERROR #360   ++++++++++++++++++++++
+   Deleted Element #4666 found in the priority queue
+++++++++++++++++++++++    ERROR #361   ++++++++++++++++++++++
+   Deleted Element #4665 found in the priority queue
+++++++++++++++++++++++    ERROR #362   ++++++++++++++++++++++
+   Deleted Element #4663 found in the priority queue
+++++++++++++++++++++++    ERROR #363   ++++++++++++++++++++++
+   Deleted Element #4661 found in the priority queue
+++++++++++++++++++++++    ERROR #364   ++++++++++++++++++++++
+   Deleted Element #4660 found in the priority queue
+++++++++++++++++++++++    ERROR #365   ++++++++++++++++++++++
+   Deleted Element #4658 found in the priority queue
+++++++++++++++++++++++    ERROR #366   ++++++++++++++++++++++
+   Deleted Element #4657 found in the priority queue
+++++++++++++++++++++++    ERROR #367   ++++++++++++++++++++++
+   Deleted Element #4655 found in the priority queue
+++++++++++++++++++++++    ERROR #368   ++++++++++++++++++++++
+   Deleted Element #4654 found in the priority queue
+++++++++++++++++++++++    ERROR #369   ++++++++++++++++++++++
+   Deleted Element #4653 found in the priority queue
+++++++++++++++++++++++    ERROR #370   ++++++++++++++++++++++
+   Deleted Element #4651 found in the priority queue
+++++++++++++++++++++++    ERROR #371   ++++++++++++++++++++++
+   Deleted Element #4650 found in the priority queue
+++++++++++++++++++++++    ERROR #372   ++++++++++++++++++++++
+   Deleted Element #4647 found in the priority queue
+++++++++++++++++++++++    ERROR #373   ++++++++++++++++++++++
+   Deleted Element #4646 found in the priority queue
+++++++++++++++++++++++    ERROR #374   ++++++++++++++++++++++
+   Deleted Element #4645 found in the priority queue
+++++++++++++++++++++++    ERROR #375   ++++++++++++++++++++++
+   Deleted Element #4644 found in the priority queue
+++++++++++++++++++++++    ERROR #376   ++++++++++++++++++++++
+   Deleted Element #4643 found in the priority queue
+++++++++++++++++++++++    ERROR #377   ++++++++++++++++++++++
+   Deleted Element #4640 found in the priority queue
+++++++++++++++++++++++    ERROR #378   ++++++++++++++++++++++
+   Deleted Element #4630 found in the priority queue
+++++++++++++++++++++++    ERROR #379   ++++++++++++++++++++++
+   Deleted Element #4629 found in the priority queue
+++++++++++++++++++++++    ERROR #380   ++++++++++++++++++++++
+   Deleted Element #4628 found in the priority queue
+++++++++++++++++++++++    ERROR #381   ++++++++++++++++++++++
+   Deleted Element #4627 found in the priority queue
+++++++++++++++++++++++    ERROR #382   ++++++++++++++++++++++
+   Deleted Element #4626 found in the priority queue
+++++++++++++++++++++++    ERROR #383   ++++++++++++++++++++++
+   Deleted Element #4625 found in the priority queue
+++++++++++++++++++++++    ERROR #384   ++++++++++++++++++++++
+   Deleted Element #4624 found in the priority queue
+++++++++++++++++++++++    ERROR #385   ++++++++++++++++++++++
+   Deleted Element #4623 found in the priority queue
+++++++++++++++++++++++    ERROR #386   ++++++++++++++++++++++
+   Deleted Element #4621 found in the priority queue
+++++++++++++++++++++++    ERROR #387   ++++++++++++++++++++++
+   Deleted Element #4620 found in the priority queue
+++++++++++++++++++++++    ERROR #388   ++++++++++++++++++++++
+   Deleted Element #4619 found in the priority queue
+++++++++++++++++++++++    ERROR #389   ++++++++++++++++++++++
+   Deleted Element #4618 found in the priority queue
+++++++++++++++++++++++    ERROR #390   ++++++++++++++++++++++
+   Deleted Element #4617 found in the priority queue
+++++++++++++++++++++++    ERROR #391   ++++++++++++++++++++++
+   Deleted Element #4615 found in the priority queue
+++++++++++++++++++++++    ERROR #392   ++++++++++++++++++++++
+   Deleted Element #4613 found in the priority queue
+++++++++++++++++++++++    ERROR #393   ++++++++++++++++++++++
+   Deleted Element #4610 found in the priority queue
+++++++++++++++++++++++    ERROR #394   ++++++++++++++++++++++
+   Deleted Element #4608 found in the priority queue
+++++++++++++++++++++++    ERROR #395   ++++++++++++++++++++++
+   Deleted Element #4607 found in the priority queue
+++++++++++++++++++++++    ERROR #396   ++++++++++++++++++++++
+   Deleted Element #4606 found in the priority queue
+++++++++++++++++++++++    ERROR #397   ++++++++++++++++++++++
+   Deleted Element #4605 found in the priority queue
+++++++++++++++++++++++    ERROR #398   ++++++++++++++++++++++
+   Deleted Element #4604 found in the priority queue
+++++++++++++++++++++++    ERROR #399   ++++++++++++++++++++++
+   Deleted Element #4603 found in the priority queue
+++++++++++++++++++++++    ERROR #400   ++++++++++++++++++++++
+   Deleted Element #4601 found in the priority queue
+++++++++++++++++++++++    ERROR #401   ++++++++++++++++++++++
+   Deleted Element #4599 found in the priority queue
+++++++++++++++++++++++    ERROR #402   ++++++++++++++++++++++
+   Deleted Element #4597 found in the priority queue
+++++++++++++++++++++++    ERROR #403   ++++++++++++++++++++++
+   Deleted Element #4594 found in the priority queue
+++++++++++++++++++++++    ERROR #404   ++++++++++++++++++++++
+   Deleted Element #4593 found in the priority queue
+++++++++++++++++++++++    ERROR #405   ++++++++++++++++++++++
+   Deleted Element #4591 found in the priority queue
+++++++++++++++++++++++    ERROR #406   ++++++++++++++++++++++
+   Deleted Element #4590 found in the priority queue
+++++++++++++++++++++++    ERROR #407   ++++++++++++++++++++++
+   Deleted Element #4589 found in the priority queue
+++++++++++++++++++++++    ERROR #408   ++++++++++++++++++++++
+   Deleted Element #4588 found in the priority queue
+++++++++++++++++++++++    ERROR #409   ++++++++++++++++++++++
+   Deleted Element #4586 found in the priority queue
+++++++++++++++++++++++    ERROR #410   ++++++++++++++++++++++
+   Deleted Element #4585 found in the priority queue
+++++++++++++++++++++++    ERROR #411   ++++++++++++++++++++++
+   Deleted Element #4584 found in the priority queue
+++++++++++++++++++++++    ERROR #412   ++++++++++++++++++++++
+   Deleted Element #4583 found in the priority queue
+++++++++++++++++++++++    ERROR #413   ++++++++++++++++++++++
+   Deleted Element #4582 found in the priority queue
+++++++++++++++++++++++    ERROR #414   ++++++++++++++++++++++
+   Deleted Element #4581 found in the priority queue
+++++++++++++++++++++++    ERROR #415   ++++++++++++++++++++++
+   Deleted Element #4580 found in the priority queue
+++++++++++++++++++++++    ERROR #416   ++++++++++++++++++++++
+   Deleted Element #4579 found in the priority queue
+++++++++++++++++++++++    ERROR #417   ++++++++++++++++++++++
+   Deleted Element #4577 found in the priority queue
+++++++++++++++++++++++    ERROR #418   ++++++++++++++++++++++
+   Deleted Element #4573 found in the priority queue
+++++++++++++++++++++++    ERROR #419   ++++++++++++++++++++++
+   Deleted Element #4572 found in the priority queue
+++++++++++++++++++++++    ERROR #420   ++++++++++++++++++++++
+   Deleted Element #4570 found in the priority queue
+++++++++++++++++++++++    ERROR #421   ++++++++++++++++++++++
+   Deleted Element #4569 found in the priority queue
+++++++++++++++++++++++    ERROR #422   ++++++++++++++++++++++
+   Deleted Element #4568 found in the priority queue
+++++++++++++++++++++++    ERROR #423   ++++++++++++++++++++++
+   Deleted Element #4567 found in the priority queue
+++++++++++++++++++++++    ERROR #424   ++++++++++++++++++++++
+   Deleted Element #4566 found in the priority queue
+++++++++++++++++++++++    ERROR #425   ++++++++++++++++++++++
+   Deleted Element #4565 found in the priority queue
+++++++++++++++++++++++    ERROR #426   ++++++++++++++++++++++
+   Deleted Element #4564 found in the priority queue
+++++++++++++++++++++++    ERROR #427   ++++++++++++++++++++++
+   Deleted Element #4563 found in the priority queue
+++++++++++++++++++++++    ERROR #428   ++++++++++++++++++++++
+   Deleted Element #4561 found in the priority queue
+++++++++++++++++++++++    ERROR #429   ++++++++++++++++++++++
+   Deleted Element #4560 found in the priority queue
+++++++++++++++++++++++    ERROR #430   ++++++++++++++++++++++
+   Deleted Element #4559 found in the priority queue
+++++++++++++++++++++++    ERROR #431   ++++++++++++++++++++++
+   Deleted Element #4557 found in the priority queue
+++++++++++++++++++++++    ERROR #432   ++++++++++++++++++++++
+   Deleted Element #4556 found in the priority queue
+++++++++++++++++++++++    ERROR #433   ++++++++++++++++++++++
+   Deleted Element #4554 found in the priority queue
+++++++++++++++++++++++    ERROR #434   ++++++++++++++++++++++
+   Deleted Element #4553 found in the priority queue
+++++++++++++++++++++++    ERROR #435   ++++++++++++++++++++++
+   Deleted Element #4552 found in the priority queue
+++++++++++++++++++++++    ERROR #436   ++++++++++++++++++++++
+   Deleted Element #4549 found in the priority queue
+++++++++++++++++++++++    ERROR #437   ++++++++++++++++++++++
+   Deleted Element #4548 found in the priority queue
+++++++++++++++++++++++    ERROR #438   ++++++++++++++++++++++
+   Deleted Element #4546 found in the priority queue
+++++++++++++++++++++++    ERROR #439   ++++++++++++++++++++++
+   Deleted Element #4545 found in the priority queue
+++++++++++++++++++++++    ERROR #440   ++++++++++++++++++++++
+   Deleted Element #4543 found in the priority queue
+++++++++++++++++++++++    ERROR #441   ++++++++++++++++++++++
+   Deleted Element #4542 found in the priority queue
+++++++++++++++++++++++    ERROR #442   ++++++++++++++++++++++
+   Deleted Element #4541 found in the priority queue
+++++++++++++++++++++++    ERROR #443   ++++++++++++++++++++++
+   Deleted Element #4540 found in the priority queue
+++++++++++++++++++++++    ERROR #444   ++++++++++++++++++++++
+   Deleted Element #4538 found in the priority queue
+++++++++++++++++++++++    ERROR #445   ++++++++++++++++++++++
+   Deleted Element #4537 found in the priority queue
+++++++++++++++++++++++    ERROR #446   ++++++++++++++++++++++
+   Deleted Element #4536 found in the priority queue
+++++++++++++++++++++++    ERROR #447   ++++++++++++++++++++++
+   Deleted Element #4534 found in the priority queue
+++++++++++++++++++++++    ERROR #448   ++++++++++++++++++++++
+   Deleted Element #4533 found in the priority queue
+++++++++++++++++++++++    ERROR #449   ++++++++++++++++++++++
+   Deleted Element #4532 found in the priority queue
+++++++++++++++++++++++    ERROR #450   ++++++++++++++++++++++
+   Deleted Element #4529 found in the priority queue
+++++++++++++++++++++++    ERROR #451   ++++++++++++++++++++++
+   Deleted Element #4528 found in the priority queue
+++++++++++++++++++++++    ERROR #452   ++++++++++++++++++++++
+   Deleted Element #4526 found in the priority queue
+++++++++++++++++++++++    ERROR #453   ++++++++++++++++++++++
+   Deleted Element #4525 found in the priority queue
+++++++++++++++++++++++    ERROR #454   ++++++++++++++++++++++
+   Deleted Element #4524 found in the priority queue
+++++++++++++++++++++++    ERROR #455   ++++++++++++++++++++++
+   Deleted Element #4521 found in the priority queue
+++++++++++++++++++++++    ERROR #456   ++++++++++++++++++++++
+   Deleted Element #4520 found in the priority queue
+++++++++++++++++++++++    ERROR #457   ++++++++++++++++++++++
+   Deleted Element #4519 found in the priority queue
+++++++++++++++++++++++    ERROR #458   ++++++++++++++++++++++
+   Deleted Element #4517 found in the priority queue
+++++++++++++++++++++++    ERROR #459   ++++++++++++++++++++++
+   Deleted Element #4514 found in the priority queue
+++++++++++++++++++++++    ERROR #460   ++++++++++++++++++++++
+   Deleted Element #4509 found in the priority queue
+++++++++++++++++++++++    ERROR #461   ++++++++++++++++++++++
+   Deleted Element #4508 found in the priority queue
+++++++++++++++++++++++    ERROR #462   ++++++++++++++++++++++
+   Deleted Element #4507 found in the priority queue
+++++++++++++++++++++++    ERROR #463   ++++++++++++++++++++++
+   Deleted Element #4504 found in the priority queue
+++++++++++++++++++++++    ERROR #464   ++++++++++++++++++++++
+   Deleted Element #4501 found in the priority queue
+++++++++++++++++++++++    ERROR #465   ++++++++++++++++++++++
+   Deleted Element #4500 found in the priority queue
+++++++++++++++++++++++    ERROR #466   ++++++++++++++++++++++
+   Deleted Element #4499 found in the priority queue
+++++++++++++++++++++++    ERROR #467   ++++++++++++++++++++++
+   Deleted Element #4498 found in the priority queue
+++++++++++++++++++++++    ERROR #468   ++++++++++++++++++++++
+   Deleted Element #4497 found in the priority queue
+++++++++++++++++++++++    ERROR #469   ++++++++++++++++++++++
+   Deleted Element #4496 found in the priority queue
+++++++++++++++++++++++    ERROR #470   ++++++++++++++++++++++
+   Deleted Element #4495 found in the priority queue
+++++++++++++++++++++++    ERROR #471   ++++++++++++++++++++++
+   Deleted Element #4494 found in the priority queue
+++++++++++++++++++++++    ERROR #472   ++++++++++++++++++++++
+   Deleted Element #4493 found in the priority queue
+++++++++++++++++++++++    ERROR #473   ++++++++++++++++++++++
+   Deleted Element #4492 found in the priority queue
+++++++++++++++++++++++    ERROR #474   ++++++++++++++++++++++
+   Deleted Element #4491 found in the priority queue
+++++++++++++++++++++++    ERROR #475   ++++++++++++++++++++++
+   Deleted Element #4490 found in the priority queue
+++++++++++++++++++++++    ERROR #476   ++++++++++++++++++++++
+   Deleted Element #4489 found in the priority queue
+++++++++++++++++++++++    ERROR #477   ++++++++++++++++++++++
+   Deleted Element #4487 found in the priority queue
+++++++++++++++++++++++    ERROR #478   ++++++++++++++++++++++
+   Deleted Element #4486 found in the priority queue
+++++++++++++++++++++++    ERROR #479   ++++++++++++++++++++++
+   Deleted Element #4485 found in the priority queue
+++++++++++++++++++++++    ERROR #480   ++++++++++++++++++++++
+   Deleted Element #4482 found in the priority queue
+++++++++++++++++++++++    ERROR #481   ++++++++++++++++++++++
+   Deleted Element #4481 found in the priority queue
+++++++++++++++++++++++    ERROR #482   ++++++++++++++++++++++
+   Deleted Element #4480 found in the priority queue
+++++++++++++++++++++++    ERROR #483   ++++++++++++++++++++++
+   Deleted Element #4479 found in the priority queue
+++++++++++++++++++++++    ERROR #484   ++++++++++++++++++++++
+   Deleted Element #4478 found in the priority queue
+++++++++++++++++++++++    ERROR #485   ++++++++++++++++++++++
+   Deleted Element #4475 found in the priority queue
+++++++++++++++++++++++    ERROR #486   ++++++++++++++++++++++
+   Deleted Element #4474 found in the priority queue
+++++++++++++++++++++++    ERROR #487   ++++++++++++++++++++++
+   Deleted Element #4472 found in the priority queue
+++++++++++++++++++++++    ERROR #488   ++++++++++++++++++++++
+   Deleted Element #4471 found in the priority queue
+++++++++++++++++++++++    ERROR #489   ++++++++++++++++++++++
+   Deleted Element #4470 found in the priority queue
+++++++++++++++++++++++    ERROR #490   ++++++++++++++++++++++
+   Deleted Element #4467 found in the priority queue
+++++++++++++++++++++++    ERROR #491   ++++++++++++++++++++++
+   Deleted Element #4466 found in the priority queue
+++++++++++++++++++++++    ERROR #492   ++++++++++++++++++++++
+   Deleted Element #4462 found in the priority queue
+++++++++++++++++++++++    ERROR #493   ++++++++++++++++++++++
+   Deleted Element #4459 found in the priority queue
+++++++++++++++++++++++    ERROR #494   ++++++++++++++++++++++
+   Deleted Element #4458 found in the priority queue
+++++++++++++++++++++++    ERROR #495   ++++++++++++++++++++++
+   Deleted Element #4456 found in the priority queue
+++++++++++++++++++++++    ERROR #496   ++++++++++++++++++++++
+   Deleted Element #4455 found in the priority queue
+++++++++++++++++++++++    ERROR #497   ++++++++++++++++++++++
+   Deleted Element #4454 found in the priority queue
+++++++++++++++++++++++    ERROR #498   ++++++++++++++++++++++
+   Deleted Element #4453 found in the priority queue
+++++++++++++++++++++++    ERROR #499   ++++++++++++++++++++++
+   Deleted Element #4449 found in the priority queue
+++++++++++++++++++++++    ERROR #500   ++++++++++++++++++++++
+   Deleted Element #4446 found in the priority queue
+++++++++++++++++++++++    ERROR #501   ++++++++++++++++++++++
+   Deleted Element #4445 found in the priority queue
+++++++++++++++++++++++    ERROR #502   ++++++++++++++++++++++
+   Deleted Element #4444 found in the priority queue
+++++++++++++++++++++++    ERROR #503   ++++++++++++++++++++++
+   Deleted Element #4440 found in the priority queue
+++++++++++++++++++++++    ERROR #504   ++++++++++++++++++++++
+   Deleted Element #4437 found in the priority queue
+++++++++++++++++++++++    ERROR #505   ++++++++++++++++++++++
+   Deleted Element #4434 found in the priority queue
+++++++++++++++++++++++    ERROR #506   ++++++++++++++++++++++
+   Deleted Element #4433 found in the priority queue
+++++++++++++++++++++++    ERROR #507   ++++++++++++++++++++++
+   Deleted Element #4432 found in the priority queue
+++++++++++++++++++++++    ERROR #508   ++++++++++++++++++++++
+   Deleted Element #4431 found in the priority queue
+++++++++++++++++++++++    ERROR #509   ++++++++++++++++++++++
+   Deleted Element #4430 found in the priority queue
+++++++++++++++++++++++    ERROR #510   ++++++++++++++++++++++
+   Deleted Element #4428 found in the priority queue
+++++++++++++++++++++++    ERROR #511   ++++++++++++++++++++++
+   Deleted Element #4425 found in the priority queue
+++++++++++++++++++++++    ERROR #512   ++++++++++++++++++++++
+   Deleted Element #4424 found in the priority queue
+++++++++++++++++++++++    ERROR #513   ++++++++++++++++++++++
+   Deleted Element #4423 found in the priority queue
+++++++++++++++++++++++    ERROR #514   ++++++++++++++++++++++
+   Deleted Element #4422 found in the priority queue
+++++++++++++++++++++++    ERROR #515   ++++++++++++++++++++++
+   Deleted Element #4421 found in the priority queue
+++++++++++++++++++++++    ERROR #516   ++++++++++++++++++++++
+   Deleted Element #4419 found in the priority queue
+++++++++++++++++++++++    ERROR #517   ++++++++++++++++++++++
+   Deleted Element #4417 found in the priority queue
+++++++++++++++++++++++    ERROR #518   ++++++++++++++++++++++
+   Deleted Element #4416 found in the priority queue
+++++++++++++++++++++++    ERROR #519   ++++++++++++++++++++++
+   Deleted Element #4415 found in the priority queue
+++++++++++++++++++++++    ERROR #520   ++++++++++++++++++++++
+   Deleted Element #4411 found in the priority queue
+++++++++++++++++++++++    ERROR #521   ++++++++++++++++++++++
+   Deleted Element #4409 found in the priority queue
+++++++++++++++++++++++    ERROR #522   ++++++++++++++++++++++
+   Deleted Element #4408 found in the priority queue
+++++++++++++++++++++++    ERROR #523   ++++++++++++++++++++++
+   Deleted Element #4407 found in the priority queue
+++++++++++++++++++++++    ERROR #524   ++++++++++++++++++++++
+   Deleted Element #4406 found in the priority queue
+++++++++++++++++++++++    ERROR #525   ++++++++++++++++++++++
+   Deleted Element #4405 found in the priority queue
+++++++++++++++++++++++    ERROR #526   ++++++++++++++++++++++
+   Deleted Element #4404 found in the priority queue
+++++++++++++++++++++++    ERROR #527   ++++++++++++++++++++++
+   Deleted Element #4402 found in the priority queue
+++++++++++++++++++++++    ERROR #528   ++++++++++++++++++++++
+   Deleted Element #4399 found in the priority queue
+++++++++++++++++++++++    ERROR #529   ++++++++++++++++++++++
+   Deleted Element #4398 found in the priority queue
+++++++++++++++++++++++    ERROR #530   ++++++++++++++++++++++
+   Deleted Element #4397 found in the priority queue
+++++++++++++++++++++++    ERROR #531   ++++++++++++++++++++++
+   Deleted Element #4394 found in the priority queue
+++++++++++++++++++++++    ERROR #532   ++++++++++++++++++++++
+   Deleted Element #4393 found in the priority queue
+++++++++++++++++++++++    ERROR #533   ++++++++++++++++++++++
+   Deleted Element #4392 found in the priority queue
+++++++++++++++++++++++    ERROR #534   ++++++++++++++++++++++
+   Deleted Element #4390 found in the priority queue
+++++++++++++++++++++++    ERROR #535   ++++++++++++++++++++++
+   Deleted Element #4389 found in the priority queue
+++++++++++++++++++++++    ERROR #536   ++++++++++++++++++++++
+   Deleted Element #4387 found in the priority queue
+++++++++++++++++++++++    ERROR #537   ++++++++++++++++++++++
+   Deleted Element #4386 found in the priority queue
+++++++++++++++++++++++    ERROR #538   ++++++++++++++++++++++
+   Deleted Element #4385 found in the priority queue
+++++++++++++++++++++++    ERROR #539   ++++++++++++++++++++++
+   Deleted Element #4384 found in the priority queue
+++++++++++++++++++++++    ERROR #540   ++++++++++++++++++++++
+   Deleted Element #4383 found in the priority queue
+++++++++++++++++++++++    ERROR #541   ++++++++++++++++++++++
+   Deleted Element #4382 found in the priority queue
+++++++++++++++++++++++    ERROR #542   ++++++++++++++++++++++
+   Deleted Element #4381 found in the priority queue
+++++++++++++++++++++++    ERROR #543   ++++++++++++++++++++++
+   Deleted Element #4380 found in the priority queue
+++++++++++++++++++++++    ERROR #544   ++++++++++++++++++++++
+   Deleted Element #4379 found in the priority queue
+++++++++++++++++++++++    ERROR #545   ++++++++++++++++++++++
+   Deleted Element #4378 found in the priority queue
+++++++++++++++++++++++    ERROR #546   ++++++++++++++++++++++
+   Deleted Element #4377 found in the priority queue
+++++++++++++++++++++++    ERROR #547   ++++++++++++++++++++++
+   Deleted Element #4376 found in the priority queue
+++++++++++++++++++++++    ERROR #548   ++++++++++++++++++++++
+   Deleted Element #4375 found in the priority queue
+++++++++++++++++++++++    ERROR #549   ++++++++++++++++++++++
+   Deleted Element #4374 found in the priority queue
+++++++++++++++++++++++    ERROR #550   ++++++++++++++++++++++
+   Deleted Element #4372 found in the priority queue
+++++++++++++++++++++++    ERROR #551   ++++++++++++++++++++++
+   Deleted Element #4371 found in the priority queue
+++++++++++++++++++++++    ERROR #552   ++++++++++++++++++++++
+   Deleted Element #4369 found in the priority queue
+++++++++++++++++++++++    ERROR #553   ++++++++++++++++++++++
+   Deleted Element #4368 found in the priority queue
+++++++++++++++++++++++    ERROR #554   ++++++++++++++++++++++
+   Deleted Element #4366 found in the priority queue
+++++++++++++++++++++++    ERROR #555   ++++++++++++++++++++++
+   Deleted Element #4365 found in the priority queue
+++++++++++++++++++++++    ERROR #556   ++++++++++++++++++++++
+   Deleted Element #4362 found in the priority queue
+++++++++++++++++++++++    ERROR #557   ++++++++++++++++++++++
+   Deleted Element #4357 found in the priority queue
+++++++++++++++++++++++    ERROR #558   ++++++++++++++++++++++
+   Deleted Element #4355 found in the priority queue
+++++++++++++++++++++++    ERROR #559   ++++++++++++++++++++++
+   Deleted Element #4353 found in the priority queue
+++++++++++++++++++++++    ERROR #560   ++++++++++++++++++++++
+   Deleted Element #4352 found in the priority queue
+++++++++++++++++++++++    ERROR #561   ++++++++++++++++++++++
+   Deleted Element #4348 found in the priority queue
+++++++++++++++++++++++    ERROR #562   ++++++++++++++++++++++
+   Deleted Element #4345 found in the priority queue
+++++++++++++++++++++++    ERROR #563   ++++++++++++++++++++++
+   Deleted Element #4342 found in the priority queue
+++++++++++++++++++++++    ERROR #564   ++++++++++++++++++++++
+   Deleted Element #4340 found in the priority queue
+++++++++++++++++++++++    ERROR #565   ++++++++++++++++++++++
+   Deleted Element #4339 found in the priority queue
+++++++++++++++++++++++    ERROR #566   ++++++++++++++++++++++
+   Deleted Element #4337 found in the priority queue
+++++++++++++++++++++++    ERROR #567   ++++++++++++++++++++++
+   Deleted Element #4336 found in the priority queue
+++++++++++++++++++++++    ERROR #568   ++++++++++++++++++++++
+   Deleted Element #4334 found in the priority queue
+++++++++++++++++++++++    ERROR #569   ++++++++++++++++++++++
+   Deleted Element #4333 found in the priority queue
+++++++++++++++++++++++    ERROR #570   ++++++++++++++++++++++
+   Deleted Element #4332 found in the priority queue
+++++++++++++++++++++++    ERROR #571   ++++++++++++++++++++++
+   Deleted Element #4331 found in the priority queue
+++++++++++++++++++++++    ERROR #572   ++++++++++++++++++++++
+   Deleted Element #4329 found in the priority queue
+++++++++++++++++++++++    ERROR #573   ++++++++++++++++++++++
+   Deleted Element #4327 found in the priority queue
+++++++++++++++++++++++    ERROR #574   ++++++++++++++++++++++
+   Deleted Element #4326 found in the priority queue
+++++++++++++++++++++++    ERROR #575   ++++++++++++++++++++++
+   Deleted Element #4325 found in the priority queue
+++++++++++++++++++++++    ERROR #576   ++++++++++++++++++++++
+   Deleted Element #4324 found in the priority queue
+++++++++++++++++++++++    ERROR #577   ++++++++++++++++++++++
+   Deleted Element #4322 found in the priority queue
+++++++++++++++++++++++    ERROR #578   ++++++++++++++++++++++
+   Deleted Element #4321 found in the priority queue
+++++++++++++++++++++++    ERROR #579   ++++++++++++++++++++++
+   Deleted Element #4320 found in the priority queue
+++++++++++++++++++++++    ERROR #580   ++++++++++++++++++++++
+   Deleted Element #4319 found in the priority queue
+++++++++++++++++++++++    ERROR #581   ++++++++++++++++++++++
+   Deleted Element #4317 found in the priority queue
+++++++++++++++++++++++    ERROR #582   ++++++++++++++++++++++
+   Deleted Element #4316 found in the priority queue
+++++++++++++++++++++++    ERROR #583   ++++++++++++++++++++++
+   Deleted Element #4315 found in the priority queue
+++++++++++++++++++++++    ERROR #584   ++++++++++++++++++++++
+   Deleted Element #4313 found in the priority queue
+++++++++++++++++++++++    ERROR #585   ++++++++++++++++++++++
+   Deleted Element #4312 found in the priority queue
+++++++++++++++++++++++    ERROR #586   ++++++++++++++++++++++
+   Deleted Element #4310 found in the priority queue
+++++++++++++++++++++++    ERROR #587   ++++++++++++++++++++++
+   Deleted Element #4304 found in the priority queue
+++++++++++++++++++++++    ERROR #588   ++++++++++++++++++++++
+   Deleted Element #4301 found in the priority queue
+++++++++++++++++++++++    ERROR #589   ++++++++++++++++++++++
+   Deleted Element #4300 found in the priority queue
+++++++++++++++++++++++    ERROR #590   ++++++++++++++++++++++
+   Deleted Element #4299 found in the priority queue
+++++++++++++++++++++++    ERROR #591   ++++++++++++++++++++++
+   Deleted Element #4296 found in the priority queue
+++++++++++++++++++++++    ERROR #592   ++++++++++++++++++++++
+   Deleted Element #4295 found in the priority queue
+++++++++++++++++++++++    ERROR #593   ++++++++++++++++++++++
+   Deleted Element #4294 found in the priority queue
+++++++++++++++++++++++    ERROR #594   ++++++++++++++++++++++
+   Deleted Element #4292 found in the priority queue
+++++++++++++++++++++++    ERROR #595   ++++++++++++++++++++++
+   Deleted Element #4291 found in the priority queue
+++++++++++++++++++++++    ERROR #596   ++++++++++++++++++++++
+   Deleted Element #4290 found in the priority queue
+++++++++++++++++++++++    ERROR #597   ++++++++++++++++++++++
+   Deleted Element #4289 found in the priority queue
+++++++++++++++++++++++    ERROR #598   ++++++++++++++++++++++
+   Deleted Element #4287 found in the priority queue
+++++++++++++++++++++++    ERROR #599   ++++++++++++++++++++++
+   Deleted Element #4286 found in the priority queue
+++++++++++++++++++++++    ERROR #600   ++++++++++++++++++++++
+   Deleted Element #4285 found in the priority queue
+++++++++++++++++++++++    ERROR #601   ++++++++++++++++++++++
+   Deleted Element #4284 found in the priority queue
+++++++++++++++++++++++    ERROR #602   ++++++++++++++++++++++
+   Deleted Element #4283 found in the priority queue
+++++++++++++++++++++++    ERROR #603   ++++++++++++++++++++++
+   Deleted Element #4280 found in the priority queue
+++++++++++++++++++++++    ERROR #604   ++++++++++++++++++++++
+   Deleted Element #4279 found in the priority queue
+++++++++++++++++++++++    ERROR #605   ++++++++++++++++++++++
+   Deleted Element #4277 found in the priority queue
+++++++++++++++++++++++    ERROR #606   ++++++++++++++++++++++
+   Deleted Element #4271 found in the priority queue
+++++++++++++++++++++++    ERROR #607   ++++++++++++++++++++++
+   Deleted Element #4270 found in the priority queue
+++++++++++++++++++++++    ERROR #608   ++++++++++++++++++++++
+   Deleted Element #4269 found in the priority queue
+++++++++++++++++++++++    ERROR #609   ++++++++++++++++++++++
+   Deleted Element #4265 found in the priority queue
+++++++++++++++++++++++    ERROR #610   ++++++++++++++++++++++
+   Deleted Element #4262 found in the priority queue
+++++++++++++++++++++++    ERROR #611   ++++++++++++++++++++++
+   Deleted Element #4261 found in the priority queue
+++++++++++++++++++++++    ERROR #612   ++++++++++++++++++++++
+   Deleted Element #4260 found in the priority queue
+++++++++++++++++++++++    ERROR #613   ++++++++++++++++++++++
+   Deleted Element #4259 found in the priority queue
+++++++++++++++++++++++    ERROR #614   ++++++++++++++++++++++
+   Deleted Element #4256 found in the priority queue
+++++++++++++++++++++++    ERROR #615   ++++++++++++++++++++++
+   Deleted Element #4255 found in the priority queue
+++++++++++++++++++++++    ERROR #616   ++++++++++++++++++++++
+   Deleted Element #4254 found in the priority queue
+++++++++++++++++++++++    ERROR #617   ++++++++++++++++++++++
+   Deleted Element #4252 found in the priority queue
+++++++++++++++++++++++    ERROR #618   ++++++++++++++++++++++
+   Deleted Element #4251 found in the priority queue
+++++++++++++++++++++++    ERROR #619   ++++++++++++++++++++++
+   Deleted Element #4248 found in the priority queue
+++++++++++++++++++++++    ERROR #620   ++++++++++++++++++++++
+   Deleted Element #4247 found in the priority queue
+++++++++++++++++++++++    ERROR #621   ++++++++++++++++++++++
+   Deleted Element #4246 found in the priority queue
+++++++++++++++++++++++    ERROR #622   ++++++++++++++++++++++
+   Deleted Element #4245 found in the priority queue
+++++++++++++++++++++++    ERROR #623   ++++++++++++++++++++++
+   Deleted Element #4244 found in the priority queue
+++++++++++++++++++++++    ERROR #624   ++++++++++++++++++++++
+   Deleted Element #4243 found in the priority queue
+++++++++++++++++++++++    ERROR #625   ++++++++++++++++++++++
+   Deleted Element #4242 found in the priority queue
+++++++++++++++++++++++    ERROR #626   ++++++++++++++++++++++
+   Deleted Element #4240 found in the priority queue
+++++++++++++++++++++++    ERROR #627   ++++++++++++++++++++++
+   Deleted Element #4238 found in the priority queue
+++++++++++++++++++++++    ERROR #628   ++++++++++++++++++++++
+   Deleted Element #4236 found in the priority queue
+++++++++++++++++++++++    ERROR #629   ++++++++++++++++++++++
+   Deleted Element #4235 found in the priority queue
+++++++++++++++++++++++    ERROR #630   ++++++++++++++++++++++
+   Deleted Element #4233 found in the priority queue
+++++++++++++++++++++++    ERROR #631   ++++++++++++++++++++++
+   Deleted Element #4232 found in the priority queue
+++++++++++++++++++++++    ERROR #632   ++++++++++++++++++++++
+   Deleted Element #4231 found in the priority queue
+++++++++++++++++++++++    ERROR #633   ++++++++++++++++++++++
+   Deleted Element #4230 found in the priority queue
+++++++++++++++++++++++    ERROR #634   ++++++++++++++++++++++
+   Deleted Element #4225 found in the priority queue
+++++++++++++++++++++++    ERROR #635   ++++++++++++++++++++++
+   Deleted Element #4224 found in the priority queue
+++++++++++++++++++++++    ERROR #636   ++++++++++++++++++++++
+   Deleted Element #4222 found in the priority queue
+++++++++++++++++++++++    ERROR #637   ++++++++++++++++++++++
+   Deleted Element #4221 found in the priority queue
+++++++++++++++++++++++    ERROR #638   ++++++++++++++++++++++
+   Deleted Element #4220 found in the priority queue
+++++++++++++++++++++++    ERROR #639   ++++++++++++++++++++++
+   Deleted Element #4219 found in the priority queue
+++++++++++++++++++++++    ERROR #640   ++++++++++++++++++++++
+   Deleted Element #4218 found in the priority queue
+++++++++++++++++++++++    ERROR #641   ++++++++++++++++++++++
+   Deleted Element #4217 found in the priority queue
+++++++++++++++++++++++    ERROR #642   ++++++++++++++++++++++
+   Deleted Element #4216 found in the priority queue
+++++++++++++++++++++++    ERROR #643   ++++++++++++++++++++++
+   Deleted Element #4214 found in the priority queue
+++++++++++++++++++++++    ERROR #644   ++++++++++++++++++++++
+   Deleted Element #4213 found in the priority queue
+++++++++++++++++++++++    ERROR #645   ++++++++++++++++++++++
+   Deleted Element #4211 found in the priority queue
+++++++++++++++++++++++    ERROR #646   ++++++++++++++++++++++
+   Deleted Element #4210 found in the priority queue
+++++++++++++++++++++++    ERROR #647   ++++++++++++++++++++++
+   Deleted Element #4208 found in the priority queue
+++++++++++++++++++++++    ERROR #648   ++++++++++++++++++++++
+   Deleted Element #4207 found in the priority queue
+++++++++++++++++++++++    ERROR #649   ++++++++++++++++++++++
+   Deleted Element #4206 found in the priority queue
+++++++++++++++++++++++    ERROR #650   ++++++++++++++++++++++
+   Deleted Element #4204 found in the priority queue
+++++++++++++++++++++++    ERROR #651   ++++++++++++++++++++++
+   Deleted Element #4203 found in the priority queue
+++++++++++++++++++++++    ERROR #652   ++++++++++++++++++++++
+   Deleted Element #4202 found in the priority queue
+++++++++++++++++++++++    ERROR #653   ++++++++++++++++++++++
+   Deleted Element #4201 found in the priority queue
+++++++++++++++++++++++    ERROR #654   ++++++++++++++++++++++
+   Deleted Element #4198 found in the priority queue
+++++++++++++++++++++++    ERROR #655   ++++++++++++++++++++++
+   Deleted Element #4197 found in the priority queue
+++++++++++++++++++++++    ERROR #656   ++++++++++++++++++++++
+   Deleted Element #4192 found in the priority queue
+++++++++++++++++++++++    ERROR #657   ++++++++++++++++++++++
+   Deleted Element #4190 found in the priority queue
+++++++++++++++++++++++    ERROR #658   ++++++++++++++++++++++
+   Deleted Element #4189 found in the priority queue
+++++++++++++++++++++++    ERROR #659   ++++++++++++++++++++++
+   Deleted Element #4185 found in the priority queue
+++++++++++++++++++++++    ERROR #660   ++++++++++++++++++++++
+   Deleted Element #4184 found in the priority queue
+++++++++++++++++++++++    ERROR #661   ++++++++++++++++++++++
+   Deleted Element #4182 found in the priority queue
+++++++++++++++++++++++    ERROR #662   ++++++++++++++++++++++
+   Deleted Element #4180 found in the priority queue
+++++++++++++++++++++++    ERROR #663   ++++++++++++++++++++++
+   Deleted Element #4179 found in the priority queue
+++++++++++++++++++++++    ERROR #664   ++++++++++++++++++++++
+   Deleted Element #4175 found in the priority queue
+++++++++++++++++++++++    ERROR #665   ++++++++++++++++++++++
+   Deleted Element #4174 found in the priority queue
+++++++++++++++++++++++    ERROR #666   ++++++++++++++++++++++
+   Deleted Element #4173 found in the priority queue
+++++++++++++++++++++++    ERROR #667   ++++++++++++++++++++++
+   Deleted Element #4172 found in the priority queue
+++++++++++++++++++++++    ERROR #668   ++++++++++++++++++++++
+   Deleted Element #4171 found in the priority queue
+++++++++++++++++++++++    ERROR #669   ++++++++++++++++++++++
+   Deleted Element #4170 found in the priority queue
+++++++++++++++++++++++    ERROR #670   ++++++++++++++++++++++
+   Deleted Element #4162 found in the priority queue
+++++++++++++++++++++++    ERROR #671   ++++++++++++++++++++++
+   Deleted Element #4161 found in the priority queue
+++++++++++++++++++++++    ERROR #672   ++++++++++++++++++++++
+   Deleted Element #4160 found in the priority queue
+++++++++++++++++++++++    ERROR #673   ++++++++++++++++++++++
+   Deleted Element #4158 found in the priority queue
+++++++++++++++++++++++    ERROR #674   ++++++++++++++++++++++
+   Deleted Element #4156 found in the priority queue
+++++++++++++++++++++++    ERROR #675   ++++++++++++++++++++++
+   Deleted Element #4155 found in the priority queue
+++++++++++++++++++++++    ERROR #676   ++++++++++++++++++++++
+   Deleted Element #4153 found in the priority queue
+++++++++++++++++++++++    ERROR #677   ++++++++++++++++++++++
+   Deleted Element #4152 found in the priority queue
+++++++++++++++++++++++    ERROR #678   ++++++++++++++++++++++
+   Deleted Element #4151 found in the priority queue
+++++++++++++++++++++++    ERROR #679   ++++++++++++++++++++++
+   Deleted Element #4150 found in the priority queue
+++++++++++++++++++++++    ERROR #680   ++++++++++++++++++++++
+   Deleted Element #4149 found in the priority queue
+++++++++++++++++++++++    ERROR #681   ++++++++++++++++++++++
+   Deleted Element #4148 found in the priority queue
+++++++++++++++++++++++    ERROR #682   ++++++++++++++++++++++
+   Deleted Element #4146 found in the priority queue
+++++++++++++++++++++++    ERROR #683   ++++++++++++++++++++++
+   Deleted Element #4144 found in the priority queue
+++++++++++++++++++++++    ERROR #684   ++++++++++++++++++++++
+   Deleted Element #4139 found in the priority queue
+++++++++++++++++++++++    ERROR #685   ++++++++++++++++++++++
+   Deleted Element #4138 found in the priority queue
+++++++++++++++++++++++    ERROR #686   ++++++++++++++++++++++
+   Deleted Element #4137 found in the priority queue
+++++++++++++++++++++++    ERROR #687   ++++++++++++++++++++++
+   Deleted Element #4136 found in the priority queue
+++++++++++++++++++++++    ERROR #688   ++++++++++++++++++++++
+   Deleted Element #4135 found in the priority queue
+++++++++++++++++++++++    ERROR #689   ++++++++++++++++++++++
+   Deleted Element #4134 found in the priority queue
+++++++++++++++++++++++    ERROR #690   ++++++++++++++++++++++
+   Deleted Element #4132 found in the priority queue
+++++++++++++++++++++++    ERROR #691   ++++++++++++++++++++++
+   Deleted Element #4130 found in the priority queue
+++++++++++++++++++++++    ERROR #692   ++++++++++++++++++++++
+   Deleted Element #4127 found in the priority queue
+++++++++++++++++++++++    ERROR #693   ++++++++++++++++++++++
+   Deleted Element #4125 found in the priority queue
+++++++++++++++++++++++    ERROR #694   ++++++++++++++++++++++
+   Deleted Element #4124 found in the priority queue
+++++++++++++++++++++++    ERROR #695   ++++++++++++++++++++++
+   Deleted Element #4123 found in the priority queue
+++++++++++++++++++++++    ERROR #696   ++++++++++++++++++++++
+   Deleted Element #4122 found in the priority queue
+++++++++++++++++++++++    ERROR #697   ++++++++++++++++++++++
+   Deleted Element #4121 found in the priority queue
+++++++++++++++++++++++    ERROR #698   ++++++++++++++++++++++
+   Deleted Element #4120 found in the priority queue
+++++++++++++++++++++++    ERROR #699   ++++++++++++++++++++++
+   Deleted Element #4119 found in the priority queue
+++++++++++++++++++++++    ERROR #700   ++++++++++++++++++++++
+   Deleted Element #4118 found in the priority queue
+++++++++++++++++++++++    ERROR #701   ++++++++++++++++++++++
+   Deleted Element #4116 found in the priority queue
+++++++++++++++++++++++    ERROR #702   ++++++++++++++++++++++
+   Deleted Element #4115 found in the priority queue
+++++++++++++++++++++++    ERROR #703   ++++++++++++++++++++++
+   Deleted Element #4114 found in the priority queue
+++++++++++++++++++++++    ERROR #704   ++++++++++++++++++++++
+   Deleted Element #4113 found in the priority queue
+++++++++++++++++++++++    ERROR #705   ++++++++++++++++++++++
+   Deleted Element #4111 found in the priority queue
+++++++++++++++++++++++    ERROR #706   ++++++++++++++++++++++
+   Deleted Element #4108 found in the priority queue
+++++++++++++++++++++++    ERROR #707   ++++++++++++++++++++++
+   Deleted Element #4106 found in the priority queue
+++++++++++++++++++++++    ERROR #708   ++++++++++++++++++++++
+   Deleted Element #4105 found in the priority queue
+++++++++++++++++++++++    ERROR #709   ++++++++++++++++++++++
+   Deleted Element #4104 found in the priority queue
+++++++++++++++++++++++    ERROR #710   ++++++++++++++++++++++
+   Deleted Element #4103 found in the priority queue
+++++++++++++++++++++++    ERROR #711   ++++++++++++++++++++++
+   Deleted Element #4102 found in the priority queue
+++++++++++++++++++++++    ERROR #712   ++++++++++++++++++++++
+   Deleted Element #4101 found in the priority queue
+++++++++++++++++++++++    ERROR #713   ++++++++++++++++++++++
+   Deleted Element #4100 found in the priority queue
+++++++++++++++++++++++    ERROR #714   ++++++++++++++++++++++
+   Deleted Element #4097 found in the priority queue
+++++++++++++++++++++++    ERROR #715   ++++++++++++++++++++++
+   Deleted Element #4096 found in the priority queue
+++++++++++++++++++++++    ERROR #716   ++++++++++++++++++++++
+   Deleted Element #4095 found in the priority queue
+++++++++++++++++++++++    ERROR #717   ++++++++++++++++++++++
+   Deleted Element #4094 found in the priority queue
+++++++++++++++++++++++    ERROR #718   ++++++++++++++++++++++
+   Deleted Element #4092 found in the priority queue
+++++++++++++++++++++++    ERROR #719   ++++++++++++++++++++++
+   Deleted Element #4091 found in the priority queue
+++++++++++++++++++++++    ERROR #720   ++++++++++++++++++++++
+   Deleted Element #4089 found in the priority queue
+++++++++++++++++++++++    ERROR #721   ++++++++++++++++++++++
+   Deleted Element #4088 found in the priority queue
+++++++++++++++++++++++    ERROR #722   ++++++++++++++++++++++
+   Deleted Element #4085 found in the priority queue
+++++++++++++++++++++++    ERROR #723   ++++++++++++++++++++++
+   Deleted Element #4084 found in the priority queue
+++++++++++++++++++++++    ERROR #724   ++++++++++++++++++++++
+   Deleted Element #4082 found in the priority queue
+++++++++++++++++++++++    ERROR #725   ++++++++++++++++++++++
+   Deleted Element #4080 found in the priority queue
+++++++++++++++++++++++    ERROR #726   ++++++++++++++++++++++
+   Deleted Element #4079 found in the priority queue
+++++++++++++++++++++++    ERROR #727   ++++++++++++++++++++++
+   Deleted Element #4077 found in the priority queue
+++++++++++++++++++++++    ERROR #728   ++++++++++++++++++++++
+   Deleted Element #4074 found in the priority queue
+++++++++++++++++++++++    ERROR #729   ++++++++++++++++++++++
+   Deleted Element #4073 found in the priority queue
+++++++++++++++++++++++    ERROR #730   ++++++++++++++++++++++
+   Deleted Element #4072 found in the priority queue
+++++++++++++++++++++++    ERROR #731   ++++++++++++++++++++++
+   Deleted Element #4071 found in the priority queue
+++++++++++++++++++++++    ERROR #732   ++++++++++++++++++++++
+   Deleted Element #4070 found in the priority queue
+++++++++++++++++++++++    ERROR #733   ++++++++++++++++++++++
+   Deleted Element #4069 found in the priority queue
+++++++++++++++++++++++    ERROR #734   ++++++++++++++++++++++
+   Deleted Element #4068 found in the priority queue
+++++++++++++++++++++++    ERROR #735   ++++++++++++++++++++++
+   Deleted Element #4067 found in the priority queue
+++++++++++++++++++++++    ERROR #736   ++++++++++++++++++++++
+   Deleted Element #4066 found in the priority queue
+++++++++++++++++++++++    ERROR #737   ++++++++++++++++++++++
+   Deleted Element #4064 found in the priority queue
+++++++++++++++++++++++    ERROR #738   ++++++++++++++++++++++
+   Deleted Element #4062 found in the priority queue
+++++++++++++++++++++++    ERROR #739   ++++++++++++++++++++++
+   Deleted Element #4061 found in the priority queue
+++++++++++++++++++++++    ERROR #740   ++++++++++++++++++++++
+   Deleted Element #4058 found in the priority queue
+++++++++++++++++++++++    ERROR #741   ++++++++++++++++++++++
+   Deleted Element #4056 found in the priority queue
+++++++++++++++++++++++    ERROR #742   ++++++++++++++++++++++
+   Deleted Element #4055 found in the priority queue
+++++++++++++++++++++++    ERROR #743   ++++++++++++++++++++++
+   Deleted Element #4054 found in the priority queue
+++++++++++++++++++++++    ERROR #744   ++++++++++++++++++++++
+   Deleted Element #4053 found in the priority queue
+++++++++++++++++++++++    ERROR #745   ++++++++++++++++++++++
+   Deleted Element #4051 found in the priority queue
+++++++++++++++++++++++    ERROR #746   ++++++++++++++++++++++
+   Deleted Element #4049 found in the priority queue
+++++++++++++++++++++++    ERROR #747   ++++++++++++++++++++++
+   Deleted Element #4047 found in the priority queue
+++++++++++++++++++++++    ERROR #748   ++++++++++++++++++++++
+   Deleted Element #4045 found in the priority queue
+++++++++++++++++++++++    ERROR #749   ++++++++++++++++++++++
+   Deleted Element #4043 found in the priority queue
+++++++++++++++++++++++    ERROR #750   ++++++++++++++++++++++
+   Deleted Element #4042 found in the priority queue
+++++++++++++++++++++++    ERROR #751   ++++++++++++++++++++++
+   Deleted Element #4039 found in the priority queue
+++++++++++++++++++++++    ERROR #752   ++++++++++++++++++++++
+   Deleted Element #4038 found in the priority queue
+++++++++++++++++++++++    ERROR #753   ++++++++++++++++++++++
+   Deleted Element #4037 found in the priority queue
+++++++++++++++++++++++    ERROR #754   ++++++++++++++++++++++
+   Deleted Element #4035 found in the priority queue
+++++++++++++++++++++++    ERROR #755   ++++++++++++++++++++++
+   Deleted Element #4034 found in the priority queue
+++++++++++++++++++++++    ERROR #756   ++++++++++++++++++++++
+   Deleted Element #4033 found in the priority queue
+++++++++++++++++++++++    ERROR #757   ++++++++++++++++++++++
+   Deleted Element #4032 found in the priority queue
+++++++++++++++++++++++    ERROR #758   ++++++++++++++++++++++
+   Deleted Element #4030 found in the priority queue
+++++++++++++++++++++++    ERROR #759   ++++++++++++++++++++++
+   Deleted Element #4027 found in the priority queue
+++++++++++++++++++++++    ERROR #760   ++++++++++++++++++++++
+   Deleted Element #4026 found in the priority queue
+++++++++++++++++++++++    ERROR #761   ++++++++++++++++++++++
+   Deleted Element #4025 found in the priority queue
+++++++++++++++++++++++    ERROR #762   ++++++++++++++++++++++
+   Deleted Element #4023 found in the priority queue
+++++++++++++++++++++++    ERROR #763   ++++++++++++++++++++++
+   Deleted Element #4020 found in the priority queue
+++++++++++++++++++++++    ERROR #764   ++++++++++++++++++++++
+   Deleted Element #4017 found in the priority queue
+++++++++++++++++++++++    ERROR #765   ++++++++++++++++++++++
+   Deleted Element #4016 found in the priority queue
+++++++++++++++++++++++    ERROR #766   ++++++++++++++++++++++
+   Deleted Element #4013 found in the priority queue
+++++++++++++++++++++++    ERROR #767   ++++++++++++++++++++++
+   Deleted Element #4012 found in the priority queue
+++++++++++++++++++++++    ERROR #768   ++++++++++++++++++++++
+   Deleted Element #4009 found in the priority queue
+++++++++++++++++++++++    ERROR #769   ++++++++++++++++++++++
+   Deleted Element #4008 found in the priority queue
+++++++++++++++++++++++    ERROR #770   ++++++++++++++++++++++
+   Deleted Element #4006 found in the priority queue
+++++++++++++++++++++++    ERROR #771   ++++++++++++++++++++++
+   Deleted Element #4003 found in the priority queue
+++++++++++++++++++++++    ERROR #772   ++++++++++++++++++++++
+   Deleted Element #4001 found in the priority queue
+++++++++++++++++++++++    ERROR #773   ++++++++++++++++++++++
+   Deleted Element #3999 found in the priority queue
+++++++++++++++++++++++    ERROR #774   ++++++++++++++++++++++
+   Deleted Element #3998 found in the priority queue
+++++++++++++++++++++++    ERROR #775   ++++++++++++++++++++++
+   Deleted Element #3997 found in the priority queue
+++++++++++++++++++++++    ERROR #776   ++++++++++++++++++++++
+   Deleted Element #3995 found in the priority queue
+++++++++++++++++++++++    ERROR #777   ++++++++++++++++++++++
+   Deleted Element #3994 found in the priority queue
+++++++++++++++++++++++    ERROR #778   ++++++++++++++++++++++
+   Deleted Element #3993 found in the priority queue
+++++++++++++++++++++++    ERROR #779   ++++++++++++++++++++++
+   Deleted Element #3991 found in the priority queue
+++++++++++++++++++++++    ERROR #780   ++++++++++++++++++++++
+   Deleted Element #3988 found in the priority queue
+++++++++++++++++++++++    ERROR #781   ++++++++++++++++++++++
+   Deleted Element #3985 found in the priority queue
+++++++++++++++++++++++    ERROR #782   ++++++++++++++++++++++
+   Deleted Element #3984 found in the priority queue
+++++++++++++++++++++++    ERROR #783   ++++++++++++++++++++++
+   Deleted Element #3983 found in the priority queue
+++++++++++++++++++++++    ERROR #784   ++++++++++++++++++++++
+   Deleted Element #3982 found in the priority queue
+++++++++++++++++++++++    ERROR #785   ++++++++++++++++++++++
+   Deleted Element #3977 found in the priority queue
+++++++++++++++++++++++    ERROR #786   ++++++++++++++++++++++
+   Deleted Element #3975 found in the priority queue
+++++++++++++++++++++++    ERROR #787   ++++++++++++++++++++++
+   Deleted Element #3974 found in the priority queue
+++++++++++++++++++++++    ERROR #788   ++++++++++++++++++++++
+   Deleted Element #3973 found in the priority queue
+++++++++++++++++++++++    ERROR #789   ++++++++++++++++++++++
+   Deleted Element #3972 found in the priority queue
+++++++++++++++++++++++    ERROR #790   ++++++++++++++++++++++
+   Deleted Element #3971 found in the priority queue
+++++++++++++++++++++++    ERROR #791   ++++++++++++++++++++++
+   Deleted Element #3970 found in the priority queue
+++++++++++++++++++++++    ERROR #792   ++++++++++++++++++++++
+   Deleted Element #3969 found in the priority queue
+++++++++++++++++++++++    ERROR #793   ++++++++++++++++++++++
+   Deleted Element #3968 found in the priority queue
+++++++++++++++++++++++    ERROR #794   ++++++++++++++++++++++
+   Deleted Element #3966 found in the priority queue
+++++++++++++++++++++++    ERROR #795   ++++++++++++++++++++++
+   Deleted Element #3965 found in the priority queue
+++++++++++++++++++++++    ERROR #796   ++++++++++++++++++++++
+   Deleted Element #3961 found in the priority queue
+++++++++++++++++++++++    ERROR #797   ++++++++++++++++++++++
+   Deleted Element #3960 found in the priority queue
+++++++++++++++++++++++    ERROR #798   ++++++++++++++++++++++
+   Deleted Element #3958 found in the priority queue
+++++++++++++++++++++++    ERROR #799   ++++++++++++++++++++++
+   Deleted Element #3956 found in the priority queue
+++++++++++++++++++++++    ERROR #800   ++++++++++++++++++++++
+   Deleted Element #3951 found in the priority queue
+++++++++++++++++++++++    ERROR #801   ++++++++++++++++++++++
+   Deleted Element #3950 found in the priority queue
+++++++++++++++++++++++    ERROR #802   ++++++++++++++++++++++
+   Deleted Element #3948 found in the priority queue
+++++++++++++++++++++++    ERROR #803   ++++++++++++++++++++++
+   Deleted Element #3946 found in the priority queue
+++++++++++++++++++++++    ERROR #804   ++++++++++++++++++++++
+   Deleted Element #3945 found in the priority queue
+++++++++++++++++++++++    ERROR #805   ++++++++++++++++++++++
+   Deleted Element #3944 found in the priority queue
+++++++++++++++++++++++    ERROR #806   ++++++++++++++++++++++
+   Deleted Element #3941 found in the priority queue
+++++++++++++++++++++++    ERROR #807   ++++++++++++++++++++++
+   Deleted Element #3940 found in the priority queue
+++++++++++++++++++++++    ERROR #808   ++++++++++++++++++++++
+   Deleted Element #3939 found in the priority queue
+++++++++++++++++++++++    ERROR #809   ++++++++++++++++++++++
+   Deleted Element #3936 found in the priority queue
+++++++++++++++++++++++    ERROR #810   ++++++++++++++++++++++
+   Deleted Element #3933 found in the priority queue
+++++++++++++++++++++++    ERROR #811   ++++++++++++++++++++++
+   Deleted Element #3932 found in the priority queue
+++++++++++++++++++++++    ERROR #812   ++++++++++++++++++++++
+   Deleted Element #3931 found in the priority queue
+++++++++++++++++++++++    ERROR #813   ++++++++++++++++++++++
+   Deleted Element #3930 found in the priority queue
+++++++++++++++++++++++    ERROR #814   ++++++++++++++++++++++
+   Deleted Element #3929 found in the priority queue
+++++++++++++++++++++++    ERROR #815   ++++++++++++++++++++++
+   Deleted Element #3928 found in the priority queue
+++++++++++++++++++++++    ERROR #816   ++++++++++++++++++++++
+   Deleted Element #3927 found in the priority queue
+++++++++++++++++++++++    ERROR #817   ++++++++++++++++++++++
+   Deleted Element #3926 found in the priority queue
+++++++++++++++++++++++    ERROR #818   ++++++++++++++++++++++
+   Deleted Element #3922 found in the priority queue
+++++++++++++++++++++++    ERROR #819   ++++++++++++++++++++++
+   Deleted Element #3921 found in the priority queue
+++++++++++++++++++++++    ERROR #820   ++++++++++++++++++++++
+   Deleted Element #3920 found in the priority queue
+++++++++++++++++++++++    ERROR #821   ++++++++++++++++++++++
+   Deleted Element #3918 found in the priority queue
+++++++++++++++++++++++    ERROR #822   ++++++++++++++++++++++
+   Deleted Element #3916 found in the priority queue
+++++++++++++++++++++++    ERROR #823   ++++++++++++++++++++++
+   Deleted Element #3914 found in the priority queue
+++++++++++++++++++++++    ERROR #824   ++++++++++++++++++++++
+   Deleted Element #3912 found in the priority queue
+++++++++++++++++++++++    ERROR #825   ++++++++++++++++++++++
+   Deleted Element #3909 found in the priority queue
+++++++++++++++++++++++    ERROR #826   ++++++++++++++++++++++
+   Deleted Element #3906 found in the priority queue
+++++++++++++++++++++++    ERROR #827   ++++++++++++++++++++++
+   Deleted Element #3904 found in the priority queue
+++++++++++++++++++++++    ERROR #828   ++++++++++++++++++++++
+   Deleted Element #3903 found in the priority queue
+++++++++++++++++++++++    ERROR #829   ++++++++++++++++++++++
+   Deleted Element #3902 found in the priority queue
+++++++++++++++++++++++    ERROR #830   ++++++++++++++++++++++
+   Deleted Element #3900 found in the priority queue
+++++++++++++++++++++++    ERROR #831   ++++++++++++++++++++++
+   Deleted Element #3897 found in the priority queue
+++++++++++++++++++++++    ERROR #832   ++++++++++++++++++++++
+   Deleted Element #3892 found in the priority queue
+++++++++++++++++++++++    ERROR #833   ++++++++++++++++++++++
+   Deleted Element #3891 found in the priority queue
+++++++++++++++++++++++    ERROR #834   ++++++++++++++++++++++
+   Deleted Element #3890 found in the priority queue
+++++++++++++++++++++++    ERROR #835   ++++++++++++++++++++++
+   Deleted Element #3889 found in the priority queue
+++++++++++++++++++++++    ERROR #836   ++++++++++++++++++++++
+   Deleted Element #3888 found in the priority queue
+++++++++++++++++++++++    ERROR #837   ++++++++++++++++++++++
+   Deleted Element #3887 found in the priority queue
+++++++++++++++++++++++    ERROR #838   ++++++++++++++++++++++
+   Deleted Element #3886 found in the priority queue
+++++++++++++++++++++++    ERROR #839   ++++++++++++++++++++++
+   Deleted Element #3885 found in the priority queue
+++++++++++++++++++++++    ERROR #840   ++++++++++++++++++++++
+   Deleted Element #3884 found in the priority queue
+++++++++++++++++++++++    ERROR #841   ++++++++++++++++++++++
+   Deleted Element #3883 found in the priority queue
+++++++++++++++++++++++    ERROR #842   ++++++++++++++++++++++
+   Deleted Element #3882 found in the priority queue
+++++++++++++++++++++++    ERROR #843   ++++++++++++++++++++++
+   Deleted Element #3881 found in the priority queue
+++++++++++++++++++++++    ERROR #844   ++++++++++++++++++++++
+   Deleted Element #3880 found in the priority queue
+++++++++++++++++++++++    ERROR #845   ++++++++++++++++++++++
+   Deleted Element #3879 found in the priority queue
+++++++++++++++++++++++    ERROR #846   ++++++++++++++++++++++
+   Deleted Element #3877 found in the priority queue
+++++++++++++++++++++++    ERROR #847   ++++++++++++++++++++++
+   Deleted Element #3874 found in the priority queue
+++++++++++++++++++++++    ERROR #848   ++++++++++++++++++++++
+   Deleted Element #3873 found in the priority queue
+++++++++++++++++++++++    ERROR #849   ++++++++++++++++++++++
+   Deleted Element #3872 found in the priority queue
+++++++++++++++++++++++    ERROR #850   ++++++++++++++++++++++
+   Deleted Element #3871 found in the priority queue
+++++++++++++++++++++++    ERROR #851   ++++++++++++++++++++++
+   Deleted Element #3869 found in the priority queue
+++++++++++++++++++++++    ERROR #852   ++++++++++++++++++++++
+   Deleted Element #3867 found in the priority queue
+++++++++++++++++++++++    ERROR #853   ++++++++++++++++++++++
+   Deleted Element #3866 found in the priority queue
+++++++++++++++++++++++    ERROR #854   ++++++++++++++++++++++
+   Deleted Element #3865 found in the priority queue
+++++++++++++++++++++++    ERROR #855   ++++++++++++++++++++++
+   Deleted Element #3864 found in the priority queue
+++++++++++++++++++++++    ERROR #856   ++++++++++++++++++++++
+   Deleted Element #3862 found in the priority queue
+++++++++++++++++++++++    ERROR #857   ++++++++++++++++++++++
+   Deleted Element #3861 found in the priority queue
+++++++++++++++++++++++    ERROR #858   ++++++++++++++++++++++
+   Deleted Element #3860 found in the priority queue
+++++++++++++++++++++++    ERROR #859   ++++++++++++++++++++++
+   Deleted Element #3859 found in the priority queue
+++++++++++++++++++++++    ERROR #860   ++++++++++++++++++++++
+   Deleted Element #3857 found in the priority queue
+++++++++++++++++++++++    ERROR #861   ++++++++++++++++++++++
+   Deleted Element #3855 found in the priority queue
+++++++++++++++++++++++    ERROR #862   ++++++++++++++++++++++
+   Deleted Element #3853 found in the priority queue
+++++++++++++++++++++++    ERROR #863   ++++++++++++++++++++++
+   Deleted Element #3852 found in the priority queue
+++++++++++++++++++++++    ERROR #864   ++++++++++++++++++++++
+   Deleted Element #3851 found in the priority queue
+++++++++++++++++++++++    ERROR #865   ++++++++++++++++++++++
+   Deleted Element #3850 found in the priority queue
+++++++++++++++++++++++    ERROR #866   ++++++++++++++++++++++
+   Deleted Element #3849 found in the priority queue
+++++++++++++++++++++++    ERROR #867   ++++++++++++++++++++++
+   Deleted Element #3848 found in the priority queue
+++++++++++++++++++++++    ERROR #868   ++++++++++++++++++++++
+   Deleted Element #3847 found in the priority queue
+++++++++++++++++++++++    ERROR #869   ++++++++++++++++++++++
+   Deleted Element #3843 found in the priority queue
+++++++++++++++++++++++    ERROR #870   ++++++++++++++++++++++
+   Deleted Element #3840 found in the priority queue
+++++++++++++++++++++++    ERROR #871   ++++++++++++++++++++++
+   Deleted Element #3839 found in the priority queue
+++++++++++++++++++++++    ERROR #872   ++++++++++++++++++++++
+   Deleted Element #3835 found in the priority queue
+++++++++++++++++++++++    ERROR #873   ++++++++++++++++++++++
+   Deleted Element #3832 found in the priority queue
+++++++++++++++++++++++    ERROR #874   ++++++++++++++++++++++
+   Deleted Element #3830 found in the priority queue
+++++++++++++++++++++++    ERROR #875   ++++++++++++++++++++++
+   Deleted Element #3829 found in the priority queue
+++++++++++++++++++++++    ERROR #876   ++++++++++++++++++++++
+   Deleted Element #3825 found in the priority queue
+++++++++++++++++++++++    ERROR #877   ++++++++++++++++++++++
+   Deleted Element #3824 found in the priority queue
+++++++++++++++++++++++    ERROR #878   ++++++++++++++++++++++
+   Deleted Element #3823 found in the priority queue
+++++++++++++++++++++++    ERROR #879   ++++++++++++++++++++++
+   Deleted Element #3822 found in the priority queue
+++++++++++++++++++++++    ERROR #880   ++++++++++++++++++++++
+   Deleted Element #3821 found in the priority queue
+++++++++++++++++++++++    ERROR #881   ++++++++++++++++++++++
+   Deleted Element #3820 found in the priority queue
+++++++++++++++++++++++    ERROR #882   ++++++++++++++++++++++
+   Deleted Element #3819 found in the priority queue
+++++++++++++++++++++++    ERROR #883   ++++++++++++++++++++++
+   Deleted Element #3817 found in the priority queue
+++++++++++++++++++++++    ERROR #884   ++++++++++++++++++++++
+   Deleted Element #3816 found in the priority queue
+++++++++++++++++++++++    ERROR #885   ++++++++++++++++++++++
+   Deleted Element #3815 found in the priority queue
+++++++++++++++++++++++    ERROR #886   ++++++++++++++++++++++
+   Deleted Element #3813 found in the priority queue
+++++++++++++++++++++++    ERROR #887   ++++++++++++++++++++++
+   Deleted Element #3812 found in the priority queue
+++++++++++++++++++++++    ERROR #888   ++++++++++++++++++++++
+   Deleted Element #3811 found in the priority queue
+++++++++++++++++++++++    ERROR #889   ++++++++++++++++++++++
+   Deleted Element #3810 found in the priority queue
+++++++++++++++++++++++    ERROR #890   ++++++++++++++++++++++
+   Deleted Element #3809 found in the priority queue
+++++++++++++++++++++++    ERROR #891   ++++++++++++++++++++++
+   Deleted Element #3807 found in the priority queue
+++++++++++++++++++++++    ERROR #892   ++++++++++++++++++++++
+   Deleted Element #3806 found in the priority queue
+++++++++++++++++++++++    ERROR #893   ++++++++++++++++++++++
+   Deleted Element #3804 found in the priority queue
+++++++++++++++++++++++    ERROR #894   ++++++++++++++++++++++
+   Deleted Element #3802 found in the priority queue
+++++++++++++++++++++++    ERROR #895   ++++++++++++++++++++++
+   Deleted Element #3798 found in the priority queue
+++++++++++++++++++++++    ERROR #896   ++++++++++++++++++++++
+   Deleted Element #3797 found in the priority queue
+++++++++++++++++++++++    ERROR #897   ++++++++++++++++++++++
+   Deleted Element #3796 found in the priority queue
+++++++++++++++++++++++    ERROR #898   ++++++++++++++++++++++
+   Deleted Element #3795 found in the priority queue
+++++++++++++++++++++++    ERROR #899   ++++++++++++++++++++++
+   Deleted Element #3794 found in the priority queue
+++++++++++++++++++++++    ERROR #900   ++++++++++++++++++++++
+   Deleted Element #3793 found in the priority queue
+++++++++++++++++++++++    ERROR #901   ++++++++++++++++++++++
+   Deleted Element #3792 found in the priority queue
+++++++++++++++++++++++    ERROR #902   ++++++++++++++++++++++
+   Deleted Element #3791 found in the priority queue
+++++++++++++++++++++++    ERROR #903   ++++++++++++++++++++++
+   Deleted Element #3790 found in the priority queue
+++++++++++++++++++++++    ERROR #904   ++++++++++++++++++++++
+   Deleted Element #3789 found in the priority queue
+++++++++++++++++++++++    ERROR #905   ++++++++++++++++++++++
+   Deleted Element #3788 found in the priority queue
+++++++++++++++++++++++    ERROR #906   ++++++++++++++++++++++
+   Deleted Element #3787 found in the priority queue
+++++++++++++++++++++++    ERROR #907   ++++++++++++++++++++++
+   Deleted Element #3785 found in the priority queue
+++++++++++++++++++++++    ERROR #908   ++++++++++++++++++++++
+   Deleted Element #3784 found in the priority queue
+++++++++++++++++++++++    ERROR #909   ++++++++++++++++++++++
+   Deleted Element #3783 found in the priority queue
+++++++++++++++++++++++    ERROR #910   ++++++++++++++++++++++
+   Deleted Element #3781 found in the priority queue
+++++++++++++++++++++++    ERROR #911   ++++++++++++++++++++++
+   Deleted Element #3780 found in the priority queue
+++++++++++++++++++++++    ERROR #912   ++++++++++++++++++++++
+   Deleted Element #3779 found in the priority queue
+++++++++++++++++++++++    ERROR #913   ++++++++++++++++++++++
+   Deleted Element #3778 found in the priority queue
+++++++++++++++++++++++    ERROR #914   ++++++++++++++++++++++
+   Deleted Element #3776 found in the priority queue
+++++++++++++++++++++++    ERROR #915   ++++++++++++++++++++++
+   Deleted Element #3775 found in the priority queue
+++++++++++++++++++++++    ERROR #916   ++++++++++++++++++++++
+   Deleted Element #3773 found in the priority queue
+++++++++++++++++++++++    ERROR #917   ++++++++++++++++++++++
+   Deleted Element #3772 found in the priority queue
+++++++++++++++++++++++    ERROR #918   ++++++++++++++++++++++
+   Deleted Element #3771 found in the priority queue
+++++++++++++++++++++++    ERROR #919   ++++++++++++++++++++++
+   Deleted Element #3770 found in the priority queue
+++++++++++++++++++++++    ERROR #920   ++++++++++++++++++++++
+   Deleted Element #3768 found in the priority queue
+++++++++++++++++++++++    ERROR #921   ++++++++++++++++++++++
+   Deleted Element #3767 found in the priority queue
+++++++++++++++++++++++    ERROR #922   ++++++++++++++++++++++
+   Deleted Element #3766 found in the priority queue
+++++++++++++++++++++++    ERROR #923   ++++++++++++++++++++++
+   Deleted Element #3765 found in the priority queue
+++++++++++++++++++++++    ERROR #924   ++++++++++++++++++++++
+   Deleted Element #3763 found in the priority queue
+++++++++++++++++++++++    ERROR #925   ++++++++++++++++++++++
+   Deleted Element #3761 found in the priority queue
+++++++++++++++++++++++    ERROR #926   ++++++++++++++++++++++
+   Deleted Element #3760 found in the priority queue
+++++++++++++++++++++++    ERROR #927   ++++++++++++++++++++++
+   Deleted Element #3759 found in the priority queue
+++++++++++++++++++++++    ERROR #928   ++++++++++++++++++++++
+   Deleted Element #3758 found in the priority queue
+++++++++++++++++++++++    ERROR #929   ++++++++++++++++++++++
+   Deleted Element #3757 found in the priority queue
+++++++++++++++++++++++    ERROR #930   ++++++++++++++++++++++
+   Deleted Element #3756 found in the priority queue
+++++++++++++++++++++++    ERROR #931   ++++++++++++++++++++++
+   Deleted Element #3755 found in the priority queue
+++++++++++++++++++++++    ERROR #932   ++++++++++++++++++++++
+   Deleted Element #3754 found in the priority queue
+++++++++++++++++++++++    ERROR #933   ++++++++++++++++++++++
+   Deleted Element #3752 found in the priority queue
+++++++++++++++++++++++    ERROR #934   ++++++++++++++++++++++
+   Deleted Element #3751 found in the priority queue
+++++++++++++++++++++++    ERROR #935   ++++++++++++++++++++++
+   Deleted Element #3749 found in the priority queue
+++++++++++++++++++++++    ERROR #936   ++++++++++++++++++++++
+   Deleted Element #3748 found in the priority queue
+++++++++++++++++++++++    ERROR #937   ++++++++++++++++++++++
+   Deleted Element #3747 found in the priority queue
+++++++++++++++++++++++    ERROR #938   ++++++++++++++++++++++
+   Deleted Element #3746 found in the priority queue
+++++++++++++++++++++++    ERROR #939   ++++++++++++++++++++++
+   Deleted Element #3745 found in the priority queue
+++++++++++++++++++++++    ERROR #940   ++++++++++++++++++++++
+   Deleted Element #3744 found in the priority queue
+++++++++++++++++++++++    ERROR #941   ++++++++++++++++++++++
+   Deleted Element #3743 found in the priority queue
+++++++++++++++++++++++    ERROR #942   ++++++++++++++++++++++
+   Deleted Element #3742 found in the priority queue
+++++++++++++++++++++++    ERROR #943   ++++++++++++++++++++++
+   Deleted Element #3739 found in the priority queue
+++++++++++++++++++++++    ERROR #944   ++++++++++++++++++++++
+   Deleted Element #3738 found in the priority queue
+++++++++++++++++++++++    ERROR #945   ++++++++++++++++++++++
+   Deleted Element #3737 found in the priority queue
+++++++++++++++++++++++    ERROR #946   ++++++++++++++++++++++
+   Deleted Element #3734 found in the priority queue
+++++++++++++++++++++++    ERROR #947   ++++++++++++++++++++++
+   Deleted Element #3731 found in the priority queue
+++++++++++++++++++++++    ERROR #948   ++++++++++++++++++++++
+   Deleted Element #3730 found in the priority queue
+++++++++++++++++++++++    ERROR #949   ++++++++++++++++++++++
+   Deleted Element #3729 found in the priority queue
+++++++++++++++++++++++    ERROR #950   ++++++++++++++++++++++
+   Deleted Element #3728 found in the priority queue
+++++++++++++++++++++++    ERROR #951   ++++++++++++++++++++++
+   Deleted Element #3725 found in the priority queue
+++++++++++++++++++++++    ERROR #952   ++++++++++++++++++++++
+   Deleted Element #3722 found in the priority queue
+++++++++++++++++++++++    ERROR #953   ++++++++++++++++++++++
+   Deleted Element #3720 found in the priority queue
+++++++++++++++++++++++    ERROR #954   ++++++++++++++++++++++
+   Deleted Element #3719 found in the priority queue
+++++++++++++++++++++++    ERROR #955   ++++++++++++++++++++++
+   Deleted Element #3717 found in the priority queue
+++++++++++++++++++++++    ERROR #956   ++++++++++++++++++++++
+   Deleted Element #3715 found in the priority queue
+++++++++++++++++++++++    ERROR #957   ++++++++++++++++++++++
+   Deleted Element #3714 found in the priority queue
+++++++++++++++++++++++    ERROR #958   ++++++++++++++++++++++
+   Deleted Element #3713 found in the priority queue
+++++++++++++++++++++++    ERROR #959   ++++++++++++++++++++++
+   Deleted Element #3712 found in the priority queue
+++++++++++++++++++++++    ERROR #960   ++++++++++++++++++++++
+   Deleted Element #3711 found in the priority queue
+++++++++++++++++++++++    ERROR #961   ++++++++++++++++++++++
+   Deleted Element #3710 found in the priority queue
+++++++++++++++++++++++    ERROR #962   ++++++++++++++++++++++
+   Deleted Element #3709 found in the priority queue
+++++++++++++++++++++++    ERROR #963   ++++++++++++++++++++++
+   Deleted Element #3708 found in the priority queue
+++++++++++++++++++++++    ERROR #964   ++++++++++++++++++++++
+   Deleted Element #3707 found in the priority queue
+++++++++++++++++++++++    ERROR #965   ++++++++++++++++++++++
+   Deleted Element #3706 found in the priority queue
+++++++++++++++++++++++    ERROR #966   ++++++++++++++++++++++
+   Deleted Element #3704 found in the priority queue
+++++++++++++++++++++++    ERROR #967   ++++++++++++++++++++++
+   Deleted Element #3702 found in the priority queue
+++++++++++++++++++++++    ERROR #968   ++++++++++++++++++++++
+   Deleted Element #3701 found in the priority queue
+++++++++++++++++++++++    ERROR #969   ++++++++++++++++++++++
+   Deleted Element #3700 found in the priority queue
+++++++++++++++++++++++    ERROR #970   ++++++++++++++++++++++
+   Deleted Element #3699 found in the priority queue
+++++++++++++++++++++++    ERROR #971   ++++++++++++++++++++++
+   Deleted Element #3697 found in the priority queue
+++++++++++++++++++++++    ERROR #972   ++++++++++++++++++++++
+   Deleted Element #3696 found in the priority queue
+++++++++++++++++++++++    ERROR #973   ++++++++++++++++++++++
+   Deleted Element #3695 found in the priority queue
+++++++++++++++++++++++    ERROR #974   ++++++++++++++++++++++
+   Deleted Element #3692 found in the priority queue
+++++++++++++++++++++++    ERROR #975   ++++++++++++++++++++++
+   Deleted Element #3691 found in the priority queue
+++++++++++++++++++++++    ERROR #976   ++++++++++++++++++++++
+   Deleted Element #3690 found in the priority queue
+++++++++++++++++++++++    ERROR #977   ++++++++++++++++++++++
+   Deleted Element #3689 found in the priority queue
+++++++++++++++++++++++    ERROR #978   ++++++++++++++++++++++
+   Deleted Element #3688 found in the priority queue
+++++++++++++++++++++++    ERROR #979   ++++++++++++++++++++++
+   Deleted Element #3687 found in the priority queue
+++++++++++++++++++++++    ERROR #980   ++++++++++++++++++++++
+   Deleted Element #3686 found in the priority queue
+++++++++++++++++++++++    ERROR #981   ++++++++++++++++++++++
+   Deleted Element #3685 found in the priority queue
+++++++++++++++++++++++    ERROR #982   ++++++++++++++++++++++
+   Deleted Element #3683 found in the priority queue
+++++++++++++++++++++++    ERROR #983   ++++++++++++++++++++++
+   Deleted Element #3681 found in the priority queue
+++++++++++++++++++++++    ERROR #984   ++++++++++++++++++++++
+   Deleted Element #3680 found in the priority queue
+++++++++++++++++++++++    ERROR #985   ++++++++++++++++++++++
+   Deleted Element #3679 found in the priority queue
+++++++++++++++++++++++    ERROR #986   ++++++++++++++++++++++
+   Deleted Element #3677 found in the priority queue
+++++++++++++++++++++++    ERROR #987   ++++++++++++++++++++++
+   Deleted Element #3675 found in the priority queue
+++++++++++++++++++++++    ERROR #988   ++++++++++++++++++++++
+   Deleted Element #3674 found in the priority queue
+++++++++++++++++++++++    ERROR #989   ++++++++++++++++++++++
+   Deleted Element #3671 found in the priority queue
+++++++++++++++++++++++    ERROR #990   ++++++++++++++++++++++
+   Deleted Element #3668 found in the priority queue
+++++++++++++++++++++++    ERROR #991   ++++++++++++++++++++++
+   Deleted Element #3666 found in the priority queue
+++++++++++++++++++++++    ERROR #992   ++++++++++++++++++++++
+   Deleted Element #3665 found in the priority queue
+++++++++++++++++++++++    ERROR #993   ++++++++++++++++++++++
+   Deleted Element #3664 found in the priority queue
+++++++++++++++++++++++    ERROR #994   ++++++++++++++++++++++
+   Deleted Element #3663 found in the priority queue
+++++++++++++++++++++++    ERROR #995   ++++++++++++++++++++++
+   Deleted Element #3662 found in the priority queue
+++++++++++++++++++++++    ERROR #996   ++++++++++++++++++++++
+   Deleted Element #3661 found in the priority queue
+++++++++++++++++++++++    ERROR #997   ++++++++++++++++++++++
+   Deleted Element #3657 found in the priority queue
+++++++++++++++++++++++    ERROR #998   ++++++++++++++++++++++
+   Deleted Element #3656 found in the priority queue
+++++++++++++++++++++++    ERROR #999   ++++++++++++++++++++++
+   Deleted Element #3653 found in the priority queue
+++++++++++++++++++++++    ERROR #1000   ++++++++++++++++++++++
+   Deleted Element #3650 found in the priority queue
+++++++++++++++++++++++    ERROR #1001   ++++++++++++++++++++++
+   Deleted Element #3649 found in the priority queue
+++++++++++++++++++++++    ERROR #1002   ++++++++++++++++++++++
+   Deleted Element #3648 found in the priority queue
+++++++++++++++++++++++    ERROR #1003   ++++++++++++++++++++++
+   Deleted Element #3647 found in the priority queue
+++++++++++++++++++++++    ERROR #1004   ++++++++++++++++++++++
+   Deleted Element #3645 found in the priority queue
+++++++++++++++++++++++    ERROR #1005   ++++++++++++++++++++++
+   Deleted Element #3642 found in the priority queue
+++++++++++++++++++++++    ERROR #1006   ++++++++++++++++++++++
+   Deleted Element #3641 found in the priority queue
+++++++++++++++++++++++    ERROR #1007   ++++++++++++++++++++++
+   Deleted Element #3639 found in the priority queue
+++++++++++++++++++++++    ERROR #1008   ++++++++++++++++++++++
+   Deleted Element #3637 found in the priority queue
+++++++++++++++++++++++    ERROR #1009   ++++++++++++++++++++++
+   Deleted Element #3636 found in the priority queue
+++++++++++++++++++++++    ERROR #1010   ++++++++++++++++++++++
+   Deleted Element #3634 found in the priority queue
+++++++++++++++++++++++    ERROR #1011   ++++++++++++++++++++++
+   Deleted Element #3633 found in the priority queue
+++++++++++++++++++++++    ERROR #1012   ++++++++++++++++++++++
+   Deleted Element #3632 found in the priority queue
+++++++++++++++++++++++    ERROR #1013   ++++++++++++++++++++++
+   Deleted Element #3630 found in the priority queue
+++++++++++++++++++++++    ERROR #1014   ++++++++++++++++++++++
+   Deleted Element #3629 found in the priority queue
+++++++++++++++++++++++    ERROR #1015   ++++++++++++++++++++++
+   Deleted Element #3627 found in the priority queue
+++++++++++++++++++++++    ERROR #1016   ++++++++++++++++++++++
+   Deleted Element #3625 found in the priority queue
+++++++++++++++++++++++    ERROR #1017   ++++++++++++++++++++++
+   Deleted Element #3623 found in the priority queue
+++++++++++++++++++++++    ERROR #1018   ++++++++++++++++++++++
+   Deleted Element #3622 found in the priority queue
+++++++++++++++++++++++    ERROR #1019   ++++++++++++++++++++++
+   Deleted Element #3621 found in the priority queue
+++++++++++++++++++++++    ERROR #1020   ++++++++++++++++++++++
+   Deleted Element #3619 found in the priority queue
+++++++++++++++++++++++    ERROR #1021   ++++++++++++++++++++++
+   Deleted Element #3618 found in the priority queue
+++++++++++++++++++++++    ERROR #1022   ++++++++++++++++++++++
+   Deleted Element #3617 found in the priority queue
+++++++++++++++++++++++    ERROR #1023   ++++++++++++++++++++++
+   Deleted Element #3616 found in the priority queue
+++++++++++++++++++++++    ERROR #1024   ++++++++++++++++++++++
+   Deleted Element #3615 found in the priority queue
+++++++++++++++++++++++    ERROR #1025   ++++++++++++++++++++++
+   Deleted Element #3612 found in the priority queue
+++++++++++++++++++++++    ERROR #1026   ++++++++++++++++++++++
+   Deleted Element #3611 found in the priority queue
+++++++++++++++++++++++    ERROR #1027   ++++++++++++++++++++++
+   Deleted Element #3610 found in the priority queue
+++++++++++++++++++++++    ERROR #1028   ++++++++++++++++++++++
+   Deleted Element #3609 found in the priority queue
+++++++++++++++++++++++    ERROR #1029   ++++++++++++++++++++++
+   Deleted Element #3608 found in the priority queue
+++++++++++++++++++++++    ERROR #1030   ++++++++++++++++++++++
+   Deleted Element #3607 found in the priority queue
+++++++++++++++++++++++    ERROR #1031   ++++++++++++++++++++++
+   Deleted Element #3606 found in the priority queue
+++++++++++++++++++++++    ERROR #1032   ++++++++++++++++++++++
+   Deleted Element #3605 found in the priority queue
+++++++++++++++++++++++    ERROR #1033   ++++++++++++++++++++++
+   Deleted Element #3604 found in the priority queue
+++++++++++++++++++++++    ERROR #1034   ++++++++++++++++++++++
+   Deleted Element #3603 found in the priority queue
+++++++++++++++++++++++    ERROR #1035   ++++++++++++++++++++++
+   Deleted Element #3602 found in the priority queue
+++++++++++++++++++++++    ERROR #1036   ++++++++++++++++++++++
+   Deleted Element #3599 found in the priority queue
+++++++++++++++++++++++    ERROR #1037   ++++++++++++++++++++++
+   Deleted Element #3598 found in the priority queue
+++++++++++++++++++++++    ERROR #1038   ++++++++++++++++++++++
+   Deleted Element #3596 found in the priority queue
+++++++++++++++++++++++    ERROR #1039   ++++++++++++++++++++++
+   Deleted Element #3594 found in the priority queue
+++++++++++++++++++++++    ERROR #1040   ++++++++++++++++++++++
+   Deleted Element #3592 found in the priority queue
+++++++++++++++++++++++    ERROR #1041   ++++++++++++++++++++++
+   Deleted Element #3591 found in the priority queue
+++++++++++++++++++++++    ERROR #1042   ++++++++++++++++++++++
+   Deleted Element #3590 found in the priority queue
+++++++++++++++++++++++    ERROR #1043   ++++++++++++++++++++++
+   Deleted Element #3589 found in the priority queue
+++++++++++++++++++++++    ERROR #1044   ++++++++++++++++++++++
+   Deleted Element #3588 found in the priority queue
+++++++++++++++++++++++    ERROR #1045   ++++++++++++++++++++++
+   Deleted Element #3587 found in the priority queue
+++++++++++++++++++++++    ERROR #1046   ++++++++++++++++++++++
+   Deleted Element #3586 found in the priority queue
+++++++++++++++++++++++    ERROR #1047   ++++++++++++++++++++++
+   Deleted Element #3585 found in the priority queue
+++++++++++++++++++++++    ERROR #1048   ++++++++++++++++++++++
+   Deleted Element #3583 found in the priority queue
+++++++++++++++++++++++    ERROR #1049   ++++++++++++++++++++++
+   Deleted Element #3582 found in the priority queue
+++++++++++++++++++++++    ERROR #1050   ++++++++++++++++++++++
+   Deleted Element #3581 found in the priority queue
+++++++++++++++++++++++    ERROR #1051   ++++++++++++++++++++++
+   Deleted Element #3579 found in the priority queue
+++++++++++++++++++++++    ERROR #1052   ++++++++++++++++++++++
+   Deleted Element #3577 found in the priority queue
+++++++++++++++++++++++    ERROR #1053   ++++++++++++++++++++++
+   Deleted Element #3573 found in the priority queue
+++++++++++++++++++++++    ERROR #1054   ++++++++++++++++++++++
+   Deleted Element #3572 found in the priority queue
+++++++++++++++++++++++    ERROR #1055   ++++++++++++++++++++++
+   Deleted Element #3571 found in the priority queue
+++++++++++++++++++++++    ERROR #1056   ++++++++++++++++++++++
+   Deleted Element #3570 found in the priority queue
+++++++++++++++++++++++    ERROR #1057   ++++++++++++++++++++++
+   Deleted Element #3568 found in the priority queue
+++++++++++++++++++++++    ERROR #1058   ++++++++++++++++++++++
+   Deleted Element #3567 found in the priority queue
+++++++++++++++++++++++    ERROR #1059   ++++++++++++++++++++++
+   Deleted Element #3566 found in the priority queue
+++++++++++++++++++++++    ERROR #1060   ++++++++++++++++++++++
+   Deleted Element #3565 found in the priority queue
+++++++++++++++++++++++    ERROR #1061   ++++++++++++++++++++++
+   Deleted Element #3564 found in the priority queue
+++++++++++++++++++++++    ERROR #1062   ++++++++++++++++++++++
+   Deleted Element #3563 found in the priority queue
+++++++++++++++++++++++    ERROR #1063   ++++++++++++++++++++++
+   Deleted Element #3562 found in the priority queue
+++++++++++++++++++++++    ERROR #1064   ++++++++++++++++++++++
+   Deleted Element #3556 found in the priority queue
+++++++++++++++++++++++    ERROR #1065   ++++++++++++++++++++++
+   Deleted Element #3555 found in the priority queue
+++++++++++++++++++++++    ERROR #1066   ++++++++++++++++++++++
+   Deleted Element #3554 found in the priority queue
+++++++++++++++++++++++    ERROR #1067   ++++++++++++++++++++++
+   Deleted Element #3553 found in the priority queue
+++++++++++++++++++++++    ERROR #1068   ++++++++++++++++++++++
+   Deleted Element #3547 found in the priority queue
+++++++++++++++++++++++    ERROR #1069   ++++++++++++++++++++++
+   Deleted Element #3546 found in the priority queue
+++++++++++++++++++++++    ERROR #1070   ++++++++++++++++++++++
+   Deleted Element #3545 found in the priority queue
+++++++++++++++++++++++    ERROR #1071   ++++++++++++++++++++++
+   Deleted Element #3544 found in the priority queue
+++++++++++++++++++++++    ERROR #1072   ++++++++++++++++++++++
+   Deleted Element #3543 found in the priority queue
+++++++++++++++++++++++    ERROR #1073   ++++++++++++++++++++++
+   Deleted Element #3542 found in the priority queue
+++++++++++++++++++++++    ERROR #1074   ++++++++++++++++++++++
+   Deleted Element #3541 found in the priority queue
+++++++++++++++++++++++    ERROR #1075   ++++++++++++++++++++++
+   Deleted Element #3537 found in the priority queue
+++++++++++++++++++++++    ERROR #1076   ++++++++++++++++++++++
+   Deleted Element #3536 found in the priority queue
+++++++++++++++++++++++    ERROR #1077   ++++++++++++++++++++++
+   Deleted Element #3535 found in the priority queue
+++++++++++++++++++++++    ERROR #1078   ++++++++++++++++++++++
+   Deleted Element #3534 found in the priority queue
+++++++++++++++++++++++    ERROR #1079   ++++++++++++++++++++++
+   Deleted Element #3533 found in the priority queue
+++++++++++++++++++++++    ERROR #1080   ++++++++++++++++++++++
+   Deleted Element #3531 found in the priority queue
+++++++++++++++++++++++    ERROR #1081   ++++++++++++++++++++++
+   Deleted Element #3530 found in the priority queue
+++++++++++++++++++++++    ERROR #1082   ++++++++++++++++++++++
+   Deleted Element #3528 found in the priority queue
+++++++++++++++++++++++    ERROR #1083   ++++++++++++++++++++++
+   Deleted Element #3525 found in the priority queue
+++++++++++++++++++++++    ERROR #1084   ++++++++++++++++++++++
+   Deleted Element #3524 found in the priority queue
+++++++++++++++++++++++    ERROR #1085   ++++++++++++++++++++++
+   Deleted Element #3521 found in the priority queue
+++++++++++++++++++++++    ERROR #1086   ++++++++++++++++++++++
+   Deleted Element #3520 found in the priority queue
+++++++++++++++++++++++    ERROR #1087   ++++++++++++++++++++++
+   Deleted Element #3518 found in the priority queue
+++++++++++++++++++++++    ERROR #1088   ++++++++++++++++++++++
+   Deleted Element #3516 found in the priority queue
+++++++++++++++++++++++    ERROR #1089   ++++++++++++++++++++++
+   Deleted Element #3514 found in the priority queue
+++++++++++++++++++++++    ERROR #1090   ++++++++++++++++++++++
+   Deleted Element #3511 found in the priority queue
+++++++++++++++++++++++    ERROR #1091   ++++++++++++++++++++++
+   Deleted Element #3507 found in the priority queue
+++++++++++++++++++++++    ERROR #1092   ++++++++++++++++++++++
+   Deleted Element #3504 found in the priority queue
+++++++++++++++++++++++    ERROR #1093   ++++++++++++++++++++++
+   Deleted Element #3502 found in the priority queue
+++++++++++++++++++++++    ERROR #1094   ++++++++++++++++++++++
+   Deleted Element #3500 found in the priority queue
+++++++++++++++++++++++    ERROR #1095   ++++++++++++++++++++++
+   Deleted Element #3498 found in the priority queue
+++++++++++++++++++++++    ERROR #1096   ++++++++++++++++++++++
+   Deleted Element #3497 found in the priority queue
+++++++++++++++++++++++    ERROR #1097   ++++++++++++++++++++++
+   Deleted Element #3496 found in the priority queue
+++++++++++++++++++++++    ERROR #1098   ++++++++++++++++++++++
+   Deleted Element #3495 found in the priority queue
+++++++++++++++++++++++    ERROR #1099   ++++++++++++++++++++++
+   Deleted Element #3491 found in the priority queue
+++++++++++++++++++++++    ERROR #1100   ++++++++++++++++++++++
+   Deleted Element #3490 found in the priority queue
+++++++++++++++++++++++    ERROR #1101   ++++++++++++++++++++++
+   Deleted Element #3488 found in the priority queue
+++++++++++++++++++++++    ERROR #1102   ++++++++++++++++++++++
+   Deleted Element #3487 found in the priority queue
+++++++++++++++++++++++    ERROR #1103   ++++++++++++++++++++++
+   Deleted Element #3486 found in the priority queue
+++++++++++++++++++++++    ERROR #1104   ++++++++++++++++++++++
+   Deleted Element #3485 found in the priority queue
+++++++++++++++++++++++    ERROR #1105   ++++++++++++++++++++++
+   Deleted Element #3484 found in the priority queue
+++++++++++++++++++++++    ERROR #1106   ++++++++++++++++++++++
+   Deleted Element #3483 found in the priority queue
+++++++++++++++++++++++    ERROR #1107   ++++++++++++++++++++++
+   Deleted Element #3482 found in the priority queue
+++++++++++++++++++++++    ERROR #1108   ++++++++++++++++++++++
+   Deleted Element #3479 found in the priority queue
+++++++++++++++++++++++    ERROR #1109   ++++++++++++++++++++++
+   Deleted Element #3478 found in the priority queue
+++++++++++++++++++++++    ERROR #1110   ++++++++++++++++++++++
+   Deleted Element #3476 found in the priority queue
+++++++++++++++++++++++    ERROR #1111   ++++++++++++++++++++++
+   Deleted Element #3475 found in the priority queue
+++++++++++++++++++++++    ERROR #1112   ++++++++++++++++++++++
+   Deleted Element #3472 found in the priority queue
+++++++++++++++++++++++    ERROR #1113   ++++++++++++++++++++++
+   Deleted Element #3470 found in the priority queue
+++++++++++++++++++++++    ERROR #1114   ++++++++++++++++++++++
+   Deleted Element #3469 found in the priority queue
+++++++++++++++++++++++    ERROR #1115   ++++++++++++++++++++++
+   Deleted Element #3467 found in the priority queue
+++++++++++++++++++++++    ERROR #1116   ++++++++++++++++++++++
+   Deleted Element #3466 found in the priority queue
+++++++++++++++++++++++    ERROR #1117   ++++++++++++++++++++++
+   Deleted Element #3464 found in the priority queue
+++++++++++++++++++++++    ERROR #1118   ++++++++++++++++++++++
+   Deleted Element #3463 found in the priority queue
+++++++++++++++++++++++    ERROR #1119   ++++++++++++++++++++++
+   Deleted Element #3461 found in the priority queue
+++++++++++++++++++++++    ERROR #1120   ++++++++++++++++++++++
+   Deleted Element #3460 found in the priority queue
+++++++++++++++++++++++    ERROR #1121   ++++++++++++++++++++++
+   Deleted Element #3459 found in the priority queue
+++++++++++++++++++++++    ERROR #1122   ++++++++++++++++++++++
+   Deleted Element #3458 found in the priority queue
+++++++++++++++++++++++    ERROR #1123   ++++++++++++++++++++++
+   Deleted Element #3455 found in the priority queue
+++++++++++++++++++++++    ERROR #1124   ++++++++++++++++++++++
+   Deleted Element #3453 found in the priority queue
+++++++++++++++++++++++    ERROR #1125   ++++++++++++++++++++++
+   Deleted Element #3452 found in the priority queue
+++++++++++++++++++++++    ERROR #1126   ++++++++++++++++++++++
+   Deleted Element #3451 found in the priority queue
+++++++++++++++++++++++    ERROR #1127   ++++++++++++++++++++++
+   Deleted Element #3450 found in the priority queue
+++++++++++++++++++++++    ERROR #1128   ++++++++++++++++++++++
+   Deleted Element #3448 found in the priority queue
+++++++++++++++++++++++    ERROR #1129   ++++++++++++++++++++++
+   Deleted Element #3446 found in the priority queue
+++++++++++++++++++++++    ERROR #1130   ++++++++++++++++++++++
+   Deleted Element #3444 found in the priority queue
+++++++++++++++++++++++    ERROR #1131   ++++++++++++++++++++++
+   Deleted Element #3442 found in the priority queue
+++++++++++++++++++++++    ERROR #1132   ++++++++++++++++++++++
+   Deleted Element #3440 found in the priority queue
+++++++++++++++++++++++    ERROR #1133   ++++++++++++++++++++++
+   Deleted Element #3438 found in the priority queue
+++++++++++++++++++++++    ERROR #1134   ++++++++++++++++++++++
+   Deleted Element #3436 found in the priority queue
+++++++++++++++++++++++    ERROR #1135   ++++++++++++++++++++++
+   Deleted Element #3433 found in the priority queue
+++++++++++++++++++++++    ERROR #1136   ++++++++++++++++++++++
+   Deleted Element #3431 found in the priority queue
+++++++++++++++++++++++    ERROR #1137   ++++++++++++++++++++++
+   Deleted Element #3428 found in the priority queue
+++++++++++++++++++++++    ERROR #1138   ++++++++++++++++++++++
+   Deleted Element #3427 found in the priority queue
+++++++++++++++++++++++    ERROR #1139   ++++++++++++++++++++++
+   Deleted Element #3426 found in the priority queue
+++++++++++++++++++++++    ERROR #1140   ++++++++++++++++++++++
+   Deleted Element #3424 found in the priority queue
+++++++++++++++++++++++    ERROR #1141   ++++++++++++++++++++++
+   Deleted Element #3423 found in the priority queue
+++++++++++++++++++++++    ERROR #1142   ++++++++++++++++++++++
+   Deleted Element #3422 found in the priority queue
+++++++++++++++++++++++    ERROR #1143   ++++++++++++++++++++++
+   Deleted Element #3421 found in the priority queue
+++++++++++++++++++++++    ERROR #1144   ++++++++++++++++++++++
+   Deleted Element #3419 found in the priority queue
+++++++++++++++++++++++    ERROR #1145   ++++++++++++++++++++++
+   Deleted Element #3418 found in the priority queue
+++++++++++++++++++++++    ERROR #1146   ++++++++++++++++++++++
+   Deleted Element #3417 found in the priority queue
+++++++++++++++++++++++    ERROR #1147   ++++++++++++++++++++++
+   Deleted Element #3416 found in the priority queue
+++++++++++++++++++++++    ERROR #1148   ++++++++++++++++++++++
+   Deleted Element #3413 found in the priority queue
+++++++++++++++++++++++    ERROR #1149   ++++++++++++++++++++++
+   Deleted Element #3412 found in the priority queue
+++++++++++++++++++++++    ERROR #1150   ++++++++++++++++++++++
+   Deleted Element #3411 found in the priority queue
+++++++++++++++++++++++    ERROR #1151   ++++++++++++++++++++++
+   Deleted Element #3409 found in the priority queue
+++++++++++++++++++++++    ERROR #1152   ++++++++++++++++++++++
+   Deleted Element #3406 found in the priority queue
+++++++++++++++++++++++    ERROR #1153   ++++++++++++++++++++++
+   Deleted Element #3405 found in the priority queue
+++++++++++++++++++++++    ERROR #1154   ++++++++++++++++++++++
+   Deleted Element #3404 found in the priority queue
+++++++++++++++++++++++    ERROR #1155   ++++++++++++++++++++++
+   Deleted Element #3403 found in the priority queue
+++++++++++++++++++++++    ERROR #1156   ++++++++++++++++++++++
+   Deleted Element #3402 found in the priority queue
+++++++++++++++++++++++    ERROR #1157   ++++++++++++++++++++++
+   Deleted Element #3401 found in the priority queue
+++++++++++++++++++++++    ERROR #1158   ++++++++++++++++++++++
+   Deleted Element #3399 found in the priority queue
+++++++++++++++++++++++    ERROR #1159   ++++++++++++++++++++++
+   Deleted Element #3398 found in the priority queue
+++++++++++++++++++++++    ERROR #1160   ++++++++++++++++++++++
+   Deleted Element #3397 found in the priority queue
+++++++++++++++++++++++    ERROR #1161   ++++++++++++++++++++++
+   Deleted Element #3395 found in the priority queue
+++++++++++++++++++++++    ERROR #1162   ++++++++++++++++++++++
+   Deleted Element #3394 found in the priority queue
+++++++++++++++++++++++    ERROR #1163   ++++++++++++++++++++++
+   Deleted Element #3391 found in the priority queue
+++++++++++++++++++++++    ERROR #1164   ++++++++++++++++++++++
+   Deleted Element #3390 found in the priority queue
+++++++++++++++++++++++    ERROR #1165   ++++++++++++++++++++++
+   Deleted Element #3387 found in the priority queue
+++++++++++++++++++++++    ERROR #1166   ++++++++++++++++++++++
+   Deleted Element #3385 found in the priority queue
+++++++++++++++++++++++    ERROR #1167   ++++++++++++++++++++++
+   Deleted Element #3384 found in the priority queue
+++++++++++++++++++++++    ERROR #1168   ++++++++++++++++++++++
+   Deleted Element #3383 found in the priority queue
+++++++++++++++++++++++    ERROR #1169   ++++++++++++++++++++++
+   Deleted Element #3381 found in the priority queue
+++++++++++++++++++++++    ERROR #1170   ++++++++++++++++++++++
+   Deleted Element #3380 found in the priority queue
+++++++++++++++++++++++    ERROR #1171   ++++++++++++++++++++++
+   Deleted Element #3379 found in the priority queue
+++++++++++++++++++++++    ERROR #1172   ++++++++++++++++++++++
+   Deleted Element #3378 found in the priority queue
+++++++++++++++++++++++    ERROR #1173   ++++++++++++++++++++++
+   Deleted Element #3375 found in the priority queue
+++++++++++++++++++++++    ERROR #1174   ++++++++++++++++++++++
+   Deleted Element #3373 found in the priority queue
+++++++++++++++++++++++    ERROR #1175   ++++++++++++++++++++++
+   Deleted Element #3372 found in the priority queue
+++++++++++++++++++++++    ERROR #1176   ++++++++++++++++++++++
+   Deleted Element #3370 found in the priority queue
+++++++++++++++++++++++    ERROR #1177   ++++++++++++++++++++++
+   Deleted Element #3367 found in the priority queue
+++++++++++++++++++++++    ERROR #1178   ++++++++++++++++++++++
+   Deleted Element #3366 found in the priority queue
+++++++++++++++++++++++    ERROR #1179   ++++++++++++++++++++++
+   Deleted Element #3364 found in the priority queue
+++++++++++++++++++++++    ERROR #1180   ++++++++++++++++++++++
+   Deleted Element #3363 found in the priority queue
+++++++++++++++++++++++    ERROR #1181   ++++++++++++++++++++++
+   Deleted Element #3358 found in the priority queue
+++++++++++++++++++++++    ERROR #1182   ++++++++++++++++++++++
+   Deleted Element #3356 found in the priority queue
+++++++++++++++++++++++    ERROR #1183   ++++++++++++++++++++++
+   Deleted Element #3353 found in the priority queue
+++++++++++++++++++++++    ERROR #1184   ++++++++++++++++++++++
+   Deleted Element #3350 found in the priority queue
+++++++++++++++++++++++    ERROR #1185   ++++++++++++++++++++++
+   Deleted Element #3348 found in the priority queue
+++++++++++++++++++++++    ERROR #1186   ++++++++++++++++++++++
+   Deleted Element #3347 found in the priority queue
+++++++++++++++++++++++    ERROR #1187   ++++++++++++++++++++++
+   Deleted Element #3345 found in the priority queue
+++++++++++++++++++++++    ERROR #1188   ++++++++++++++++++++++
+   Deleted Element #3344 found in the priority queue
+++++++++++++++++++++++    ERROR #1189   ++++++++++++++++++++++
+   Deleted Element #3340 found in the priority queue
+++++++++++++++++++++++    ERROR #1190   ++++++++++++++++++++++
+   Deleted Element #3339 found in the priority queue
+++++++++++++++++++++++    ERROR #1191   ++++++++++++++++++++++
+   Deleted Element #3336 found in the priority queue
+++++++++++++++++++++++    ERROR #1192   ++++++++++++++++++++++
+   Deleted Element #3334 found in the priority queue
+++++++++++++++++++++++    ERROR #1193   ++++++++++++++++++++++
+   Deleted Element #3332 found in the priority queue
+++++++++++++++++++++++    ERROR #1194   ++++++++++++++++++++++
+   Deleted Element #3331 found in the priority queue
+++++++++++++++++++++++    ERROR #1195   ++++++++++++++++++++++
+   Deleted Element #3330 found in the priority queue
+++++++++++++++++++++++    ERROR #1196   ++++++++++++++++++++++
+   Deleted Element #3329 found in the priority queue
+++++++++++++++++++++++    ERROR #1197   ++++++++++++++++++++++
+   Deleted Element #3328 found in the priority queue
+++++++++++++++++++++++    ERROR #1198   ++++++++++++++++++++++
+   Deleted Element #3327 found in the priority queue
+++++++++++++++++++++++    ERROR #1199   ++++++++++++++++++++++
+   Deleted Element #3324 found in the priority queue
+++++++++++++++++++++++    ERROR #1200   ++++++++++++++++++++++
+   Deleted Element #3323 found in the priority queue
+++++++++++++++++++++++    ERROR #1201   ++++++++++++++++++++++
+   Deleted Element #3320 found in the priority queue
+++++++++++++++++++++++    ERROR #1202   ++++++++++++++++++++++
+   Deleted Element #3318 found in the priority queue
+++++++++++++++++++++++    ERROR #1203   ++++++++++++++++++++++
+   Deleted Element #3317 found in the priority queue
+++++++++++++++++++++++    ERROR #1204   ++++++++++++++++++++++
+   Deleted Element #3315 found in the priority queue
+++++++++++++++++++++++    ERROR #1205   ++++++++++++++++++++++
+   Deleted Element #3313 found in the priority queue
+++++++++++++++++++++++    ERROR #1206   ++++++++++++++++++++++
+   Deleted Element #3312 found in the priority queue
+++++++++++++++++++++++    ERROR #1207   ++++++++++++++++++++++
+   Deleted Element #3311 found in the priority queue
+++++++++++++++++++++++    ERROR #1208   ++++++++++++++++++++++
+   Deleted Element #3310 found in the priority queue
+++++++++++++++++++++++    ERROR #1209   ++++++++++++++++++++++
+   Deleted Element #3307 found in the priority queue
+++++++++++++++++++++++    ERROR #1210   ++++++++++++++++++++++
+   Deleted Element #3306 found in the priority queue
+++++++++++++++++++++++    ERROR #1211   ++++++++++++++++++++++
+   Deleted Element #3305 found in the priority queue
+++++++++++++++++++++++    ERROR #1212   ++++++++++++++++++++++
+   Deleted Element #3304 found in the priority queue
+++++++++++++++++++++++    ERROR #1213   ++++++++++++++++++++++
+   Deleted Element #3303 found in the priority queue
+++++++++++++++++++++++    ERROR #1214   ++++++++++++++++++++++
+   Deleted Element #3302 found in the priority queue
+++++++++++++++++++++++    ERROR #1215   ++++++++++++++++++++++
+   Deleted Element #3297 found in the priority queue
+++++++++++++++++++++++    ERROR #1216   ++++++++++++++++++++++
+   Deleted Element #3295 found in the priority queue
+++++++++++++++++++++++    ERROR #1217   ++++++++++++++++++++++
+   Deleted Element #3292 found in the priority queue
+++++++++++++++++++++++    ERROR #1218   ++++++++++++++++++++++
+   Deleted Element #3291 found in the priority queue
+++++++++++++++++++++++    ERROR #1219   ++++++++++++++++++++++
+   Deleted Element #3290 found in the priority queue
+++++++++++++++++++++++    ERROR #1220   ++++++++++++++++++++++
+   Deleted Element #3289 found in the priority queue
+++++++++++++++++++++++    ERROR #1221   ++++++++++++++++++++++
+   Deleted Element #3287 found in the priority queue
+++++++++++++++++++++++    ERROR #1222   ++++++++++++++++++++++
+   Deleted Element #3286 found in the priority queue
+++++++++++++++++++++++    ERROR #1223   ++++++++++++++++++++++
+   Deleted Element #3285 found in the priority queue
+++++++++++++++++++++++    ERROR #1224   ++++++++++++++++++++++
+   Deleted Element #3284 found in the priority queue
+++++++++++++++++++++++    ERROR #1225   ++++++++++++++++++++++
+   Deleted Element #3283 found in the priority queue
+++++++++++++++++++++++    ERROR #1226   ++++++++++++++++++++++
+   Deleted Element #3281 found in the priority queue
+++++++++++++++++++++++    ERROR #1227   ++++++++++++++++++++++
+   Deleted Element #3280 found in the priority queue
+++++++++++++++++++++++    ERROR #1228   ++++++++++++++++++++++
+   Deleted Element #3279 found in the priority queue
+++++++++++++++++++++++    ERROR #1229   ++++++++++++++++++++++
+   Deleted Element #3277 found in the priority queue
+++++++++++++++++++++++    ERROR #1230   ++++++++++++++++++++++
+   Deleted Element #3276 found in the priority queue
+++++++++++++++++++++++    ERROR #1231   ++++++++++++++++++++++
+   Deleted Element #3274 found in the priority queue
+++++++++++++++++++++++    ERROR #1232   ++++++++++++++++++++++
+   Deleted Element #3273 found in the priority queue
+++++++++++++++++++++++    ERROR #1233   ++++++++++++++++++++++
+   Deleted Element #3271 found in the priority queue
+++++++++++++++++++++++    ERROR #1234   ++++++++++++++++++++++
+   Deleted Element #3270 found in the priority queue
+++++++++++++++++++++++    ERROR #1235   ++++++++++++++++++++++
+   Deleted Element #3266 found in the priority queue
+++++++++++++++++++++++    ERROR #1236   ++++++++++++++++++++++
+   Deleted Element #3265 found in the priority queue
+++++++++++++++++++++++    ERROR #1237   ++++++++++++++++++++++
+   Deleted Element #3263 found in the priority queue
+++++++++++++++++++++++    ERROR #1238   ++++++++++++++++++++++
+   Deleted Element #3262 found in the priority queue
+++++++++++++++++++++++    ERROR #1239   ++++++++++++++++++++++
+   Deleted Element #3259 found in the priority queue
+++++++++++++++++++++++    ERROR #1240   ++++++++++++++++++++++
+   Deleted Element #3256 found in the priority queue
+++++++++++++++++++++++    ERROR #1241   ++++++++++++++++++++++
+   Deleted Element #3254 found in the priority queue
+++++++++++++++++++++++    ERROR #1242   ++++++++++++++++++++++
+   Deleted Element #3253 found in the priority queue
+++++++++++++++++++++++    ERROR #1243   ++++++++++++++++++++++
+   Deleted Element #3252 found in the priority queue
+++++++++++++++++++++++    ERROR #1244   ++++++++++++++++++++++
+   Deleted Element #3249 found in the priority queue
+++++++++++++++++++++++    ERROR #1245   ++++++++++++++++++++++
+   Deleted Element #3248 found in the priority queue
+++++++++++++++++++++++    ERROR #1246   ++++++++++++++++++++++
+   Deleted Element #3247 found in the priority queue
+++++++++++++++++++++++    ERROR #1247   ++++++++++++++++++++++
+   Deleted Element #3242 found in the priority queue
+++++++++++++++++++++++    ERROR #1248   ++++++++++++++++++++++
+   Deleted Element #3240 found in the priority queue
+++++++++++++++++++++++    ERROR #1249   ++++++++++++++++++++++
+   Deleted Element #3238 found in the priority queue
+++++++++++++++++++++++    ERROR #1250   ++++++++++++++++++++++
+   Deleted Element #3237 found in the priority queue
+++++++++++++++++++++++    ERROR #1251   ++++++++++++++++++++++
+   Deleted Element #3236 found in the priority queue
+++++++++++++++++++++++    ERROR #1252   ++++++++++++++++++++++
+   Deleted Element #3235 found in the priority queue
+++++++++++++++++++++++    ERROR #1253   ++++++++++++++++++++++
+   Deleted Element #3234 found in the priority queue
+++++++++++++++++++++++    ERROR #1254   ++++++++++++++++++++++
+   Deleted Element #3233 found in the priority queue
+++++++++++++++++++++++    ERROR #1255   ++++++++++++++++++++++
+   Deleted Element #3232 found in the priority queue
+++++++++++++++++++++++    ERROR #1256   ++++++++++++++++++++++
+   Deleted Element #3230 found in the priority queue
+++++++++++++++++++++++    ERROR #1257   ++++++++++++++++++++++
+   Deleted Element #3229 found in the priority queue
+++++++++++++++++++++++    ERROR #1258   ++++++++++++++++++++++
+   Deleted Element #3226 found in the priority queue
+++++++++++++++++++++++    ERROR #1259   ++++++++++++++++++++++
+   Deleted Element #3224 found in the priority queue
+++++++++++++++++++++++    ERROR #1260   ++++++++++++++++++++++
+   Deleted Element #3221 found in the priority queue
+++++++++++++++++++++++    ERROR #1261   ++++++++++++++++++++++
+   Deleted Element #3220 found in the priority queue
+++++++++++++++++++++++    ERROR #1262   ++++++++++++++++++++++
+   Deleted Element #3219 found in the priority queue
+++++++++++++++++++++++    ERROR #1263   ++++++++++++++++++++++
+   Deleted Element #3217 found in the priority queue
+++++++++++++++++++++++    ERROR #1264   ++++++++++++++++++++++
+   Deleted Element #3216 found in the priority queue
+++++++++++++++++++++++    ERROR #1265   ++++++++++++++++++++++
+   Deleted Element #3215 found in the priority queue
+++++++++++++++++++++++    ERROR #1266   ++++++++++++++++++++++
+   Deleted Element #3214 found in the priority queue
+++++++++++++++++++++++    ERROR #1267   ++++++++++++++++++++++
+   Deleted Element #3209 found in the priority queue
+++++++++++++++++++++++    ERROR #1268   ++++++++++++++++++++++
+   Deleted Element #3207 found in the priority queue
+++++++++++++++++++++++    ERROR #1269   ++++++++++++++++++++++
+   Deleted Element #3206 found in the priority queue
+++++++++++++++++++++++    ERROR #1270   ++++++++++++++++++++++
+   Deleted Element #3205 found in the priority queue
+++++++++++++++++++++++    ERROR #1271   ++++++++++++++++++++++
+   Deleted Element #3204 found in the priority queue
+++++++++++++++++++++++    ERROR #1272   ++++++++++++++++++++++
+   Deleted Element #3200 found in the priority queue
+++++++++++++++++++++++    ERROR #1273   ++++++++++++++++++++++
+   Deleted Element #3197 found in the priority queue
+++++++++++++++++++++++    ERROR #1274   ++++++++++++++++++++++
+   Deleted Element #3196 found in the priority queue
+++++++++++++++++++++++    ERROR #1275   ++++++++++++++++++++++
+   Deleted Element #3195 found in the priority queue
+++++++++++++++++++++++    ERROR #1276   ++++++++++++++++++++++
+   Deleted Element #3194 found in the priority queue
+++++++++++++++++++++++    ERROR #1277   ++++++++++++++++++++++
+   Deleted Element #3193 found in the priority queue
+++++++++++++++++++++++    ERROR #1278   ++++++++++++++++++++++
+   Deleted Element #3191 found in the priority queue
+++++++++++++++++++++++    ERROR #1279   ++++++++++++++++++++++
+   Deleted Element #3190 found in the priority queue
+++++++++++++++++++++++    ERROR #1280   ++++++++++++++++++++++
+   Deleted Element #3188 found in the priority queue
+++++++++++++++++++++++    ERROR #1281   ++++++++++++++++++++++
+   Deleted Element #3186 found in the priority queue
+++++++++++++++++++++++    ERROR #1282   ++++++++++++++++++++++
+   Deleted Element #3183 found in the priority queue
+++++++++++++++++++++++    ERROR #1283   ++++++++++++++++++++++
+   Deleted Element #3182 found in the priority queue
+++++++++++++++++++++++    ERROR #1284   ++++++++++++++++++++++
+   Deleted Element #3179 found in the priority queue
+++++++++++++++++++++++    ERROR #1285   ++++++++++++++++++++++
+   Deleted Element #3178 found in the priority queue
+++++++++++++++++++++++    ERROR #1286   ++++++++++++++++++++++
+   Deleted Element #3177 found in the priority queue
+++++++++++++++++++++++    ERROR #1287   ++++++++++++++++++++++
+   Deleted Element #3176 found in the priority queue
+++++++++++++++++++++++    ERROR #1288   ++++++++++++++++++++++
+   Deleted Element #3174 found in the priority queue
+++++++++++++++++++++++    ERROR #1289   ++++++++++++++++++++++
+   Deleted Element #3172 found in the priority queue
+++++++++++++++++++++++    ERROR #1290   ++++++++++++++++++++++
+   Deleted Element #3170 found in the priority queue
+++++++++++++++++++++++    ERROR #1291   ++++++++++++++++++++++
+   Deleted Element #3169 found in the priority queue
+++++++++++++++++++++++    ERROR #1292   ++++++++++++++++++++++
+   Deleted Element #3168 found in the priority queue
+++++++++++++++++++++++    ERROR #1293   ++++++++++++++++++++++
+   Deleted Element #3167 found in the priority queue
+++++++++++++++++++++++    ERROR #1294   ++++++++++++++++++++++
+   Deleted Element #3165 found in the priority queue
+++++++++++++++++++++++    ERROR #1295   ++++++++++++++++++++++
+   Deleted Element #3164 found in the priority queue
+++++++++++++++++++++++    ERROR #1296   ++++++++++++++++++++++
+   Deleted Element #3163 found in the priority queue
+++++++++++++++++++++++    ERROR #1297   ++++++++++++++++++++++
+   Deleted Element #3162 found in the priority queue
+++++++++++++++++++++++    ERROR #1298   ++++++++++++++++++++++
+   Deleted Element #3161 found in the priority queue
+++++++++++++++++++++++    ERROR #1299   ++++++++++++++++++++++
+   Deleted Element #3159 found in the priority queue
+++++++++++++++++++++++    ERROR #1300   ++++++++++++++++++++++
+   Deleted Element #3157 found in the priority queue
+++++++++++++++++++++++    ERROR #1301   ++++++++++++++++++++++
+   Deleted Element #3155 found in the priority queue
+++++++++++++++++++++++    ERROR #1302   ++++++++++++++++++++++
+   Deleted Element #3153 found in the priority queue
+++++++++++++++++++++++    ERROR #1303   ++++++++++++++++++++++
+   Deleted Element #3152 found in the priority queue
+++++++++++++++++++++++    ERROR #1304   ++++++++++++++++++++++
+   Deleted Element #3151 found in the priority queue
+++++++++++++++++++++++    ERROR #1305   ++++++++++++++++++++++
+   Deleted Element #3150 found in the priority queue
+++++++++++++++++++++++    ERROR #1306   ++++++++++++++++++++++
+   Deleted Element #3149 found in the priority queue
+++++++++++++++++++++++    ERROR #1307   ++++++++++++++++++++++
+   Deleted Element #3147 found in the priority queue
+++++++++++++++++++++++    ERROR #1308   ++++++++++++++++++++++
+   Deleted Element #3146 found in the priority queue
+++++++++++++++++++++++    ERROR #1309   ++++++++++++++++++++++
+   Deleted Element #3145 found in the priority queue
+++++++++++++++++++++++    ERROR #1310   ++++++++++++++++++++++
+   Deleted Element #3144 found in the priority queue
+++++++++++++++++++++++    ERROR #1311   ++++++++++++++++++++++
+   Deleted Element #3143 found in the priority queue
+++++++++++++++++++++++    ERROR #1312   ++++++++++++++++++++++
+   Deleted Element #3139 found in the priority queue
+++++++++++++++++++++++    ERROR #1313   ++++++++++++++++++++++
+   Deleted Element #3137 found in the priority queue
+++++++++++++++++++++++    ERROR #1314   ++++++++++++++++++++++
+   Deleted Element #3136 found in the priority queue
+++++++++++++++++++++++    ERROR #1315   ++++++++++++++++++++++
+   Deleted Element #3135 found in the priority queue
+++++++++++++++++++++++    ERROR #1316   ++++++++++++++++++++++
+   Deleted Element #3134 found in the priority queue
+++++++++++++++++++++++    ERROR #1317   ++++++++++++++++++++++
+   Deleted Element #3133 found in the priority queue
+++++++++++++++++++++++    ERROR #1318   ++++++++++++++++++++++
+   Deleted Element #3132 found in the priority queue
+++++++++++++++++++++++    ERROR #1319   ++++++++++++++++++++++
+   Deleted Element #2895 found in the priority queue
+++++++++++++++++++++++    ERROR #1320   ++++++++++++++++++++++
+   Deleted Element #2890 found in the priority queue
+++++++++++++++++++++++    ERROR #1321   ++++++++++++++++++++++
+   Deleted Element #2881 found in the priority queue
+++++++++++++++++++++++    ERROR #1322   ++++++++++++++++++++++
+   Deleted Element #2861 found in the priority queue
+++++++++++++++++++++++    ERROR #1323   ++++++++++++++++++++++
+   Deleted Element #2819 found in the priority queue
+++++++++++++++++++++++    ERROR #1324   ++++++++++++++++++++++
+   Deleted Element #2815 found in the priority queue
+++++++++++++++++++++++    ERROR #1325   ++++++++++++++++++++++
+   Deleted Element #2812 found in the priority queue
+++++++++++++++++++++++    ERROR #1326   ++++++++++++++++++++++
+   Deleted Element #2803 found in the priority queue
+++++++++++++++++++++++    ERROR #1327   ++++++++++++++++++++++
+   Deleted Element #2789 found in the priority queue
+++++++++++++++++++++++    ERROR #1328   ++++++++++++++++++++++
+   Deleted Element #2786 found in the priority queue
+++++++++++++++++++++++    ERROR #1329   ++++++++++++++++++++++
+   Deleted Element #2783 found in the priority queue
+++++++++++++++++++++++    ERROR #1330   ++++++++++++++++++++++
+   Deleted Element #2779 found in the priority queue
+++++++++++++++++++++++    ERROR #1331   ++++++++++++++++++++++
+   Deleted Element #2772 found in the priority queue
+++++++++++++++++++++++    ERROR #1332   ++++++++++++++++++++++
+   Deleted Element #2768 found in the priority queue
+++++++++++++++++++++++    ERROR #1333   ++++++++++++++++++++++
+   Deleted Element #2763 found in the priority queue
+++++++++++++++++++++++    ERROR #1334   ++++++++++++++++++++++
+   Deleted Element #2757 found in the priority queue
+++++++++++++++++++++++    ERROR #1335   ++++++++++++++++++++++
+   Deleted Element #2739 found in the priority queue
+++++++++++++++++++++++    ERROR #1336   ++++++++++++++++++++++
+   Deleted Element #2737 found in the priority queue
+++++++++++++++++++++++    ERROR #1337   ++++++++++++++++++++++
+   Deleted Element #2736 found in the priority queue
+++++++++++++++++++++++    ERROR #1338   ++++++++++++++++++++++
+   Deleted Element #2734 found in the priority queue
+++++++++++++++++++++++    ERROR #1339   ++++++++++++++++++++++
+   Deleted Element #2726 found in the priority queue
+++++++++++++++++++++++    ERROR #1340   ++++++++++++++++++++++
+   Deleted Element #2719 found in the priority queue
+++++++++++++++++++++++    ERROR #1341   ++++++++++++++++++++++
+   Deleted Element #2699 found in the priority queue
+++++++++++++++++++++++    ERROR #1342   ++++++++++++++++++++++
+   Deleted Element #2692 found in the priority queue
+++++++++++++++++++++++    ERROR #1343   ++++++++++++++++++++++
+   Deleted Element #2683 found in the priority queue
+++++++++++++++++++++++    ERROR #1344   ++++++++++++++++++++++
+   Deleted Element #2672 found in the priority queue
+++++++++++++++++++++++    ERROR #1345   ++++++++++++++++++++++
+   Deleted Element #2668 found in the priority queue
+++++++++++++++++++++++    ERROR #1346   ++++++++++++++++++++++
+   Deleted Element #2667 found in the priority queue
+++++++++++++++++++++++    ERROR #1347   ++++++++++++++++++++++
+   Deleted Element #2661 found in the priority queue
+++++++++++++++++++++++    ERROR #1348   ++++++++++++++++++++++
+   Deleted Element #2658 found in the priority queue
+++++++++++++++++++++++    ERROR #1349   ++++++++++++++++++++++
+   Deleted Element #2651 found in the priority queue
+++++++++++++++++++++++    ERROR #1350   ++++++++++++++++++++++
+   Deleted Element #2637 found in the priority queue
+++++++++++++++++++++++    ERROR #1351   ++++++++++++++++++++++
+   Deleted Element #2635 found in the priority queue
+++++++++++++++++++++++    ERROR #1352   ++++++++++++++++++++++
+   Deleted Element #2630 found in the priority queue
+++++++++++++++++++++++    ERROR #1353   ++++++++++++++++++++++
+   Deleted Element #2626 found in the priority queue
+++++++++++++++++++++++    ERROR #1354   ++++++++++++++++++++++
+   Deleted Element #2616 found in the priority queue
+++++++++++++++++++++++    ERROR #1355   ++++++++++++++++++++++
+   Deleted Element #2575 found in the priority queue
+++++++++++++++++++++++    ERROR #1356   ++++++++++++++++++++++
+   Deleted Element #2569 found in the priority queue
+++++++++++++++++++++++    ERROR #1357   ++++++++++++++++++++++
+   Deleted Element #2568 found in the priority queue
+++++++++++++++++++++++    ERROR #1358   ++++++++++++++++++++++
+   Deleted Element #2564 found in the priority queue
+++++++++++++++++++++++    ERROR #1359   ++++++++++++++++++++++
+   Deleted Element #2563 found in the priority queue
+++++++++++++++++++++++    ERROR #1360   ++++++++++++++++++++++
+   Deleted Element #2557 found in the priority queue
+++++++++++++++++++++++    ERROR #1361   ++++++++++++++++++++++
+   Deleted Element #2555 found in the priority queue
+++++++++++++++++++++++    ERROR #1362   ++++++++++++++++++++++
+   Deleted Element #2549 found in the priority queue
+++++++++++++++++++++++    ERROR #1363   ++++++++++++++++++++++
+   Deleted Element #2547 found in the priority queue
+++++++++++++++++++++++    ERROR #1364   ++++++++++++++++++++++
+   Deleted Element #2544 found in the priority queue
+++++++++++++++++++++++    ERROR #1365   ++++++++++++++++++++++
+   Deleted Element #2539 found in the priority queue
+++++++++++++++++++++++    ERROR #1366   ++++++++++++++++++++++
+   Deleted Element #2536 found in the priority queue
+++++++++++++++++++++++    ERROR #1367   ++++++++++++++++++++++
+   Deleted Element #2534 found in the priority queue
+++++++++++++++++++++++    ERROR #1368   ++++++++++++++++++++++
+   Deleted Element #2532 found in the priority queue
+++++++++++++++++++++++    ERROR #1369   ++++++++++++++++++++++
+   Deleted Element #2519 found in the priority queue
+++++++++++++++++++++++    ERROR #1370   ++++++++++++++++++++++
+   Deleted Element #2514 found in the priority queue
+++++++++++++++++++++++    ERROR #1371   ++++++++++++++++++++++
+   Deleted Element #2513 found in the priority queue
+++++++++++++++++++++++    ERROR #1372   ++++++++++++++++++++++
+   Deleted Element #2512 found in the priority queue
+++++++++++++++++++++++    ERROR #1373   ++++++++++++++++++++++
+   Deleted Element #2490 found in the priority queue
+++++++++++++++++++++++    ERROR #1374   ++++++++++++++++++++++
+   Deleted Element #2471 found in the priority queue
+++++++++++++++++++++++    ERROR #1375   ++++++++++++++++++++++
+   Deleted Element #2458 found in the priority queue
+++++++++++++++++++++++    ERROR #1376   ++++++++++++++++++++++
+   Deleted Element #2442 found in the priority queue
+++++++++++++++++++++++    ERROR #1377   ++++++++++++++++++++++
+   Deleted Element #2438 found in the priority queue
+++++++++++++++++++++++    ERROR #1378   ++++++++++++++++++++++
+   Deleted Element #2430 found in the priority queue
+++++++++++++++++++++++    ERROR #1379   ++++++++++++++++++++++
+   Deleted Element #2424 found in the priority queue
+++++++++++++++++++++++    ERROR #1380   ++++++++++++++++++++++
+   Deleted Element #2417 found in the priority queue
+++++++++++++++++++++++    ERROR #1381   ++++++++++++++++++++++
+   Deleted Element #2416 found in the priority queue
+++++++++++++++++++++++    ERROR #1382   ++++++++++++++++++++++
+   Deleted Element #2404 found in the priority queue
+++++++++++++++++++++++    ERROR #1383   ++++++++++++++++++++++
+   Deleted Element #2400 found in the priority queue
+++++++++++++++++++++++    ERROR #1384   ++++++++++++++++++++++
+   Deleted Element #2391 found in the priority queue
+++++++++++++++++++++++    ERROR #1385   ++++++++++++++++++++++
+   Deleted Element #2389 found in the priority queue
+++++++++++++++++++++++    ERROR #1386   ++++++++++++++++++++++
+   Deleted Element #2381 found in the priority queue
+++++++++++++++++++++++    ERROR #1387   ++++++++++++++++++++++
+   Deleted Element #2371 found in the priority queue
+++++++++++++++++++++++    ERROR #1388   ++++++++++++++++++++++
+   Deleted Element #2366 found in the priority queue
+++++++++++++++++++++++    ERROR #1389   ++++++++++++++++++++++
+   Deleted Element #2354 found in the priority queue
+++++++++++++++++++++++    ERROR #1390   ++++++++++++++++++++++
+   Deleted Element #2347 found in the priority queue
+++++++++++++++++++++++    ERROR #1391   ++++++++++++++++++++++
+   Deleted Element #2339 found in the priority queue
+++++++++++++++++++++++    ERROR #1392   ++++++++++++++++++++++
+   Deleted Element #2298 found in the priority queue
+++++++++++++++++++++++    ERROR #1393   ++++++++++++++++++++++
+   Deleted Element #2293 found in the priority queue
+++++++++++++++++++++++    ERROR #1394   ++++++++++++++++++++++
+   Deleted Element #2289 found in the priority queue
+++++++++++++++++++++++    ERROR #1395   ++++++++++++++++++++++
+   Deleted Element #2285 found in the priority queue
+++++++++++++++++++++++    ERROR #1396   ++++++++++++++++++++++
+   Deleted Element #2266 found in the priority queue
+++++++++++++++++++++++    ERROR #1397   ++++++++++++++++++++++
+   Deleted Element #2256 found in the priority queue
+++++++++++++++++++++++    ERROR #1398   ++++++++++++++++++++++
+   Deleted Element #2255 found in the priority queue
+++++++++++++++++++++++    ERROR #1399   ++++++++++++++++++++++
+   Deleted Element #2236 found in the priority queue
+++++++++++++++++++++++    ERROR #1400   ++++++++++++++++++++++
+   Deleted Element #2232 found in the priority queue
+++++++++++++++++++++++    ERROR #1401   ++++++++++++++++++++++
+   Deleted Element #2219 found in the priority queue
+++++++++++++++++++++++    ERROR #1402   ++++++++++++++++++++++
+   Deleted Element #2208 found in the priority queue
+++++++++++++++++++++++    ERROR #1403   ++++++++++++++++++++++
+   Deleted Element #2202 found in the priority queue
+++++++++++++++++++++++    ERROR #1404   ++++++++++++++++++++++
+   Deleted Element #2200 found in the priority queue
+++++++++++++++++++++++    ERROR #1405   ++++++++++++++++++++++
+   Deleted Element #2196 found in the priority queue
+++++++++++++++++++++++    ERROR #1406   ++++++++++++++++++++++
+   Deleted Element #2187 found in the priority queue
+++++++++++++++++++++++    ERROR #1407   ++++++++++++++++++++++
+   Deleted Element #2182 found in the priority queue
+++++++++++++++++++++++    ERROR #1408   ++++++++++++++++++++++
+   Deleted Element #2172 found in the priority queue
+++++++++++++++++++++++    ERROR #1409   ++++++++++++++++++++++
+   Deleted Element #2166 found in the priority queue
+++++++++++++++++++++++    ERROR #1410   ++++++++++++++++++++++
+   Deleted Element #2164 found in the priority queue
+++++++++++++++++++++++    ERROR #1411   ++++++++++++++++++++++
+   Deleted Element #2154 found in the priority queue
+++++++++++++++++++++++    ERROR #1412   ++++++++++++++++++++++
+   Deleted Element #2147 found in the priority queue
+++++++++++++++++++++++    ERROR #1413   ++++++++++++++++++++++
+   Deleted Element #2135 found in the priority queue
+++++++++++++++++++++++    ERROR #1414   ++++++++++++++++++++++
+   Deleted Element #2131 found in the priority queue
+++++++++++++++++++++++    ERROR #1415   ++++++++++++++++++++++
+   Deleted Element #2128 found in the priority queue
+++++++++++++++++++++++    ERROR #1416   ++++++++++++++++++++++
+   Deleted Element #2121 found in the priority queue
+++++++++++++++++++++++    ERROR #1417   ++++++++++++++++++++++
+   Deleted Element #2118 found in the priority queue
+++++++++++++++++++++++    ERROR #1418   ++++++++++++++++++++++
+   Deleted Element #2094 found in the priority queue
+++++++++++++++++++++++    ERROR #1419   ++++++++++++++++++++++
+   Deleted Element #2091 found in the priority queue
+++++++++++++++++++++++    ERROR #1420   ++++++++++++++++++++++
+   Deleted Element #2087 found in the priority queue
+++++++++++++++++++++++    ERROR #1421   ++++++++++++++++++++++
+   Deleted Element #2072 found in the priority queue
+++++++++++++++++++++++    ERROR #1422   ++++++++++++++++++++++
+   Deleted Element #2068 found in the priority queue
+++++++++++++++++++++++    ERROR #1423   ++++++++++++++++++++++
+   Deleted Element #2065 found in the priority queue
+++++++++++++++++++++++    ERROR #1424   ++++++++++++++++++++++
+   Deleted Element #2036 found in the priority queue
+++++++++++++++++++++++    ERROR #1425   ++++++++++++++++++++++
+   Deleted Element #2023 found in the priority queue
+++++++++++++++++++++++    ERROR #1426   ++++++++++++++++++++++
+   Deleted Element #2014 found in the priority queue
+++++++++++++++++++++++    ERROR #1427   ++++++++++++++++++++++
+   Deleted Element #2013 found in the priority queue
+++++++++++++++++++++++    ERROR #1428   ++++++++++++++++++++++
+   Deleted Element #2004 found in the priority queue
+++++++++++++++++++++++    ERROR #1429   ++++++++++++++++++++++
+   Deleted Element #1995 found in the priority queue
+++++++++++++++++++++++    ERROR #1430   ++++++++++++++++++++++
+   Deleted Element #1990 found in the priority queue
+++++++++++++++++++++++    ERROR #1431   ++++++++++++++++++++++
+   Deleted Element #1957 found in the priority queue
+++++++++++++++++++++++    ERROR #1432   ++++++++++++++++++++++
+   Deleted Element #1946 found in the priority queue
+++++++++++++++++++++++    ERROR #1433   ++++++++++++++++++++++
+   Deleted Element #1932 found in the priority queue
+++++++++++++++++++++++    ERROR #1434   ++++++++++++++++++++++
+   Deleted Element #1920 found in the priority queue
+++++++++++++++++++++++    ERROR #1435   ++++++++++++++++++++++
+   Deleted Element #1916 found in the priority queue
+++++++++++++++++++++++    ERROR #1436   ++++++++++++++++++++++
+   Deleted Element #1913 found in the priority queue
+++++++++++++++++++++++    ERROR #1437   ++++++++++++++++++++++
+   Deleted Element #1906 found in the priority queue
+++++++++++++++++++++++    ERROR #1438   ++++++++++++++++++++++
+   Deleted Element #1889 found in the priority queue
+++++++++++++++++++++++    ERROR #1439   ++++++++++++++++++++++
+   Deleted Element #1888 found in the priority queue
+++++++++++++++++++++++    ERROR #1440   ++++++++++++++++++++++
+   Deleted Element #1886 found in the priority queue
+++++++++++++++++++++++    ERROR #1441   ++++++++++++++++++++++
+   Deleted Element #1878 found in the priority queue
+++++++++++++++++++++++    ERROR #1442   ++++++++++++++++++++++
+   Deleted Element #1868 found in the priority queue
+++++++++++++++++++++++    ERROR #1443   ++++++++++++++++++++++
+   Deleted Element #1866 found in the priority queue
+++++++++++++++++++++++    ERROR #1444   ++++++++++++++++++++++
+   Deleted Element #1862 found in the priority queue
+++++++++++++++++++++++    ERROR #1445   ++++++++++++++++++++++
+   Deleted Element #1850 found in the priority queue
+++++++++++++++++++++++    ERROR #1446   ++++++++++++++++++++++
+   Deleted Element #1821 found in the priority queue
+++++++++++++++++++++++    ERROR #1447   ++++++++++++++++++++++
+   Deleted Element #1808 found in the priority queue
+++++++++++++++++++++++    ERROR #1448   ++++++++++++++++++++++
+   Deleted Element #1799 found in the priority queue
+++++++++++++++++++++++    ERROR #1449   ++++++++++++++++++++++
+   Deleted Element #1793 found in the priority queue
+++++++++++++++++++++++    ERROR #1450   ++++++++++++++++++++++
+   Deleted Element #1791 found in the priority queue
+++++++++++++++++++++++    ERROR #1451   ++++++++++++++++++++++
+   Deleted Element #1784 found in the priority queue
+++++++++++++++++++++++    ERROR #1452   ++++++++++++++++++++++
+   Deleted Element #1768 found in the priority queue
+++++++++++++++++++++++    ERROR #1453   ++++++++++++++++++++++
+   Deleted Element #1750 found in the priority queue
+++++++++++++++++++++++    ERROR #1454   ++++++++++++++++++++++
+   Deleted Element #1749 found in the priority queue
+++++++++++++++++++++++    ERROR #1455   ++++++++++++++++++++++
+   Deleted Element #1740 found in the priority queue
+++++++++++++++++++++++    ERROR #1456   ++++++++++++++++++++++
+   Deleted Element #1730 found in the priority queue
+++++++++++++++++++++++    ERROR #1457   ++++++++++++++++++++++
+   Deleted Element #1728 found in the priority queue
+++++++++++++++++++++++    ERROR #1458   ++++++++++++++++++++++
+   Deleted Element #1727 found in the priority queue
+++++++++++++++++++++++    ERROR #1459   ++++++++++++++++++++++
+   Deleted Element #1697 found in the priority queue
+++++++++++++++++++++++    ERROR #1460   ++++++++++++++++++++++
+   Deleted Element #1696 found in the priority queue
+++++++++++++++++++++++    ERROR #1461   ++++++++++++++++++++++
+   Deleted Element #1685 found in the priority queue
+++++++++++++++++++++++    ERROR #1462   ++++++++++++++++++++++
+   Deleted Element #1684 found in the priority queue
+++++++++++++++++++++++    ERROR #1463   ++++++++++++++++++++++
+   Deleted Element #1681 found in the priority queue
+++++++++++++++++++++++    ERROR #1464   ++++++++++++++++++++++
+   Deleted Element #1675 found in the priority queue
+++++++++++++++++++++++    ERROR #1465   ++++++++++++++++++++++
+   Deleted Element #1648 found in the priority queue
+++++++++++++++++++++++    ERROR #1466   ++++++++++++++++++++++
+   Deleted Element #1645 found in the priority queue
+++++++++++++++++++++++    ERROR #1467   ++++++++++++++++++++++
+   Deleted Element #1637 found in the priority queue
+++++++++++++++++++++++    ERROR #1468   ++++++++++++++++++++++
+   Deleted Element #1626 found in the priority queue
+++++++++++++++++++++++    ERROR #1469   ++++++++++++++++++++++
+   Deleted Element #1606 found in the priority queue
+++++++++++++++++++++++    ERROR #1470   ++++++++++++++++++++++
+   Deleted Element #1604 found in the priority queue
+++++++++++++++++++++++    ERROR #1471   ++++++++++++++++++++++
+   Deleted Element #1601 found in the priority queue
+++++++++++++++++++++++    ERROR #1472   ++++++++++++++++++++++
+   Deleted Element #1567 found in the priority queue
+++++++++++++++++++++++    ERROR #1473   ++++++++++++++++++++++
+   Deleted Element #1559 found in the priority queue
+++++++++++++++++++++++    ERROR #1474   ++++++++++++++++++++++
+   Deleted Element #1556 found in the priority queue
+++++++++++++++++++++++    ERROR #1475   ++++++++++++++++++++++
+   Deleted Element #1546 found in the priority queue
+++++++++++++++++++++++    ERROR #1476   ++++++++++++++++++++++
+   Deleted Element #1533 found in the priority queue
+++++++++++++++++++++++    ERROR #1477   ++++++++++++++++++++++
+   Deleted Element #1523 found in the priority queue
+++++++++++++++++++++++    ERROR #1478   ++++++++++++++++++++++
+   Deleted Element #1513 found in the priority queue
+++++++++++++++++++++++    ERROR #1479   ++++++++++++++++++++++
+   Deleted Element #1510 found in the priority queue
+++++++++++++++++++++++    ERROR #1480   ++++++++++++++++++++++
+   Deleted Element #1491 found in the priority queue
+++++++++++++++++++++++    ERROR #1481   ++++++++++++++++++++++
+   Deleted Element #1485 found in the priority queue
+++++++++++++++++++++++    ERROR #1482   ++++++++++++++++++++++
+   Deleted Element #1473 found in the priority queue
+++++++++++++++++++++++    ERROR #1483   ++++++++++++++++++++++
+   Deleted Element #1472 found in the priority queue
+++++++++++++++++++++++    ERROR #1484   ++++++++++++++++++++++
+   Deleted Element #1467 found in the priority queue
+++++++++++++++++++++++    ERROR #1485   ++++++++++++++++++++++
+   Deleted Element #1466 found in the priority queue
+++++++++++++++++++++++    ERROR #1486   ++++++++++++++++++++++
+   Deleted Element #1436 found in the priority queue
+++++++++++++++++++++++    ERROR #1487   ++++++++++++++++++++++
+   Deleted Element #1432 found in the priority queue
+++++++++++++++++++++++    ERROR #1488   ++++++++++++++++++++++
+   Deleted Element #1400 found in the priority queue
+++++++++++++++++++++++    ERROR #1489   ++++++++++++++++++++++
+   Deleted Element #1381 found in the priority queue
+++++++++++++++++++++++    ERROR #1490   ++++++++++++++++++++++
+   Deleted Element #1376 found in the priority queue
+++++++++++++++++++++++    ERROR #1491   ++++++++++++++++++++++
+   Deleted Element #1373 found in the priority queue
+++++++++++++++++++++++    ERROR #1492   ++++++++++++++++++++++
+   Deleted Element #1362 found in the priority queue
+++++++++++++++++++++++    ERROR #1493   ++++++++++++++++++++++
+   Deleted Element #1355 found in the priority queue
+++++++++++++++++++++++    ERROR #1494   ++++++++++++++++++++++
+   Deleted Element #1330 found in the priority queue
+++++++++++++++++++++++    ERROR #1495   ++++++++++++++++++++++
+   Deleted Element #1329 found in the priority queue
+++++++++++++++++++++++    ERROR #1496   ++++++++++++++++++++++
+   Deleted Element #1328 found in the priority queue
+++++++++++++++++++++++    ERROR #1497   ++++++++++++++++++++++
+   Deleted Element #1315 found in the priority queue
+++++++++++++++++++++++    ERROR #1498   ++++++++++++++++++++++
+   Deleted Element #1304 found in the priority queue
+++++++++++++++++++++++    ERROR #1499   ++++++++++++++++++++++
+   Deleted Element #1277 found in the priority queue
+++++++++++++++++++++++    ERROR #1500   ++++++++++++++++++++++
+   Deleted Element #1272 found in the priority queue
+++++++++++++++++++++++    ERROR #1501   ++++++++++++++++++++++
+   Deleted Element #1265 found in the priority queue
+++++++++++++++++++++++    ERROR #1502   ++++++++++++++++++++++
+   Deleted Element #1240 found in the priority queue
+++++++++++++++++++++++    ERROR #1503   ++++++++++++++++++++++
+   Deleted Element #1231 found in the priority queue
+++++++++++++++++++++++    ERROR #1504   ++++++++++++++++++++++
+   Deleted Element #1229 found in the priority queue
+++++++++++++++++++++++    ERROR #1505   ++++++++++++++++++++++
+   Deleted Element #1223 found in the priority queue
+++++++++++++++++++++++    ERROR #1506   ++++++++++++++++++++++
+   Deleted Element #1201 found in the priority queue
+++++++++++++++++++++++    ERROR #1507   ++++++++++++++++++++++
+   Deleted Element #1197 found in the priority queue
+++++++++++++++++++++++    ERROR #1508   ++++++++++++++++++++++
+   Deleted Element #1194 found in the priority queue
+++++++++++++++++++++++    ERROR #1509   ++++++++++++++++++++++
+   Deleted Element #1189 found in the priority queue
+++++++++++++++++++++++    ERROR #1510   ++++++++++++++++++++++
+   Deleted Element #1152 found in the priority queue
+++++++++++++++++++++++    ERROR #1511   ++++++++++++++++++++++
+   Deleted Element #1146 found in the priority queue
+++++++++++++++++++++++    ERROR #1512   ++++++++++++++++++++++
+   Deleted Element #1143 found in the priority queue
+++++++++++++++++++++++    ERROR #1513   ++++++++++++++++++++++
+   Deleted Element #1141 found in the priority queue
+++++++++++++++++++++++    ERROR #1514   ++++++++++++++++++++++
+   Deleted Element #1138 found in the priority queue
+++++++++++++++++++++++    ERROR #1515   ++++++++++++++++++++++
+   Deleted Element #1136 found in the priority queue
+++++++++++++++++++++++    ERROR #1516   ++++++++++++++++++++++
+   Deleted Element #1131 found in the priority queue
+++++++++++++++++++++++    ERROR #1517   ++++++++++++++++++++++
+   Deleted Element #1130 found in the priority queue
+++++++++++++++++++++++    ERROR #1518   ++++++++++++++++++++++
+   Deleted Element #1082 found in the priority queue
+++++++++++++++++++++++    ERROR #1519   ++++++++++++++++++++++
+   Deleted Element #1076 found in the priority queue
+++++++++++++++++++++++    ERROR #1520   ++++++++++++++++++++++
+   Deleted Element #1072 found in the priority queue
+++++++++++++++++++++++    ERROR #1521   ++++++++++++++++++++++
+   Deleted Element #1070 found in the priority queue
+++++++++++++++++++++++    ERROR #1522   ++++++++++++++++++++++
+   Deleted Element #1066 found in the priority queue
+++++++++++++++++++++++    ERROR #1523   ++++++++++++++++++++++
+   Deleted Element #1049 found in the priority queue
+++++++++++++++++++++++    ERROR #1524   ++++++++++++++++++++++
+   Deleted Element #1046 found in the priority queue
+++++++++++++++++++++++    ERROR #1525   ++++++++++++++++++++++
+   Deleted Element #1037 found in the priority queue
+++++++++++++++++++++++    ERROR #1526   ++++++++++++++++++++++
+   Deleted Element #1036 found in the priority queue
+++++++++++++++++++++++    ERROR #1527   ++++++++++++++++++++++
+   Deleted Element #1002 found in the priority queue
+++++++++++++++++++++++    ERROR #1528   ++++++++++++++++++++++
+   Deleted Element #1000 found in the priority queue
+++++++++++++++++++++++    ERROR #1529   ++++++++++++++++++++++
+   Deleted Element #984 found in the priority queue
+++++++++++++++++++++++    ERROR #1530   ++++++++++++++++++++++
+   Deleted Element #981 found in the priority queue
+++++++++++++++++++++++    ERROR #1531   ++++++++++++++++++++++
+   Deleted Element #978 found in the priority queue
+++++++++++++++++++++++    ERROR #1532   ++++++++++++++++++++++
+   Deleted Element #954 found in the priority queue
+++++++++++++++++++++++    ERROR #1533   ++++++++++++++++++++++
+   Deleted Element #939 found in the priority queue
+++++++++++++++++++++++    ERROR #1534   ++++++++++++++++++++++
+   Deleted Element #933 found in the priority queue
+++++++++++++++++++++++    ERROR #1535   ++++++++++++++++++++++
+   Deleted Element #914 found in the priority queue
+++++++++++++++++++++++    ERROR #1536   ++++++++++++++++++++++
+   Deleted Element #907 found in the priority queue
+++++++++++++++++++++++    ERROR #1537   ++++++++++++++++++++++
+   Deleted Element #899 found in the priority queue
+++++++++++++++++++++++    ERROR #1538   ++++++++++++++++++++++
+   Deleted Element #898 found in the priority queue
+++++++++++++++++++++++    ERROR #1539   ++++++++++++++++++++++
+   Deleted Element #887 found in the priority queue
+++++++++++++++++++++++    ERROR #1540   ++++++++++++++++++++++
+   Deleted Element #883 found in the priority queue
+++++++++++++++++++++++    ERROR #1541   ++++++++++++++++++++++
+   Deleted Element #881 found in the priority queue
+++++++++++++++++++++++    ERROR #1542   ++++++++++++++++++++++
+   Deleted Element #880 found in the priority queue
+++++++++++++++++++++++    ERROR #1543   ++++++++++++++++++++++
+   Deleted Element #874 found in the priority queue
+++++++++++++++++++++++    ERROR #1544   ++++++++++++++++++++++
+   Deleted Element #870 found in the priority queue
+++++++++++++++++++++++    ERROR #1545   ++++++++++++++++++++++
+   Deleted Element #860 found in the priority queue
+++++++++++++++++++++++    ERROR #1546   ++++++++++++++++++++++
+   Deleted Element #847 found in the priority queue
+++++++++++++++++++++++    ERROR #1547   ++++++++++++++++++++++
+   Deleted Element #844 found in the priority queue
+++++++++++++++++++++++    ERROR #1548   ++++++++++++++++++++++
+   Deleted Element #834 found in the priority queue
+++++++++++++++++++++++    ERROR #1549   ++++++++++++++++++++++
+   Deleted Element #833 found in the priority queue
+++++++++++++++++++++++    ERROR #1550   ++++++++++++++++++++++
+   Deleted Element #826 found in the priority queue
+++++++++++++++++++++++    ERROR #1551   ++++++++++++++++++++++
+   Deleted Element #820 found in the priority queue
+++++++++++++++++++++++    ERROR #1552   ++++++++++++++++++++++
+   Deleted Element #819 found in the priority queue
+++++++++++++++++++++++    ERROR #1553   ++++++++++++++++++++++
+   Deleted Element #794 found in the priority queue
+++++++++++++++++++++++    ERROR #1554   ++++++++++++++++++++++
+   Deleted Element #784 found in the priority queue
+++++++++++++++++++++++    ERROR #1555   ++++++++++++++++++++++
+   Deleted Element #775 found in the priority queue
+++++++++++++++++++++++    ERROR #1556   ++++++++++++++++++++++
+   Deleted Element #773 found in the priority queue
+++++++++++++++++++++++    ERROR #1557   ++++++++++++++++++++++
+   Deleted Element #772 found in the priority queue
+++++++++++++++++++++++    ERROR #1558   ++++++++++++++++++++++
+   Deleted Element #765 found in the priority queue
+++++++++++++++++++++++    ERROR #1559   ++++++++++++++++++++++
+   Deleted Element #763 found in the priority queue
+++++++++++++++++++++++    ERROR #1560   ++++++++++++++++++++++
+   Deleted Element #728 found in the priority queue
+++++++++++++++++++++++    ERROR #1561   ++++++++++++++++++++++
+   Deleted Element #725 found in the priority queue
+++++++++++++++++++++++    ERROR #1562   ++++++++++++++++++++++
+   Deleted Element #724 found in the priority queue
+++++++++++++++++++++++    ERROR #1563   ++++++++++++++++++++++
+   Deleted Element #706 found in the priority queue
+++++++++++++++++++++++    ERROR #1564   ++++++++++++++++++++++
+   Deleted Element #697 found in the priority queue
+++++++++++++++++++++++    ERROR #1565   ++++++++++++++++++++++
+   Deleted Element #691 found in the priority queue
+++++++++++++++++++++++    ERROR #1566   ++++++++++++++++++++++
+   Deleted Element #686 found in the priority queue
+++++++++++++++++++++++    ERROR #1567   ++++++++++++++++++++++
+   Deleted Element #685 found in the priority queue
+++++++++++++++++++++++    ERROR #1568   ++++++++++++++++++++++
+   Deleted Element #673 found in the priority queue
+++++++++++++++++++++++    ERROR #1569   ++++++++++++++++++++++
+   Deleted Element #661 found in the priority queue
+++++++++++++++++++++++    ERROR #1570   ++++++++++++++++++++++
+   Deleted Element #659 found in the priority queue
+++++++++++++++++++++++    ERROR #1571   ++++++++++++++++++++++
+   Deleted Element #649 found in the priority queue
+++++++++++++++++++++++    ERROR #1572   ++++++++++++++++++++++
+   Deleted Element #638 found in the priority queue
+++++++++++++++++++++++    ERROR #1573   ++++++++++++++++++++++
+   Deleted Element #633 found in the priority queue
+++++++++++++++++++++++    ERROR #1574   ++++++++++++++++++++++
+   Deleted Element #625 found in the priority queue
+++++++++++++++++++++++    ERROR #1575   ++++++++++++++++++++++
+   Deleted Element #612 found in the priority queue
+++++++++++++++++++++++    ERROR #1576   ++++++++++++++++++++++
+   Deleted Element #610 found in the priority queue
+++++++++++++++++++++++    ERROR #1577   ++++++++++++++++++++++
+   Deleted Element #606 found in the priority queue
+++++++++++++++++++++++    ERROR #1578   ++++++++++++++++++++++
+   Deleted Element #602 found in the priority queue
+++++++++++++++++++++++    ERROR #1579   ++++++++++++++++++++++
+   Deleted Element #598 found in the priority queue
+++++++++++++++++++++++    ERROR #1580   ++++++++++++++++++++++
+   Deleted Element #580 found in the priority queue
+++++++++++++++++++++++    ERROR #1581   ++++++++++++++++++++++
+   Deleted Element #563 found in the priority queue
+++++++++++++++++++++++    ERROR #1582   ++++++++++++++++++++++
+   Deleted Element #552 found in the priority queue
+++++++++++++++++++++++    ERROR #1583   ++++++++++++++++++++++
+   Deleted Element #543 found in the priority queue
+++++++++++++++++++++++    ERROR #1584   ++++++++++++++++++++++
+   Deleted Element #535 found in the priority queue
+++++++++++++++++++++++    ERROR #1585   ++++++++++++++++++++++
+   Deleted Element #533 found in the priority queue
+++++++++++++++++++++++    ERROR #1586   ++++++++++++++++++++++
+   Deleted Element #516 found in the priority queue
+++++++++++++++++++++++    ERROR #1587   ++++++++++++++++++++++
+   Deleted Element #512 found in the priority queue
+++++++++++++++++++++++    ERROR #1588   ++++++++++++++++++++++
+   Deleted Element #471 found in the priority queue
+++++++++++++++++++++++    ERROR #1589   ++++++++++++++++++++++
+   Deleted Element #465 found in the priority queue
+++++++++++++++++++++++    ERROR #1590   ++++++++++++++++++++++
+   Deleted Element #456 found in the priority queue
+++++++++++++++++++++++    ERROR #1591   ++++++++++++++++++++++
+   Deleted Element #448 found in the priority queue
+++++++++++++++++++++++    ERROR #1592   ++++++++++++++++++++++
+   Deleted Element #447 found in the priority queue
+++++++++++++++++++++++    ERROR #1593   ++++++++++++++++++++++
+   Deleted Element #442 found in the priority queue
+++++++++++++++++++++++    ERROR #1594   ++++++++++++++++++++++
+   Deleted Element #433 found in the priority queue
+++++++++++++++++++++++    ERROR #1595   ++++++++++++++++++++++
+   Deleted Element #432 found in the priority queue
+++++++++++++++++++++++    ERROR #1596   ++++++++++++++++++++++
+   Deleted Element #431 found in the priority queue
+++++++++++++++++++++++    ERROR #1597   ++++++++++++++++++++++
+   Deleted Element #429 found in the priority queue
+++++++++++++++++++++++    ERROR #1598   ++++++++++++++++++++++
+   Deleted Element #412 found in the priority queue
+++++++++++++++++++++++    ERROR #1599   ++++++++++++++++++++++
+   Deleted Element #405 found in the priority queue
+++++++++++++++++++++++    ERROR #1600   ++++++++++++++++++++++
+   Deleted Element #400 found in the priority queue
+++++++++++++++++++++++    ERROR #1601   ++++++++++++++++++++++
+   Deleted Element #398 found in the priority queue
+++++++++++++++++++++++    ERROR #1602   ++++++++++++++++++++++
+   Deleted Element #397 found in the priority queue
+++++++++++++++++++++++    ERROR #1603   ++++++++++++++++++++++
+   Deleted Element #396 found in the priority queue
+++++++++++++++++++++++    ERROR #1604   ++++++++++++++++++++++
+   Deleted Element #394 found in the priority queue
+++++++++++++++++++++++    ERROR #1605   ++++++++++++++++++++++
+   Deleted Element #393 found in the priority queue
+++++++++++++++++++++++    ERROR #1606   ++++++++++++++++++++++
+   Deleted Element #391 found in the priority queue
+++++++++++++++++++++++    ERROR #1607   ++++++++++++++++++++++
+   Deleted Element #390 found in the priority queue
+++++++++++++++++++++++    ERROR #1608   ++++++++++++++++++++++
+   Deleted Element #387 found in the priority queue
+++++++++++++++++++++++    ERROR #1609   ++++++++++++++++++++++
+   Deleted Element #381 found in the priority queue
+++++++++++++++++++++++    ERROR #1610   ++++++++++++++++++++++
+   Deleted Element #375 found in the priority queue
+++++++++++++++++++++++    ERROR #1611   ++++++++++++++++++++++
+   Deleted Element #366 found in the priority queue
+++++++++++++++++++++++    ERROR #1612   ++++++++++++++++++++++
+   Deleted Element #364 found in the priority queue
+++++++++++++++++++++++    ERROR #1613   ++++++++++++++++++++++
+   Deleted Element #361 found in the priority queue
+++++++++++++++++++++++    ERROR #1614   ++++++++++++++++++++++
+   Deleted Element #338 found in the priority queue
+++++++++++++++++++++++    ERROR #1615   ++++++++++++++++++++++
+   Deleted Element #336 found in the priority queue
+++++++++++++++++++++++    ERROR #1616   ++++++++++++++++++++++
+   Deleted Element #332 found in the priority queue
+++++++++++++++++++++++    ERROR #1617   ++++++++++++++++++++++
+   Deleted Element #329 found in the priority queue
+++++++++++++++++++++++    ERROR #1618   ++++++++++++++++++++++
+   Deleted Element #328 found in the priority queue
+++++++++++++++++++++++    ERROR #1619   ++++++++++++++++++++++
+   Deleted Element #316 found in the priority queue
+++++++++++++++++++++++    ERROR #1620   ++++++++++++++++++++++
+   Deleted Element #304 found in the priority queue
+++++++++++++++++++++++    ERROR #1621   ++++++++++++++++++++++
+   Deleted Element #292 found in the priority queue
+++++++++++++++++++++++    ERROR #1622   ++++++++++++++++++++++
+   Deleted Element #291 found in the priority queue
+++++++++++++++++++++++    ERROR #1623   ++++++++++++++++++++++
+   Deleted Element #284 found in the priority queue
+++++++++++++++++++++++    ERROR #1624   ++++++++++++++++++++++
+   Deleted Element #279 found in the priority queue
+++++++++++++++++++++++    ERROR #1625   ++++++++++++++++++++++
+   Deleted Element #276 found in the priority queue
+++++++++++++++++++++++    ERROR #1626   ++++++++++++++++++++++
+   Deleted Element #269 found in the priority queue
+++++++++++++++++++++++    ERROR #1627   ++++++++++++++++++++++
+   Deleted Element #244 found in the priority queue
+++++++++++++++++++++++    ERROR #1628   ++++++++++++++++++++++
+   Deleted Element #243 found in the priority queue
+++++++++++++++++++++++    ERROR #1629   ++++++++++++++++++++++
+   Deleted Element #238 found in the priority queue
+++++++++++++++++++++++    ERROR #1630   ++++++++++++++++++++++
+   Deleted Element #230 found in the priority queue
+++++++++++++++++++++++    ERROR #1631   ++++++++++++++++++++++
+   Deleted Element #227 found in the priority queue
+++++++++++++++++++++++    ERROR #1632   ++++++++++++++++++++++
+   Deleted Element #220 found in the priority queue
+++++++++++++++++++++++    ERROR #1633   ++++++++++++++++++++++
+   Deleted Element #193 found in the priority queue
+++++++++++++++++++++++    ERROR #1634   ++++++++++++++++++++++
+   Deleted Element #187 found in the priority queue
+++++++++++++++++++++++    ERROR #1635   ++++++++++++++++++++++
+   Deleted Element #169 found in the priority queue
+++++++++++++++++++++++    ERROR #1636   ++++++++++++++++++++++
+   Deleted Element #167 found in the priority queue
+++++++++++++++++++++++    ERROR #1637   ++++++++++++++++++++++
+   Deleted Element #160 found in the priority queue
+++++++++++++++++++++++    ERROR #1638   ++++++++++++++++++++++
+   Deleted Element #151 found in the priority queue
+++++++++++++++++++++++    ERROR #1639   ++++++++++++++++++++++
+   Deleted Element #139 found in the priority queue
+++++++++++++++++++++++    ERROR #1640   ++++++++++++++++++++++
+   Deleted Element #134 found in the priority queue
+++++++++++++++++++++++    ERROR #1641   ++++++++++++++++++++++
+   Deleted Element #126 found in the priority queue
+++++++++++++++++++++++    ERROR #1642   ++++++++++++++++++++++
+   Deleted Element #124 found in the priority queue
+++++++++++++++++++++++    ERROR #1643   ++++++++++++++++++++++
+   Deleted Element #113 found in the priority queue
+++++++++++++++++++++++    ERROR #1644   ++++++++++++++++++++++
+   Deleted Element #98 found in the priority queue
+++++++++++++++++++++++    ERROR #1645   ++++++++++++++++++++++
+   Deleted Element #93 found in the priority queue
+++++++++++++++++++++++    ERROR #1646   ++++++++++++++++++++++
+   Deleted Element #81 found in the priority queue
+++++++++++++++++++++++    ERROR #1647   ++++++++++++++++++++++
+   Deleted Element #72 found in the priority queue
+++++++++++++++++++++++    ERROR #1648   ++++++++++++++++++++++
+   Deleted Element #67 found in the priority queue
+++++++++++++++++++++++    ERROR #1649   ++++++++++++++++++++++
+   Deleted Element #61 found in the priority queue
+++++++++++++++++++++++    ERROR #1650   ++++++++++++++++++++++
+   Deleted Element #59 found in the priority queue
+++++++++++++++++++++++    ERROR #1651   ++++++++++++++++++++++
+   Deleted Element #54 found in the priority queue
+++++++++++++++++++++++    ERROR #1652   ++++++++++++++++++++++
+   Deleted Element #42 found in the priority queue
+++++++++++++++++++++++    ERROR #1653   ++++++++++++++++++++++
+   Deleted Element #36 found in the priority queue
+++++++++++++++++++++++    ERROR #1654   ++++++++++++++++++++++
+   Deleted Element #32 found in the priority queue
+++++++++++++++++++++++    ERROR #1655   ++++++++++++++++++++++
+   Deleted Element #28 found in the priority queue
+++++++++++++++++++++++    ERROR #1656   ++++++++++++++++++++++
+   Deleted Element #24 found in the priority queue
+++++++++++++++++++++++    ERROR #1657   ++++++++++++++++++++++
+   Deleted Element #23 found in the priority queue
+++++++++++++++++++++++    ERROR #1658   ++++++++++++++++++++++
+   Deleted Element #17 found in the priority queue
+++++++++++++++++++++++    ERROR #1659   ++++++++++++++++++++++
+   Cannot swap memory data to disk
+Array size=4977
+d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\info\priority.sub
+I/O error 32
+++++++++++++++++++++++    ERROR #1660   ++++++++++++++++++++++
+   Cannot swap memory data to disk
+Array size=4976
+d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\info\priority.sub
+I/O error 32
+++++++++++++++++++++++    ERROR #1661   ++++++++++++++++++++++
+   Cannot swap memory data to disk
+Array size=4975
+d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\info\priority.sub
+I/O error 32
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+
+Process completed at 9:59:04 PM in 00:00:04 sec (Thursday, March 18, 2021)
+
+1661 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

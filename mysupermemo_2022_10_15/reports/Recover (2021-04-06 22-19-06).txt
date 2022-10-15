@@ -1,0 +1,157 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\desktop\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Tuesday, April 6, 2021, 10:19:06 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Checking 5,346 element records (ElementInfo.dat)
+Verifying integrity of element data (5346 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Memorized has been corrected from 841 to 840
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Memorized items has been corrected from 839 to 838
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Item Burden has been corrected from 49.98714 to 45.84758
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Avg Item Reps has been corrected from 2.86293 to 2.89499
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Avg Laps has been corrected from 0.32062 to 0.32458
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Avg Item Interval has been corrected from 60.11204 to 60.93795
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Avg Last Item Rep has been corrected from 23.13111 to 23.23986
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Avg Item A-Factor has been corrected from 4.60901 to 4.64455
+Verifying knowledge tree (5,346 elements in Contents.dat)
+114 children at Topic #2,746: 008
+118 children at Topic #1,593: 016
+110 children at Topic #2,345: 017
+130 children at Topic #2,007: 018
+144 children at Topic #2,421: 021
+110 children at Topic #202: 022
+Verifying the priority queue of 3,727 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Wrong item count on 6/26/2021 (Day #117)
+   Expected: 2
+   Found: 1
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 3
+   Items reported: 20
+   Items found:    19
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 5
+   Items reported: 16
+   Items found:    17
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 6
+   Items reported: 33
+   Items found:    34
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 7
+   Items reported: 36
+   Items found:    32
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 8
+   Items reported: 15
+   Items found:    12
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 9
+   Items reported: 9
+   Items found:    8
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 10
+   Items reported: 84
+   Items found:    72
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 11
+   Items reported: 39
+   Items found:    41
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 12
+   Items reported: 176
+   Items found:    174
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 13
+   Items reported: 88
+   Items found:    86
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 14
+   Items reported: 174
+   Items found:    186
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 15
+   Items reported: 44
+   Items found:    51
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 16
+   Items reported: 34
+   Items found:    35
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 1
+   Items reported: 10
+   Items found:    11
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 2
+   Items reported: 18
+   Items found:    9
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 3
+   Items reported: 11
+   Items found:    12
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 4
+   Items reported: 38
+   Items found:    30
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 5
+   Items reported: 90
+   Items found:    89
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 6
+   Items reported: 107
+   Items found:    113
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 7
+   Items reported: 291
+   Items found:    295
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 8
+   Items reported: 199
+   Items found:    204
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 1
+   Items reported: 71
+   Items found:    69
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 2
+   Items reported: 120
+   Items found:    106
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 3
+   Items reported: 527
+   Items found:    533
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 4
+   Items reported: 97
+   Items found:    106
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Lapses distribution discrepancy in category 1
+   Items reported: 664
+   Items found:    661
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Lapses distribution discrepancy in category 2
+   Items reported: 112
+   Items found:    113
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Lapses distribution discrepancy in category 3
+   Items reported: 39
+   Items found:    40
+
+Process completed at 10:19:08 PM in 00:00:02 sec (Tuesday, April 6, 2021)
+
+37 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

@@ -1,0 +1,19 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: c:\users\hule\nutstore\1\list\supermemo\mysupermemo
+   Date: Sunday, September 18, 2022, 1:19:21 AM
+   SuperMemo 18 (Build 18.04, Mar 6, 2020)
+
+Checking 6,775 element records (ElementInfo.dat)
+Verifying integrity of element data (6775 elements in ElementInfo.dat)
+Verifying knowledge tree (6,775 elements in Contents.dat)
+Verifying the priority queue of 6,369 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+
+Process completed at 1:19:30 AM in 00:00:08 sec (Sunday, September 18, 2022)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

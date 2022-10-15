@@ -1,0 +1,20 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\28-29.xml
+   Collection: c:\supermemo\systems\test
+   Date: Tuesday, March 2, 2021, 3:51:50 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #3,914: д╛хо
+
+Dismissing Topic #3,669: linshi
+
+Dismissing Topic #3,620: 028
+
+Dismissing Topic #1,988: 029
+
+
+Process completed at 3:51:54 PM in 00:00:03 sec (Tuesday, March 2, 2021)
+
+NO ERRORS (Importing from D:\Desktop\anki2sm-master\out\28-29.xml)
+
+____________________________________________________________

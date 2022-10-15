@@ -1,0 +1,24 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\033.xml
+   Collection: d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Monday, March 8, 2021, 10:54:24 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #3,270: 默认
+
+Dismissing Topic #613: 033
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Cannot open registry files
+Registry=d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\registry\Sound
+I/O error 32
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Cannot save the component buffer to d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\info\compon.dat
+   Element=3260
+I/O error 32
+
+Process completed at 10:54:31 PM in 00:00:06 sec (Monday, March 8, 2021)
+
+2 ERRORS (Importing from D:\Desktop\anki2sm-master\out\033.xml)
+
+____________________________________________________________

@@ -1,0 +1,31 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\032.xml
+   Collection: d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Friday, March 5, 2021, 12:25:59 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #1,297: 默认
+
+Dismissing Topic #4,308: 032
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Non-empty filespace slot #6876
+File=d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\elements\22\27\6876.HTM
+Allocated slots=10853
+Use File : Repair collection to check the entire filespace!
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Non-empty filespace slot #6877
+File=d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\elements\22\27\6877.HTM
+Allocated slots=10854
+Use File : Repair collection to check the entire filespace!
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Non-empty filespace slot #6879
+File=d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\elements\22\27\6879.HTM
+Allocated slots=10855
+Use File : Repair collection to check the entire filespace!
+
+Process completed at 12:26:07 PM in 00:00:07 sec (Friday, March 5, 2021)
+
+3 ERRORS (Importing from D:\Desktop\anki2sm-master\out\032.xml)
+
+____________________________________________________________

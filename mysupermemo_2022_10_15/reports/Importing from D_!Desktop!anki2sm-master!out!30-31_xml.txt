@@ -1,0 +1,302 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\30-31.xml
+   Collection: d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Wednesday, March 3, 2021, 9:59:31 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #1,355: 默认
+
+Dismissing Topic #4,824: linshi
+
+Dismissing Topic #5,222: 030
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Sound registry error!
+   Error accessing file
+d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\registry\Sound.mem
+I/O error 32
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 144
+Scanning: 144
+I/O error 103
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #144
+I/O error 103
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 554
+Scanning: 554
+I/O error 103
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #554
+I/O error 103
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 861
+Scanning: 861
+I/O error 103
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #861
+I/O error 103
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1206
+Scanning: 1206
+I/O error 103
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1206
+I/O error 103
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 82
+Scanning: 82
+I/O error 103
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #82
+I/O error 103
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1189
+Scanning: 1189
+I/O error 103
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1189
+I/O error 103
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 497
+Scanning: 497
+I/O error 103
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #497
+I/O error 103
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 690
+Scanning: 690
+I/O error 103
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #690
+I/O error 103
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 727
+Scanning: 727
+I/O error 103
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #727
+I/O error 103
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 429
+Scanning: 429
+I/O error 103
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #429
+I/O error 103
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1241
+Scanning: 1241
+I/O error 103
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1241
+I/O error 103
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1241
+Scanning: 1241
+I/O error 103
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1241
+I/O error 103
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 923
+Scanning: 923
+I/O error 103
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #923
+I/O error 103
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 144
+Scanning: 144
+I/O error 103
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #144
+I/O error 103
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 554
+Scanning: 554
+I/O error 103
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #554
+I/O error 103
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 861
+Scanning: 861
+I/O error 103
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #861
+I/O error 103
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1206
+Scanning: 1206
+I/O error 103
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1206
+I/O error 103
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 82
+Scanning: 82
+I/O error 103
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #82
+I/O error 103
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1189
+Scanning: 1189
+I/O error 103
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1189
+I/O error 103
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 497
+Scanning: 497
+I/O error 103
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #497
+I/O error 103
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 690
+Scanning: 690
+I/O error 103
+++++++++++++++++++++++    ERROR #43   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #690
+I/O error 103
+++++++++++++++++++++++    ERROR #44   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 727
+Scanning: 727
+I/O error 103
+++++++++++++++++++++++    ERROR #45   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #727
+I/O error 103
+++++++++++++++++++++++    ERROR #46   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 429
+Scanning: 429
+I/O error 103
+++++++++++++++++++++++    ERROR #47   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #429
+I/O error 103
+++++++++++++++++++++++    ERROR #48   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1241
+Scanning: 1241
+I/O error 103
+++++++++++++++++++++++    ERROR #49   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1241
+I/O error 103
+++++++++++++++++++++++    ERROR #50   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1241
+Scanning: 1241
+I/O error 103
+++++++++++++++++++++++    ERROR #51   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1241
+I/O error 103
+++++++++++++++++++++++    ERROR #52   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 923
+Scanning: 923
+I/O error 103
+++++++++++++++++++++++    ERROR #53   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #923
+I/O error 103
+++++++++++++++++++++++    ERROR #54   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot add new registry member
+I/O error 103
+++++++++++++++++++++++    ERROR #55   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot add new item object
+I/O error 103
+++++++++++++++++++++++    ERROR #56   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot close registry 
+d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\registry\Sound
+I/O error 103
+++++++++++++++++++++++    ERROR #57   ++++++++++++++++++++++
+   Cannot save the component buffer to d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\info\compon.dat
+   Element=4418
+I/O error 32
+Dismissing Topic #3,505: 031
+
+
+Process completed at 9:59:38 PM in 00:00:06 sec (Wednesday, March 3, 2021)
+
+57 ERRORS (Importing from D:\Desktop\anki2sm-master\out\30-31.xml)
+
+____________________________________________________________

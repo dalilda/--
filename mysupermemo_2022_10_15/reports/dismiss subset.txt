@@ -1,0 +1,20 @@
+SuperMemo Report
+   Activity: Operation: dismiss elements
+   Collection: d:\desktop\list\supermemo\mysupermemo
+   Date: Thursday, July 8, 2021, 12:09:58 AM
+   SuperMemo 18 (Build 18.04, Mar 6, 2020)
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Cannot reload memory block from d:\desktop\list\supermemo\mysupermemo\History\2021\07 (Jul)\Jul 08, 2021.sub
+I/O error 32
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Cannot locate a queue item in a memory block
+Item=6296
+Size=69
+Access violation at address 009B6195 in module 'sm18.exe'. Read of address 00000000
+
+Process completed at 12:09:58 AM in 00:00:00 sec (Thursday, July 8, 2021)
+
+2 ERRORS (Operation: dismiss elements)
+
+____________________________________________________________

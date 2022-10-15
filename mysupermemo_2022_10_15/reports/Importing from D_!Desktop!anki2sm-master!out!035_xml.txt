@@ -1,0 +1,494 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\035.xml
+   Collection: d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Thursday, March 11, 2021, 9:53:52 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #316: 默认
+
+Dismissing Topic #3,828: 035
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3101
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3102
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3103
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3104
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3105
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3106
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3107
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3108
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3109
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3110
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3111
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3112
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3113
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3114
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3115
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3116
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3117
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3118
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3119
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3120
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3121
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3122
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3123
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3124
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3125
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3126
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3127
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Sound registry error!
+   Error accessing file
+d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\registry\Sound.mem
+I/O error 32
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1552
+Scanning: 1552
+I/O error 103
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1552
+I/O error 103
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 857
+Scanning: 857
+I/O error 103
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #857
+I/O error 103
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1570
+Scanning: 1570
+I/O error 103
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1570
+I/O error 103
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 55
+Scanning: 55
+I/O error 103
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #55
+I/O error 103
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 705
+Scanning: 705
+I/O error 103
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #705
+I/O error 103
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1115
+Scanning: 1115
+I/O error 103
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1115
+I/O error 103
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1581
+Scanning: 1581
+I/O error 103
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1581
+I/O error 103
+++++++++++++++++++++++    ERROR #43   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 49
+Scanning: 49
+I/O error 103
+++++++++++++++++++++++    ERROR #44   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #49
+I/O error 103
+++++++++++++++++++++++    ERROR #45   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1241
+Scanning: 1241
+I/O error 103
+++++++++++++++++++++++    ERROR #46   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1241
+I/O error 103
+++++++++++++++++++++++    ERROR #47   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1502
+Scanning: 1502
+I/O error 103
+++++++++++++++++++++++    ERROR #48   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1502
+I/O error 103
+++++++++++++++++++++++    ERROR #49   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 923
+Scanning: 923
+I/O error 103
+++++++++++++++++++++++    ERROR #50   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #923
+I/O error 103
+++++++++++++++++++++++    ERROR #51   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 923
+Scanning: 923
+I/O error 103
+++++++++++++++++++++++    ERROR #52   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #923
+I/O error 103
+++++++++++++++++++++++    ERROR #53   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1552
+Scanning: 1552
+I/O error 103
+++++++++++++++++++++++    ERROR #54   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1552
+I/O error 103
+++++++++++++++++++++++    ERROR #55   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 857
+Scanning: 857
+I/O error 103
+++++++++++++++++++++++    ERROR #56   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #857
+I/O error 103
+++++++++++++++++++++++    ERROR #57   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1570
+Scanning: 1570
+I/O error 103
+++++++++++++++++++++++    ERROR #58   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1570
+I/O error 103
+++++++++++++++++++++++    ERROR #59   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 55
+Scanning: 55
+I/O error 103
+++++++++++++++++++++++    ERROR #60   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #55
+I/O error 103
+++++++++++++++++++++++    ERROR #61   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 705
+Scanning: 705
+I/O error 103
+++++++++++++++++++++++    ERROR #62   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #705
+I/O error 103
+++++++++++++++++++++++    ERROR #63   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1115
+Scanning: 1115
+I/O error 103
+++++++++++++++++++++++    ERROR #64   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1115
+I/O error 103
+++++++++++++++++++++++    ERROR #65   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1581
+Scanning: 1581
+I/O error 103
+++++++++++++++++++++++    ERROR #66   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1581
+I/O error 103
+++++++++++++++++++++++    ERROR #67   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 49
+Scanning: 49
+I/O error 103
+++++++++++++++++++++++    ERROR #68   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #49
+I/O error 103
+++++++++++++++++++++++    ERROR #69   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1241
+Scanning: 1241
+I/O error 103
+++++++++++++++++++++++    ERROR #70   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1241
+I/O error 103
+++++++++++++++++++++++    ERROR #71   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 1502
+Scanning: 1502
+I/O error 103
+++++++++++++++++++++++    ERROR #72   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #1502
+I/O error 103
+++++++++++++++++++++++    ERROR #73   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 923
+Scanning: 923
+I/O error 103
+++++++++++++++++++++++    ERROR #74   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #923
+I/O error 103
+++++++++++++++++++++++    ERROR #75   ++++++++++++++++++++++
+   Sound registry error!
+   Error scanning registry redirections
+Position: 923
+Scanning: 923
+I/O error 103
+++++++++++++++++++++++    ERROR #76   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot read member name for member #923
+I/O error 103
+++++++++++++++++++++++    ERROR #77   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot add new registry member
+I/O error 103
+++++++++++++++++++++++    ERROR #78   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot add new item object
+I/O error 103
+++++++++++++++++++++++    ERROR #79   ++++++++++++++++++++++
+   Sound registry error!
+   Cannot close registry 
+d:\desktop\list单词\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\registry\Sound
+I/O error 103
+++++++++++++++++++++++    ERROR #80   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3128
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #81   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3129
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #82   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3130
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #83   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3131
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #84   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3132
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #85   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3133
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #86   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3134
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #87   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3135
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #88   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3136
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #89   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3137
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #90   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3138
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #91   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3139
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #92   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3140
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #93   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3141
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #94   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3142
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #95   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3143
+   Use File : Repair collection
+++++++++++++++++++++++    ERROR #96   ++++++++++++++++++++++
+   Element count at #1 greater than element total
+   Descendants total: 3145
+   Collection total: 3144
+   Use File : Repair collection
+
+Process completed at 9:53:59 PM in 00:00:06 sec (Thursday, March 11, 2021)
+
+96 ERRORS (Importing from D:\Desktop\anki2sm-master\out\035.xml)
+
+____________________________________________________________

@@ -1,0 +1,35 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: c:\users\hule\nutstore\1\list\supermemo\mysupermemo
+   Date: Thursday, May 26, 2022, 6:04:27 PM
+   SuperMemo 18 (Build 18.04, Mar 6, 2020)
+
+Checking 6,450 element records (ElementInfo.dat)
+Verifying integrity of element data (6450 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Avg Topic A-Factor has been corrected from 1.58529 to 1.60253
+Verifying knowledge tree (6,450 elements in Contents.dat)
+114 children at Topic #2,746: 008
+118 children at Topic #1,593: 016
+110 children at Topic #2,345: 017
+130 children at Topic #2,007: 018
+144 children at Topic #2,421: 021
+110 children at Topic #202: 022
+Verifying the priority queue of 5,964 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 8
+   Topics reported: 13
+   Topics found:    12
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 13
+   Topics reported: 11
+   Topics found:    12
+
+Process completed at 6:04:29 PM in 00:00:02 sec (Thursday, May 26, 2022)
+
+3 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

@@ -1,0 +1,67 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\desktop\list\supermemo\mysupermemo
+   Date: Tuesday, April 13, 2021, 8:18:50 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Checking 5,364 element records (ElementInfo.dat)
+Verifying integrity of element data (5364 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Wrong deleted element count
+   Expected: 1609
+   Found:    1629
+   Last no:  5364
+   Total:    3755
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Memorized has been corrected from 864 to 843
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Topic Burden has been corrected from 21.65476 to 0.65476
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Avg Topic Reps has been corrected from 1.5 to 5
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Avg Topic Interval has been corrected from 1.75 to 7
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Avg Last Topic Rep has been corrected from 42.75 to 41
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Avg Topic A-Factor has been corrected from 1.55101 to 1.45022
+Verifying knowledge tree (5,364 elements in Contents.dat)
+114 children at Topic #2,746: 008
+118 children at Topic #1,593: 016
+110 children at Topic #2,345: 017
+130 children at Topic #2,007: 018
+144 children at Topic #2,421: 021
+110 children at Topic #202: 022
+Verifying the priority queue of 3,735 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 8
+   Topics reported: 2
+   Topics found:    0
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 11
+   Topics reported: 11
+   Topics found:    0
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 12
+   Topics reported: 7
+   Topics found:    1
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 13
+   Topics reported: 2
+   Topics found:    0
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Topic interval distribution discrepancy in category 1
+   Topics reported: 21
+   Topics found:    0
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Topic review distribution discrepancy in category 1
+   Topics reported: 21
+   Topics found:    0
+
+Process completed at 8:18:52 PM in 00:00:01 sec (Tuesday, April 13, 2021)
+
+13 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

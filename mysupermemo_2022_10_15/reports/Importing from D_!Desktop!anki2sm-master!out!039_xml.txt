@@ -1,0 +1,16 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\039.xml
+   Collection: d:\desktop\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Wednesday, March 17, 2021, 9:24:36 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #4,024: Ä¬ÈÏ
+
+Dismissing Topic #4,227: 039
+
+
+Process completed at 9:24:37 PM in 00:00:01 sec (Wednesday, March 17, 2021)
+
+NO ERRORS (Importing from D:\Desktop\anki2sm-master\out\039.xml)
+
+____________________________________________________________

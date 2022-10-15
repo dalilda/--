@@ -1,0 +1,20 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\038.xml
+   Collection: d:\desktop\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Tuesday, March 16, 2021, 11:03:26 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #5,297: Ä¬ÈÏ
+
+Dismissing Topic #3,213: 038
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Cannot open registry files
+Registry=d:\desktop\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\registry\Sound
+I/O error 32
+
+Process completed at 11:03:31 PM in 00:00:04 sec (Tuesday, March 16, 2021)
+
+ONE ERROR (Importing from D:\Desktop\anki2sm-master\out\038.xml)
+
+____________________________________________________________

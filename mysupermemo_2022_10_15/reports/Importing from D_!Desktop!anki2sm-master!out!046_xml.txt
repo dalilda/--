@@ -1,0 +1,16 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\046.xml
+   Collection: d:\desktop\list\supermemo\mysupermemo
+   Date: Tuesday, April 13, 2021, 7:03:24 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #3,403: д╛хо
+
+Dismissing Topic #3,758: 046
+
+
+Process completed at 7:03:24 PM in 00:00:00 sec (Tuesday, April 13, 2021)
+
+NO ERRORS (Importing from D:\Desktop\anki2sm-master\out\046.xml)
+
+____________________________________________________________

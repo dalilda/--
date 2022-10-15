@@ -1,0 +1,21 @@
+SuperMemo Report
+   Activity: Importing from D:\Desktop\anki2sm-master\out\043.xml
+   Collection: d:\desktop\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Monday, March 29, 2021, 12:33:32 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Dismissing Topic #3,453: Ä¬ÈÏ
+
+Dismissing Topic #4,922: 43
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Cannot swap memory data to disk
+Array size=2180
+d:\desktop\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))\info\emptyslots.dat
+I/O error 32
+
+Process completed at 12:33:37 PM in 00:00:05 sec (Monday, March 29, 2021)
+
+ONE ERROR (Importing from D:\Desktop\anki2sm-master\out\043.xml)
+
+____________________________________________________________

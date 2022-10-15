@@ -1,0 +1,25 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\desktop\listµ¥´Ê\supermemo\(((backup of test created on 2021-03-02 19-48-03)))
+   Date: Friday, March 5, 2021, 12:34:46 PM
+   SuperMemo 18 (Build 18.041hp, Mar 28, 2020)
+
+Checking 5,261 element records (ElementInfo.dat)
+Verifying integrity of element data (5261 elements in ElementInfo.dat)
+Verifying knowledge tree (5,261 elements in Contents.dat)
+114 children at Topic #2,746: 008
+118 children at Topic #1,593: 016
+110 children at Topic #2,345: 017
+130 children at Topic #2,007: 018
+144 children at Topic #2,421: 021
+110 children at Topic #202: 022
+Verifying the priority queue of 3,011 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+
+Process completed at 12:34:52 PM in 00:00:05 sec (Friday, March 5, 2021)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________
