@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>symbol</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        const banji ={
+            name:'终极一班',
+            stus:[
+                '小明',
+                '小樱',
+                '织士',
+                '小狼',
+            ],
+            // [Symbol.iterator](){
+            //     let count = -1
+            //     _this = this
+            //     return {
+            //         next:function(){
+            //             count+=1
+            //             return {
+            //                 value:_this.stus[count],
+            //                 done:count===_this.stus.length-1
+            //             }
+            //         }
+            //     }
+            // }
+
+            //
+            // [Symbol.iterator](){
+            //     let count = 0
+            //     let _this = this
+            //     return {
+            //         next:function(){
+            //             if(count<_this.stus.length){
+            //                 const result = {
+            //                     value:_this.stus[count],
+            //                     done:false
+            //                 }
+            //                 count +=1
+            //                 return result
+            //             }else{
+            //                 return {
+            //                     value:undefined,
+            //                     done:true
+            //                 }
+            //             }
+            //         }
+            //     }
+            // }
+
+
+            [Symbol.iterator](){
+                let index = 0
+                return {//这里有对象,
+                    next:()=>{//如果这里写普通函数,里面的this就指向这个对象了.如果用箭头函数,就是对象的外面
+                        if(index<this.stus.length){
+                            result = {
+                                value:this.stus[index],
+                                done:false
+                            }
+                            index +=1
+                            return result
+                        }else{
+                            return {value:undefined, done:true}
+                        }
+                    }
+                }
+            }
+        }
+        for(let v of banji){
+            console.log(v);
+        }
+
+    </script>
+</body>
+</html>

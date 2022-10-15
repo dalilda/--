@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>解构赋值</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //ES6 允许按照一定模式从数组和对象中提取值,对变量进行赋值
+        //这被称为解构赋值
+        //1.数组的解构   数组的解构赋值用[]
+        const F4 = ['hu','le','play','games']
+        let [hu,le,play,games] = F4
+        console.log(hu,le,play,games);
+
+        //2.对象的解构   对象的解构赋值用{}
+        const HULE = {
+            name:'hule',
+            age:'24',
+            gender:'male',
+            like:'games',
+            plays:function(){
+                console.log('i\'m playing games...');
+                console.log(`i'm playing football...`);
+            }
+        }
+        // let {name,age,gender,like,plays} = HULE
+        // console.log(name);
+        // console.log(age);
+        // console.log(gender);
+        // console.log(like);
+        // console.log(plays);
+        // plays()
+
+        let {plays} = HULE//可以直接这样解构获取方法,但是变量名要和对象里的方法名一样
+        plays()
+
+
+    </script>
+</body>
+</html>

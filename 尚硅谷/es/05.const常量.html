@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>const常量</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //声明常量
+        const SCHOOL = '尚硅谷'
+        //1.必须赋值
+        // const name;
+        //2.常量名大写(潜规则)
+        const NAME = 'hule'
+        //3.常量的值不能修改
+        // SCHOOL = 'A';//Assignment to constant variable.
+        //4.块级作用域
+        {
+            const AGE = 18;
+        }
+        // console.log(AGE);//AGE is not defined at 05.const常量.html:32
+        //5.对于数组,对象元素的修改,不算做对常量的修改,不会报错
+        //因为对象虽然变了,但是const定义的变量指向的地址没变
+        const ARR = [1,2,3]
+        ARR.push(3)
+        console.log(ARR);
+        // ARR = [1]//报错
+        // ARR = [1]//报错0
+    </script>
+</body>
+</html>

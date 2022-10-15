@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>模板字符串</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //ES6允许在大括号里,直接写变量和函数,作为对象的属性和方法
+        //这样书写更简洁
+        let name = '尚硅谷'
+        let change = function(){
+            console.log('我们可以改变你!');
+        }
+        //非简化写法
+        const school = {
+            name:name,//name的值是上面let定义的值
+            change:change,//change的值是上面let定义的值
+            improve:function(){
+                console.log("我们可以提高你的技能");
+            }
+
+
+        }
+        console.log(school.name)
+        console.log(school.change)
+        console.log(school.improve);
+
+        //简化写法
+        const school1 = {
+            name,//:name省略了
+            change,//:change省略了
+            improve(){//:function省略了
+                console.log('我们可以提高你的技能');
+            }
+        }
+        console.log(school1.name);
+        console.log(school1.change);
+        console.log(school1.improve)
+    </script>
+</body>
+</html>

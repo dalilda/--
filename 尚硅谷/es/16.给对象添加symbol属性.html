@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>symbol</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //给对象属性方法添加symbol,表示独一无二
+        let game = {
+            name:'俄罗斯方块',
+            up:function(){
+
+            },
+            down:function(){
+
+            }
+
+        }
+        //我们要给上面的对象加up、down方法,但是我们不知道里面有没有up、down方法
+        //或许要找好久才能知道有没有
+        //这时,可以给新加的方法加Symbol属性,表示独一无二,更安全,更高效
+
+        //声明一个对象
+        // let methods = {
+        //     up:Symbol(),
+        //     down:Symbol()
+        // }
+        // game[methods.up] = function(){
+        //     console.log('我可以改变形状');
+        // }
+        // game[methods.down] = function(){
+        //     console.log("我可以下降");
+        // }
+        // console.log(game)
+
+
+        let youxi = {
+            name:'狼人杀',
+            [Symbol('say')]:function(){
+                console.log('我可以发言');
+            },
+            [Symbol('自曝')]:function(){
+                console.log('我可以自曝');
+            }
+            //下面这种不行,因为Symbol()是个动态值,所以需要加上[]
+            // Symbol():function(){
+
+            // }
+        }
+        console.log(youxi);
+    </script>
+</body>
+</html>

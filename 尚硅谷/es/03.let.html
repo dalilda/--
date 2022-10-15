@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>let</title>
+</head>
+<body>
+    <script>
+        // //声明变量
+        // let a;
+        // let b,c,d;
+        // let e = 100;
+        // let f = 521,g = 'helloworld',h =[];
+
+        // //1.变量不能重复声明
+        // let star = 'luozhixiang';
+        // // let star = 'xiaozhu';
+
+        // //2.块儿级作用域  es5中有三种作用域 全局、函数、eval(es5里只有严格模式里有)
+        // {
+        //     // var girl = '周杨清'//var是全局作用域
+        //     let girl = '周杨清'//let是块级作用域,只能在代码块内有效. 不只是代码块if else while for 的{}也行
+        // }
+        // console.log(girl);
+
+        // //3.不存在变量提升   var定义的变量,定义前可以使用,只是值为undefined   而let定义的变量,定义前不能使用
+        // console.log(song);
+        // // var song = '恋爱达人'
+        // let song = '恋爱达人'
+
+        //4. 不影响作用域链   fn作用域内没有定义school,向上到块儿级作用域内找到了school,然后可以使用school变量
+        {
+            let school = '尚硅谷';
+            function fn(){
+                console.log(school);
+            }
+            fn()
+        }
+
+    </script>
+</body>
+</html>

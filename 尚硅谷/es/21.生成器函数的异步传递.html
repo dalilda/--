@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>生成器函数</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //声明一个生成器函数
+        function * gen(args){
+            console.log(args);
+            let one = yield 111;
+            console.log(one);
+            let two = yield 222;
+            console.log(two);
+            let three = yield 333;
+            console.log(three);
+        }
+
+        let iterator = gen('AAA');
+        console.log(iterator.next());//第一个next对应第一个yield,它的next中的参数没用,因为没有前一个yield
+        //next函数也可以有参数,该参数值就是上一个yield的返回结果
+        console.log(iterator.next('ccc'));//前一个yield的返回值为'ccc'
+        console.log(iterator.next('ddd'));
+        console.log(iterator.next('eee'));
+
+    </script>
+</body>
+</html>

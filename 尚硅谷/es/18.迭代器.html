@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>symbol</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        const arr = ['周','吴','郑','王']
+        // for...in 是keys
+        for (let v in arr){
+            console.log(v);
+        }
+        // for...of 是values
+        for (let v of arr){
+            console.log(v);
+        }
+
+        // Array里有Symblo.iterator属性,所以能用for...of遍历值
+        let iterator = arr[Symbol.iterator]()
+        console.log(iterator);
+        console.log(iterator.next());//是个对象,有值和done属性
+        console.log(iterator.next());
+        console.log(iterator.next());
+        console.log(iterator.next());
+        console.log(iterator.next());
+        console.log(iterator.next());
+
+    </script>
+</body>
+</html>

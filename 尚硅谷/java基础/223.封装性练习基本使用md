@@ -1,0 +1,9 @@
+1. 私有化的属性和方法是 为 暴露出去的东西 服务的
+
+
+1.set就是set get就是get
+不要把set get合一块写个这样的方法
+public int doAge(int a){
+    age = a;
+    return age;
+}

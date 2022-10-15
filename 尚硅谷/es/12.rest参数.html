@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>模板字符串</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //ES5获取函数实参的方式
+        // function date(){
+        //     console.log(arguments);//args是对象
+        // }
+        // date('白芷','阿娇','思慧')
+
+        //ES6使用rest参数获取实参的方式
+        function date(...args){
+            console.log(args);//args是数组(_proto_中constructor是Array),可以使用filter some every map等方法
+        }
+        date('白芷','阿娇','思慧')//
+
+        //rest参数必须放在最后
+        function fn(a,b,...args){
+            console.log(a);
+            console.log(b);
+            console.log(args);
+        }
+        fn(1,2,3,4,5,6)
+
+    </script>
+</body>
+</html>

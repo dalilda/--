@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>生成器函数</title>
+    <style>
+        .container .item {
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+
+<body>
+    <script>
+        //Promise是异步编程的新解决方法  io  文件、数据库、网络请求
+        //回调地狱
+        // setTimeout(() => {
+        //     console.log(111);
+        //     setTimeout(() => {
+        //         console.log(222);
+        //         setTimeout(() => {
+        //             console.log(333);
+        //         }, 3000)
+        //     }, 2000)
+        // }, 1000)
+
+        //实例化一个Promise对象
+        const p = new Promise(function(resolve,reject){//2. 两个形参名字可随便写,潜规则是resolve,reject
+            //3. 里面封装了异步操作
+            setTimeout(function(){
+                //文件读取、数据库读取、接口读取...获取数据
+                // let data = '数据库中的用户数据';
+                // //得到数据以后,可以调用resolve,reject函数来改变Promise对象的状态
+                // resolve(data);//调完resolve函数后,Promise状态变成成功,(Promise有三种状态,初始化,成功,失败)
+
+                let err ="数据读取失败";
+                reject(err)//调完reject函数后,Promise状态变成失败,then方法中就会执行第二个回调方法
+            },1000)
+        });//1. 实例化代码,实例化时接收一个参数,这个参数是个函数类型的值,而且函数有两个形参
+
+        //调用Promise对象的then方法,then方法接收两个参数,两个参数都是函数类型的值,每个函数都有一个形参
+        //成功的形参一般叫value,失败的形参一般叫reason
+        p.then(function(value){//只要前面调用了resolve方法,then方法就会执行第一个回调方法
+            console.log(value);
+        },function(reason){//只要前面调用了reject方法,then方法中就会执行第二个回调方法
+            console.log(reason);
+        })
+
+    </script>
+</body>
+
+</html>

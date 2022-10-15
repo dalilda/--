@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>生成器函数</title>
+    <style>
+        .container .item {
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+
+<body>
+    <script>
+        //异步编程  js是异步单线程的  文件操作  网络操作ajax 爬虫 request也是异步的 数据库操作也是异步的
+        //定时器异步 1s后输出111 2s后输出222 3s后输出333
+        //回调地狱
+        // setTimeout(() => {
+        //     console.log(111);
+        //     setTimeout(() => {
+        //         console.log(222);
+        //         setTimeout(() => {
+        //             console.log(333);
+        //         }, 3000)
+        //     }, 2000)
+        // }, 1000)
+        function one(){
+            setTimeout(()=>{
+                console.log(111);
+                iterator.next();
+            },1000)
+        }
+        function two(){
+            setTimeout(()=>{
+                console.log(222);
+                iterator.next();
+            },2000)
+        }
+        function three(){
+            setTimeout(()=>{
+                console.log(333);
+                iterator.next();
+            },3000)
+        }
+        function * gen(){
+            yield one();
+            yield two();
+            yield three();
+        }
+        let iterator  = gen();
+        iterator.next();
+        // iterator.next();如果这样写,而不是在函数调用iterator.next();相隔时间是1s因为2s-1s=1s  3s-2s = 1s
+        // iterator.next();
+
+
+    </script>
+</body>
+
+</html>

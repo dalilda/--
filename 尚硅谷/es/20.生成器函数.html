@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>生成器函数</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //生成器就是一个特殊的函数
+        //异步编程  纯回调函数  node fs ajax  mongodb  回调地狱
+        function * gen(){
+            // console.log(111);
+            yield "row 1"
+            // console.log(222);
+            yield "row 2"
+            // console.log(333);
+            yield "row 3"
+            // console.log(444);
+        }
+        let iterator = gen();
+        console.log(iterator.next())
+        console.log(iterator.next())
+        console.log(iterator.next())
+        console.log(iterator.next())
+
+        for(let v of iterator){
+            console.log(v);
+        }
+
+    </script>
+</body>
+</html>

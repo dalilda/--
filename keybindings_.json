@@ -1,0 +1,126 @@
+// 将键绑定放在此文件中以覆盖默认值auto[]
+[
+    {
+        "key": "ctrl+shift+v",
+        "command": "-markdown.showPreview",
+        "when": "!notebookEditorFocused && editorLangId == 'markdown'"
+    },
+    {
+        "key": "ctrl+shift+v",
+        "command": "markdown-image.paste",
+        "when": "editorLangId == 'markdown' || editorLangId == 'mdx' || resourceExtname == '.ipynb'"
+    },
+    {
+        "key": "shift+alt+v",
+        "command": "-markdown-image.paste",
+        "when": "editorLangId == 'markdown' || editorLangId == 'mdx' || resourceExtname == '.ipynb'"
+    },
+    {
+        "key": "alt+enter",
+        "command": "editor.action.triggerSuggest",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+space",
+        "command": "-editor.action.triggerSuggest",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+i",
+        "command": "cursorUp",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+l",
+        "command": "cursorRight",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+j",
+        "command": "cursorLeft",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+k",
+        "command": "cursorDown",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    // {
+    //     "key": "alt+,",
+    //     "command": "cursorLeft",
+    //     "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    // },
+    {
+        "key": "alt+,",
+        "command": "cursorHome",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+m",
+        "command": "markdown.extension.onBackspaceKey",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+/",
+        "command": "deleteRight",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    // {
+    //     "key": "alt+z",
+    //     "command": "undo",
+    //     "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    // },    
+    // {
+    //     "key": "alt+z",
+    //     "command": "redo",
+    //     "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    // },  
+    
+    // {
+    //     "key": "alt+.",
+    //     "command": "cursorRight",
+    //     "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    // },
+    {
+        "key": "alt+;",
+        "command": "cursorRight",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+.",
+        "command": "cursorEnd",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    
+    // {
+    //     //a )->a)  光标从)左边移动到)右边
+    //     "key": "shift+;",
+    //     // "command": "cursorRight",
+    //     "command": "macros.enter_cursorRight",
+    //     "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    // },
+    {
+        //用户代码片段
+        // "key": "tab",
+        "key":"alt+k",
+        "command": "selectNextSuggestion",
+        "when": "editorTextFocus && suggestWidgetMultipleSuggestions && suggestWidgetVisible"
+    },
+    {
+        //用户代码片段
+        // "key": "shift+tab",
+        "key":"alt+i",
+        "command": "selectPrevSuggestion",
+        "when": "editorTextFocus && suggestWidgetMultipleSuggestions && suggestWidgetVisible"
+    },
+    // {
+    //     "key": ";",
+    //     "command": "acceptSelectedSuggestion",
+    //     // "when":"acceptSuggestionOnEnter && suggestWidgetVisible && suggestionMakesTextEdit && textInputFocus"
+    //     "when":"suggestWidgetVisible && suggestionMakesTextEdit && textInputFocus"
+        
+    // },
+    
+ 
+
+]

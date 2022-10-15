@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>扩展运算符</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //扩展运算符也是...和rest参数一样
+        //扩展运算符能将 数组  转换成逗号分隔的 参数序列
+        const tfboys = ['易烊千玺','王源','王俊凯']//=>'易烊千玺','王源','王俊凯'
+        //声明一个函数
+        function chunwan(){
+            console.log(arguments);
+        }
+        chunwan(tfboys)
+        chunwan(...tfboys)//chunwan('易烊千玺','王源','王俊凯')
+        //rest参数的...是放在函数声明的形参那里
+        //扩展运算符的...此时是放在函数的调用的实参那里
+
+    </script>
+</body>
+</html>

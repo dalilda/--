@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>模板字符串</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <script>
+        //ES6引入新的声明字符串的方式 ``  ''  ""
+        //1.声明
+        let str = '我也是个字符串'
+        console.log(str);
+
+        //2.特点一:可以换行
+        let str2 = `<ul>
+                        <li>SHE</li>
+                        <li>周杰伦</li>
+                        <li>许嵩</li>
+                        <li>伍佰</li>
+                    </ul>`
+        console.log(str2);
+        //3.特点二:可以和变量拼接
+        let name = 'hule'
+        let str3 = `我的名字是${name}.你的名字是?`
+        console.log(str3);
+    </script>
+</body>
+</html>

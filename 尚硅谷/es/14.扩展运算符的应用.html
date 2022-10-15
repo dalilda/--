@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>扩展运算符的应用</title>
+    <style>
+        .container .item{
+            float: left;
+            height: 100px;
+            width: 100px;
+            border: 1px solid blue;
+        }
+    </style>
+
+</head>
+<body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <script>
+        //1.数组的合并
+        // const kuaizi = ['王太利','肖央']
+        // const fenghuang = ['曾毅','玲花']
+        // // const zuixuanxiaopingguo = kuaizi.concat(fenghuang)
+        // const zuixuanxiaopingguo = [...kuaizi,...fenghuang]
+        // console.log(zuixuanxiaopingguo);
+
+        //2.数组的克隆
+        // const sanzhihua = ['E','G','M']
+        // const sanyecao = [...sanzhihua]//是浅拷贝
+        // console.log(sanyecao);
+
+        //3.将伪数组转为真正的数组
+        const div = document.querySelectorAll('div');
+        console.log(div);//__proto__是Object
+        const arr = [...div]
+        console.log(arr);//__proto__是Array
+    </script>
+</body>
+</html>

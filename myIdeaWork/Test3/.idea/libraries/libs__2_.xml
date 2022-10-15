@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/pro06-jdbc-batch-datasource/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/pro06-jdbc-batch-datasource/lib" recursive="false" />
+  </library>
+</component>
