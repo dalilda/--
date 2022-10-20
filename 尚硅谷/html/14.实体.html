@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>实体</title>
+</head>
+<body>
+    <!--
+        在网页中多个空格会被解析成一个空格
+        在html中有些时候,我们不能直接书写一些特殊符号
+            比如,多个连续空格,比如字母两侧的大于小于号
+        如果我们需要在网页中书写这些特殊的符号,则需要使用html中的实体(转义字符)
+        实体的语法:
+            &实体的名字;
+            &nbsp;  空格nobreaklinespace
+            &gt;    大于greaterthan
+            &lt;    小于lessthan
+            &copy;  版权符号
+        需要使用的时候去w3cschool中查找
+    -->
+    <p>今天&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天气真不错</p>
+    <p>
+        a<b>c <br>
+        a&gt;b&lt;c
+    </p>
+</body>
+</html>
