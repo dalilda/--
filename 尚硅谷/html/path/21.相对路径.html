@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 超链接跳转到内部页面时,使用相对路径 -->
+    <!-- 相对路径以.或..开头
+            当前目录:./
+            上一层目录:../
+        ./可以省略不写,不写时默认是当前目录
+    -->
+    <a href="target.html">target</a>
+    <a href="./target.html">还是target</a>
+
+    <!-- ../ -->
+    <a href="../20.超链接简介.html">超链接简介</a>
+
+    <a href="./inner/innertarget.html">inner</a>
+    <a href="../outer/outerTarget.html">outer</a>
+</body>
+</html>
