@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <style>
+        /* 内联样式默认设置给当前的标签 */
+        /* 在style标签里直接写样式,不知道是给哪个标签写的,所以我们要先写CSS选择器 */
+        p {
+            font-size: 48;
+            color: green;
+            }
+    </style> -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <!-- CSS使用方式:
+        方式一(内联样式/行内样式):
+            - 使用style属性来设置元素的样式
+            - 问题:
+                只能对一个标签生效,如果希望影响到多个元素,必须到每个元素中复制一遍,
+                样式发生变化时,必须要到每个元素中修改,维护起来很麻烦
+            - 注意:
+                开发时一定不要使用内联样式
+        方式二(内部样式表):
+            - 在head标签的style标签里写样式
+                通过CSS选择器,选中元素,编写样式
+                可以同时为多个元素设置样式,修改时只用修改一次
+        方式三(外部样式表):  最推荐使用
+            - 可以将CSS样式编写到一个外部的CSS文件中(名字不重要,必须是.css的)
+                然后通过link标签引入外部的CSS文件
+            - 外部样式表需要通过link标签进行引入,意味着想使用该样式的网页都能引入
+                使样式可以在多个页面中复用
+            - 将样式编写到外部的CSS文件中,可以使用到浏览器的缓存机制,
+                从而加快网页的加载速度,提高用户的体验
+    -->
+    <!-- <p style="font-size:80px; color:bisque;">少小离家老大回,乡音无改鬓毛衰</p> -->
+    <p>落霞与孤鹜齐飞,秋水共长天一色</p>
+    <p>落霞与孤鹜齐飞,秋水共长天一色</p>
+    <p>落霞与孤鹜齐飞,秋水共长天一色</p>
+</body>
+
+</html>
