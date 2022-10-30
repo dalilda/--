@@ -1,0 +1,6 @@
+        A
+    B               D
+C             E             G
+                F       H
+                      I   J
+CBFEIJHGDA
