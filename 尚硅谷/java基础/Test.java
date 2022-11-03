@@ -4,8 +4,10 @@ import java.util.HashSet;
 
 class Test{
     public static void main(String[] args) {
-        System.out.println(100%3);
-        System.out.println(100%3.0);
+        String a = new String("20");
+        String b = new String("20");
+        System.out.println(a+Character.MIN_VALUE+"|");
+        System.out.println(System.currentTimeMillis());
     }
 }
 
