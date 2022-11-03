@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 普通的html标签选择器 */
+        /* p{
+            color:aqua;
+        } */
+
+        /* id选择器 */
+        #line1{
+            color:red;
+        }
+
+        /* 类选择器 */
+        .blue{
+            color:blue;
+        }
+        .small{
+            font-size:small;
+        }
+
+        /* 通配选择器 */
+        *{
+            font-size: 40px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>静夜思</h1>
+    <!-- 一个id只能属于一个元素  -->
+    <!-- 一个元素只能有一个id  -->
+    <!-- id和元素是一对一的关系 -->
+    <p id="line1">床前明月光</p>
+    <p class="blue">疑是地上霜</p>
+    <p id="line3">举头望明月</p>
+    <!--
+    可以一个类对应多个元素
+    可以一个元素属于多个类
+    元素和类是多对多的关系
+    类class也可以翻译成班级
+    -->
+    <p class="blue small">低头思故乡</p>
+</body>
+</html>

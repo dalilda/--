@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /*仅修改div元素  */
+        div{
+            font-family: 'Courier New', Courier, monospace;
+        }
+        /* 
+            交集选择器
+            作用:选中同时符合多种条件的元素
+            用法:选择器1选择器2选择器3选择器n{}
+            注意点:如果有元素选择器,元素选择器要放在第一个位置
+        */
+        /* 修改属于div元素且属于类red的元素 */
+        div.red{
+            color:red;
+        }
+        /* 修改属于类a且属于类b且属于类的元素 */
+        .a.b.c{
+            font-size: 40px;
+        }
+        /* div#box1{}这种用法不推荐,语法没错,但是#box1就能唯一确定了 */
+
+        /* 
+            并集选择器
+            作用:同时选择多个选择器对应的元素
+            语法:选择器1,选择器2,选择器3,选择器n
+            #b1,.p1,h1,span,div.red,.a.b,
+            这里的选择器可以是元素选择器,类选择器,id选择器,交集选择器..
+         */
+        h1,span{
+            color:green;
+        }
+    </style>
+</head>
+<body>
+    <div>我是div</div>
+    <p>我是p</p>
+    <div class="red a b c">我是第二个div</div>
+    <h1>我是标题</h1>
+    <span>我是文本</span>
+</body>
+</html>
