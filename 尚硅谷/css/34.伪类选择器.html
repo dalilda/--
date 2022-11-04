@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 定义: */
+        /* ul > li:first-child{
+            color:red;
+        } */
+        /* ul > li:last-child{
+            color:red;
+        } */
+        /* ul > li:nth-child(4n+1){
+            color:red;
+        } */
+
+
+        /* ul > li:first-of-type{
+            color:red;
+        } */
+        /* ul > li:last-of-type{
+            color:blue;
+        } */
+        /* ul > li:nth-of-type(3n){
+            color:bisque;
+        } */
+
+        ul > li:not(:nth-of-type(3)){
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <span>span</span>
+        <li>第1个</li>
+        <li>第2个</li>
+        <li>第3个</li>
+        <li>第4个</li>
+        <li>第5个</li>
+    </ul>
+</body>
+</html>
