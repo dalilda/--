@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 选出含有某属性的元素,设置样式 */
+        [title]{
+            color:blue;
+        }
+        /* 属性名为title,属性值为abc */
+        [title="abc"]{
+            color:orange;
+        }
+        /* 属性名为title,属性值以a开头 */
+        [title^="a"]{
+            color:bisque;
+        }
+        /* 属性名为title,属性值以bc结尾 */
+        [title$="bc"]{
+            color:blueviolet;
+        }
+        /* 属性名为title,属性值中有b */
+        [title*="b"]{
+            color:chartreuse;
+        }
+    </style>
+</head>
+<body>
+    <h1 title="abc">静夜思</h1>
+
+    <p >床前明月光</p>
+    <p >疑是地上霜</p>
+    <p >举头望明月</p>
+    <p >低头思故乡</p>
+</body>
+</html>

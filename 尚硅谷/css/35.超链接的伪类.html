@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* link表示没访问过的链接,正常的链接 */
+        a:link{
+            color:blueviolet;
+            font-size: 40px;
+        }
+        
+        /* 由于隐私问题,访问过的元素,只能改颜色,不能改样式 */
+        a:visited{
+            color:coral;
+        }
+        /* 表示鼠标移入的状态 */
+        a:hover{
+            color:green;
+        }
+        /* 表示激活,就是鼠标点击还没放开的状态 */
+        a:active{
+            color:bisque;
+        }
+    </style>
+</head>
+<body>
+    <!-- 
+        伪类用来描述状态
+            超链接的状态: 普通、悬浮、点击、访问过
+    
+    -->
+    <a href="https://www.baidu.com">百度</a>
+    <a href="https://www.baidu123.com">百度123</a>
+</body>
+</html>

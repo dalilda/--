@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 
+            需求:首字母下沉,我们可以手动给首字母加span标签,设置样式
+                但是每写一段就是要设置一次,而且前面的文字改了也要重新设置
+            所以我们有元素这个需求,但是不想真的自己加元素标签,这就诞生了伪元素
+        */
+        p{
+            font-size: 20px;
+        }
+        span{
+            font-size:40px;
+        }
+        /* 
+            伪元素: 表示页面中一些特殊的并不真实存在的元素(特殊的位置)
+                伪元素以::开头
+                ::first-letter 表示第一个字符
+                ::first-line 表示第一行
+                ::selection 表示选中的内容
+        */
+        p::first-letter{
+            font-size:50px;
+        }
+        p::first-line{
+            background-color: yellow;
+        }
+        p::selection{
+            background-color: cadetblue;
+        }
+
+        /* 
+            before表示div前面的空间,
+            after表示div后面的空间
+            必须结合content样式属性来设置值
+            这些值不能被选中
+        */
+        div::before{
+            content: "『";
+            color:red;
+        }
+        div::after{
+            content:"』";
+            color:red;
+        }
+        
+    </style>
+</head>
+<body>
+    <div>Hello world!</div>
+    <p>
+        <span>L</span>orem ipsum dolor sit amet consectetur adipisicing elit. Rem natus est dolorem sit iure dolorum illum cum nobis, nesciunt temporibus nostrum facere enim totam blanditiis maxime velit quidem. Dolores, quam!
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magni, repellendus aliquid eveniet pariatur tenetur! Eos numquam rerum saepe dolores qui temporibus odit. Ut ullam exercitationem doloremque! Neque, accusamus? Saepe.
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magni, repellendus aliquid eveniet pariatur tenetur! Eos numquam rerum saepe dolores qui temporibus odit. Ut ullam exercitationem doloremque! Neque, accusamus? Saepe.
+    </p>
+    <!-- q短引用的“”效果就是用::before ::after做的 -->
+    <q>哈哈</q>
+</body>
+</html>

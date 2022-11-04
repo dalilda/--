@@ -6,13 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        /* 定义: */
+        /* 
+            伪类定义: 
+                - 用来描述元素的特殊状态
+                    比如: 第一个子元素、被点击的元素、鼠标移入的元素...
+                (
+                    我们可以手动给这些特殊的元素加类,再选择,但是状态一变就没有用了
+                    比如: 我们给第一个子元素加了一个类first,把该子元素pop掉以后,
+                          原来的第二个子元素样式仍然不变 )
+                - 伪类都以:开头
+                    :first-child
+                    :last-child
+                    :nth-child(1)
+                    :nth-child(n)
+                    :nth-child(2n)
+                    :nth-child(n+3)
+                    :nth-child(2n+1)
+
+                    :first-of-type
+                    :last-of-type
+                    :nth-of-type(1)
+                    :nth-of-type(n)
+                    :nth-of-type(3n+1)
+
+                    :not()
+                - 注意:
+                    li :nth-child(3)选的是后代选择器,是li里面的第3个元素
+                    li:nth-child(3)选的就是li元素,是第3个li元素
+                    child系列都是从依据所有的子元素进行排序
+                    of-type系列都是依据同类的子元素进行排序
+
+        */
         /* ul > li:first-child{
             color:red;
         } */
         /* ul > li:last-child{
             color:red;
         } */
+        /* +1表示从第一个开始算,4n表示开始算之后每4个取一次 */
         /* ul > li:nth-child(4n+1){
             color:red;
         } */
