@@ -10,7 +10,10 @@ class Test{
         System.out.println(a.equals(b));
         // System.out.println(a+Character.MIN_VALUE+"|");
         // System.out.println(System.currentTimeMillis());
-        Integer.parseInt(b)
+        Integer.parseInt(b);
+        int a1 = 13;
+        int b2 = 14;
+        System.out.println(0^0);
     }
 }
 
