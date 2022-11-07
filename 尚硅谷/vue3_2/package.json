@@ -20,5 +20,10 @@
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.2"
+  },
+  "dependencies": {
+    "ol": "^7.1.0",
+    "ol-ext": "^4.0.3",
+    "vue-router": "^4.1.6"
   }
 }
