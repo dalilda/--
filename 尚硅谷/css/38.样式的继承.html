@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            font-size: 40px;
+        }
+        /* 给一个元素设置样式,它的后代也会继承同样的样式,减少声明次数
+           
+           有些样式不能被继承,比如背景图片和布局相关的样式
+        */
+        p{
+            color:red;
+            background-color: orange;
+            /* span和em中没有继承 背景颜色,它们的背景颜色是默认的透明 */
+        }
+    </style>
+</head>
+<body>
+    <p>
+        我是p
+        <span>
+            我是p中的span
+            <em>我是span中的em</em>
+            <div>
+                我是span中的div,不变颜色,是因为p中不能放块元素
+            </div>
+        </span>
+    </p>
+    <span>我是p外的span</span>
+</body>
+</html>
