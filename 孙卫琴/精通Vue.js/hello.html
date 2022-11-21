@@ -9,13 +9,14 @@
 </head>
 <body>
     <div id="app">
+        <!-- 视图 -->
         <p>{{message}}</p>
     </div>
     <script>
         const app = Vue.createApp({
             data(){
                 return{
-                    message:'一起学习Vue开发!'//模型数据
+                    message:'一起学习Vue开发!'//模型
                 }
             }
         })
@@ -24,3 +25,18 @@
     </script>
 </body>
 </html>
+<!-- 
+视图-模型视图-模型
+const app: 应用实例
+createApp({}): 创建 应用实例
+{
+data(){
+                return{
+                    message:'一起学习Vue开发!'//模型数据
+                }
+            }：设置根组件中的data选项
+}: 根组件
+createApp({...}): 利用根组件创建应用实例
+
+app.mount(): 创建根组件实例
+ -->
