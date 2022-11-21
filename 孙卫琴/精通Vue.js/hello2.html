@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue范例</title>
+    <script src="vue.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <!-- 视图 -->
+        <p>{{message}}</p>
+    </div>
+    <script>
+        const rootComponent = {
+            data() {
+                return {
+                    message: '一起学习Vue开发!'//模型
+                }
+            }
+        }
+
+        const app = Vue.createApp(rootComponent)
+        // 视图模型
+        const vm = app.mount('#app')
+    </script>
+</body>
+
+</html>
+<!-- 
+视图-模型视图-模型
+const app: 应用实例
+createApp({rootComponent}): 利用根组件创建应用实例
+根组件:
+{
+    设置根组件中的data选项:
+    data(){
+        return{
+            message:'一起学习Vue开发!'//模型数据
+        }
+    }
+}
+
+app.mount('#app'): 创建根组件实例
+ -->
