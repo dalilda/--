@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="vue.js"></script>
+</head>
+<body>
+    <!-- 这一行不能用p标签 -->
+    <div id="app">
+        <input type="text" v-model="message">
+        <div>{{message}}</div>
+    </div>
+    <script>
+        const vm = Vue.createApp({
+            data(){
+                return {
+                    message:'lala'
+                }
+            }
+        }).mount('#app')
+    </script>
+</body>
+</html>
+<!-- 
+    双向绑定:
+    1.输入框输入,模型中message值改变
+    2.模型message值改变后,{{message}}插值表达式的值改变
+
+    主动改变模型message的值,input输入框中的值也随着改变
+    做法:
+        chrome浏览器中,按f12打开控制台,输入vm.message = "kiki" 按回车
+        发现输入框中的值变为kiki
+
+ -->
