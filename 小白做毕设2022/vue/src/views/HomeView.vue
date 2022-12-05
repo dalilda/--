@@ -70,7 +70,7 @@
 
       <el-container>
         <el-header style=" font-size: 12px;border-bottom: 1px solid #ccc;line-height: 60px;display:flex;">
-          <div style="flex:1;font-size:18px;">
+          <div style="flex:1;font-size:20px;">
             <span :class="collapseBtnClass" style="cursor: pointer" @click="collapse"></span>
           </div>
           <el-dropdown style="cursor:pointer">
