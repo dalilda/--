@@ -1,11 +1,12 @@
 <template>
     <el-container style="height: 100vh; ">
-      <el-aside width="200px" style="background-color: rgb(238, 241, 246); " >
+      <el-aside :width="sideWidth+'px'" style="background-color: rgb(238, 241, 246); " >
         <el-menu :default-openeds="['1', '3']" style="min-height:100%;overflow-x: hidden;"
         background-color="rgb(48,65,86"
         text-color="#fff"
         active-text-color="#ffd04b"
-        >
+        :collapse-transition="false"
+        :collapse="isCollapse">
           <el-submenu index="1">
             <template slot="title"><i class="el-icon-message"></i>导航一</template>
             <el-menu-item-group>
@@ -55,16 +56,18 @@
       </el-aside>
 
       <el-container>
-        <el-header style="text-align: right; font-size: 12px;border-bottom: 1px solid #ccc;line-height: 60px;">
-          <el-dropdown>
-            <i class="el-icon-setting" style="margin-right: 15px"></i>
+        <el-header style=" font-size: 12px;border-bottom: 1px solid #ccc;line-height: 60px;display:flex;">
+          <div style="flex:1;font-size:18px;">
+            <span :class="collapseBtnClass" style="cursor: pointer" @click="collapse"></span>
+          </div>
+          <el-dropdown style="cursor:pointer">
+            <span>王小虎</span><i class="el-icon-arrow-down" style="margin-left:5px"></i>
             <el-dropdown-menu slot="dropdown">
-              <el-dropdown-item>查看</el-dropdown-item>
-              <el-dropdown-item>新增</el-dropdown-item>
-              <el-dropdown-item>删除</el-dropdown-item>
-            </el-dropdown-menu>
+              <el-dropdown-item>个人信息</el-dropdown-item>
+              <el-dropdown-item>退出</el-dropdown-item>
+             </el-dropdown-menu>
           </el-dropdown>
-          <span>王小虎</span>
+
         </el-header>
 
         <el-main>
@@ -98,7 +101,18 @@ export default {
     };
     return {
       tableData: Array(10).fill(item),
-      msg:"hello"
+      msg:"hello",
+      collapseBtnClass: 'el-icon-s-fold',
+      isCollapse:false,
+      sideWidth:200
+    }
+  },
+  methods:{
+    collapse(){
+      this.isCollapse = !this.isCollapse;
+      if(this.isCollapse){
+        this.sideWidth = 64
+      }
     }
   }
 }
