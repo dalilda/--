@@ -7,6 +7,10 @@
         active-text-color="#ffd04b"
         :collapse-transition="false"
         :collapse="isCollapse">
+          <div style="height:60px;line-height: 60px;text-align:center;">
+            <img src="../assets/logo.png" alt="" style="width:20px;position:relative;top:3px;margin-right: 5px;">
+            <b style="color:white" v-show="logoTextShow">后台管理系统</b>
+          </div>
           <el-submenu index="1">
             <template slot="title">
               <i class="el-icon-message"></i>
@@ -113,7 +117,8 @@ export default {
       msg:"hello",
       collapseBtnClass: 'el-icon-s-fold',
       isCollapse:false,
-      sideWidth:200
+      sideWidth:200,
+      logoTextShow:true
     }
   },
   methods:{
@@ -122,9 +127,11 @@ export default {
       if(this.isCollapse){
         this.sideWidth = 64
         this.collapseBtnClass = 'el-icon-s-unfold'
+        this.logoTextShow = false
       }else{
         this.sideWidth = 200
         this.collapseBtnClass = 'el-icon-s-fold'
+        this.logoTextShow = true
       }
     }
   }
