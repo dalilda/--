@@ -121,8 +121,10 @@ export default {
       this.isCollapse = !this.isCollapse;
       if(this.isCollapse){
         this.sideWidth = 64
+        this.collapseBtnClass = 'el-icon-s-unfold'
       }else{
         this.sideWidth = 200
+        this.collapseBtnClass = 'el-icon-s-fold'
       }
     }
   }
