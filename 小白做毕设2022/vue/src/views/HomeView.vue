@@ -84,13 +84,13 @@
         </el-header>
 
         <el-main>
-          <div style="padding: 10px 0">
+          <div style="margin: 10px 0">
             <el-input style="width:200px" suffix-icon="el-icon-search" placeholder="请输入名称"></el-input>
             <el-input style="width:200px" suffix-icon="el-icon-message" placeholder="请输入邮箱" class="ml-5"></el-input>
             <el-input style="width:200px" suffix-icon="el-icon-position" placeholder="请输入地址" class="ml-5"></el-input>
             <el-button class="ml-5" type="primary">搜索</el-button>
           </div>
-          <div class="pd-10">
+          <div class="mn-10">
             <el-button type="primary">新增</el-button>
           </div>
           <el-table :data="tableData" border strip :header-cell-class-name="headerBg">
