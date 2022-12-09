@@ -84,7 +84,13 @@
         </el-header>
 
         <el-main>
-          <el-table :data="tableData">
+          <div style="padding: 10px 0">
+            <el-input style="width:200px" suffix-icon="el-icon-search" placeholder="请输入名称"></el-input>
+            <el-input style="width:200px" suffix-icon="el-icon-message" placeholder="请输入邮箱" class="ml-5"></el-input>
+            <el-input style="width:200px" suffix-icon="el-icon-position" placeholder="请输入地址" class="ml-5"></el-input>
+            <el-button class="ml-5" type="primary">搜索</el-button>
+          </div>
+          <el-table :data="tableData" border strip :header-cell-class-name="headerBg">
             <el-table-column prop="date" label="日期" width="140">
             </el-table-column>
             <el-table-column prop="name" label="姓名" width="120">
@@ -92,6 +98,15 @@
             <el-table-column prop="address" label="地址">
             </el-table-column>
           </el-table>
+          <div style="padding: 10px 0">
+            <el-pagination
+
+                :page-sizes="[5, 10, 15, 20]"
+                :page-size="10"
+                layout="total, sizes, prev, pager, next, jumper"
+                :total="400">
+            </el-pagination>
+          </div>
         </el-main>
       </el-container>
     </el-container>
@@ -118,7 +133,9 @@ export default {
       collapseBtnClass: 'el-icon-s-fold',
       isCollapse:false,
       sideWidth:200,
-      logoTextShow:true
+      logoTextShow:true,
+      headerBg:"headerBg"
+
     }
   },
   methods:{
@@ -137,3 +154,8 @@ export default {
   }
 }
 </script>
+<style>
+.headerBg{
+  background:#eee  !important;
+}
+</style>
