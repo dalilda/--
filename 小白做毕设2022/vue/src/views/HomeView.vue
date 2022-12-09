@@ -91,7 +91,10 @@
             <el-button class="ml-5" type="primary">搜索</el-button>
           </div>
           <div class="mn-10">
-            <el-button type="primary">新增</el-button>
+            <el-button type="primary">新增<i class="el-icon-circle-plus-outline"></i></el-button>
+            <el-button type="danger">批量删除<i class="el-icon-remove-outline"></i></el-button>
+            <el-button type="primary">导入<i class="el-icon-bottom"></i></el-button>
+            <el-button type="primary">导出<i class="el-icon-top"></i></el-button>
           </div>
           <el-table :data="tableData" border strip :header-cell-class-name="headerBg">
             <el-table-column prop="date" label="日期" width="140">
@@ -99,6 +102,12 @@
             <el-table-column prop="name" label="姓名" width="120">
             </el-table-column>
             <el-table-column prop="address" label="地址">
+            </el-table-column>
+            <el-table-column label="操作">
+              <template slot-scope="scope">
+                <el-button type="success">编辑<i class="el-icon-edit-outline"></i></el-button>
+                <el-button type="danger">删除<i class="el-icon-delete"></i></el-button>
+              </template>
             </el-table-column>
           </el-table>
           <div style="padding: 10px 0">
