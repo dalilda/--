@@ -90,6 +90,9 @@
             <el-input style="width:200px" suffix-icon="el-icon-position" placeholder="请输入地址" class="ml-5"></el-input>
             <el-button class="ml-5" type="primary">搜索</el-button>
           </div>
+          <div class="pd-10">
+            <el-button type="primary">新增</el-button>
+          </div>
           <el-table :data="tableData" border strip :header-cell-class-name="headerBg">
             <el-table-column prop="date" label="日期" width="140">
             </el-table-column>
