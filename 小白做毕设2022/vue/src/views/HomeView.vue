@@ -65,7 +65,13 @@
 
         </el-header>
 
-        <el-main>
+        <el-main class="mn-10">
+          <div>
+            <el-breadcrumb separator="/">
+              <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
+              <el-breadcrumb-item>用户管理</el-breadcrumb-item>
+            </el-breadcrumb>
+          </div>
           <div style="margin: 10px 0">
             <el-input style="width:200px" suffix-icon="el-icon-search" placeholder="请输入名称"></el-input>
             <el-input style="width:200px" suffix-icon="el-icon-message" placeholder="请输入邮箱" class="ml-5"></el-input>
