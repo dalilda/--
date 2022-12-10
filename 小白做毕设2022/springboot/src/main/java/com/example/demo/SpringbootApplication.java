@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import com.example.demo.entity.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,6 +16,8 @@ public class SpringbootApplication {
 
     @GetMapping("/")
     public String index(){
+        User user = new User();
+        user.setId(1);
         return "ok";
     }
 }
